@@ -1,0 +1,42 @@
+
+<?php
+$y = 0;
+for ($x = 0; $x<=8; $x++)
+{
+$y++;
+if ($y < 10)
+{
+$b1 = "B00".$y;
+$b2 = "B00".$y;
+$b3 = "B00".$y;
+$b4 = "B00".$y;
+$b5 = "B00".$y;
+$b6 = "B00".$y;
+$b7 = "B00".$y;
+$b8 = "B00".$y;
+}
+else
+{
+$b1 = "B0".$y;
+$b2 = "B0".$y;
+$b3 = "B0".$y;
+$b4 = "B0".$y;
+$b5 = "B0".$y;
+$b6 = "B0".$y;
+$b7 = "B0".$y;
+$b8 = "B0". $y;
+}
+$testSheet = "Badges15-16", $x;
+require_once "libs/all.php";
+$badgelist=array($b1, $b2, $b3, $b4, $b5, $b6, $b7, $b8);
+MakePrintSheet($badgelis$b1 = "B00" , $y;
+$b2 = "B00" , $y;
+$b3 = "B00" , $y;
+$b4 = "B00" , $y;
+$b5 = "B00" , $y;
+$b6 = "B00" , $y;
+$b7 = "B00" , $y;
+$b8 = "B00" , $y;
+t, #testSheet);
+}
+?>
