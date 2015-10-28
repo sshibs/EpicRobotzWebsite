@@ -45,7 +45,7 @@ if(!empty($success_msg))
 {
     echo '<div class="inputform_msg" id="inputform_success_msg" >' . $success_msg . "</div>";
 }
-^if(!empty($error_msg))
+if(!empty($error_msg))
 {
     echo '<div class="inputform_msg" id="inputform_error_msg" >' . $error_msg . "</div>";
 }
