@@ -1,0 +1,17 @@
+How to Upload Log Files
+
+Note: this procedure is temporary until we get the reader
+talking in real time to this web site.  At that point the 
+scan data will be automatically uploaded.  Use this procedure
+to manually upload log files.
+
+1. Copy to Log file from the Attendance Reader to some location
+on your PC, usually with FTP (FileZilla).
+
+2. Upload the file useing this page.  The data will be 
+processed and loaded into the database.
+
+3. Duplicate uploads are not advised, since they gum up the database,
+and cause extra processing, but the outcome should be the same.
+
+

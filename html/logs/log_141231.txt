@@ -1,0 +1,1203 @@
+#12/31/2014 Wednesday   Dals Development Computer
+*00:23:46 p  1 t.php>  
+*00:23:46 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:24:14 p  1 t.php>  
+*00:24:14 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:24:52 p  1 t.php>  
+*00:24:52 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:26:43 p  1 t.php>  
+*00:26:43 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:27:28 p  1 t.php>  
+*00:27:28 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:29:10 p  1 t.php>  
+*00:29:10 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:29:44 p  1 t.php>  
+*00:29:44 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:31:25 p  1 members.php>  
+*00:31:30 p  1 members_listpics.php>  
+*00:32:13 p  1 members_listpics.php>  
+*00:32:56 p  1 members_listpics.php>  
+*00:34:15 p  1 t.php>  
+*00:34:15 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:58:11 p  1 t.php>  
+*00:58:11 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:59:13 p  1 t.php>  
+*00:59:13 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:59:14 p  1 t.php>  
+*00:59:14 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:59:14 p  1 t.php>  
+*00:59:14 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:59:14 p  1 t.php>  
+*00:59:14 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*00:59:22 p  1 t.php>  
+*00:59:22 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:00:13 p  1 t.php>  
+*01:00:13 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:00:22 p  1 t.php>  
+*01:00:22 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:05:00 p  1 t.php>  
+*01:05:00 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:05:13 p  1 t.php>  
+*01:05:13 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:07:53 p  1 t.php>  
+*01:07:53 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:16:30 p  1 t.php>  
+*01:16:30 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:21:07 p  1 t.php>  
+*01:21:07 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:23:57 p  1 t.php>  
+*01:23:57 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:25:06 p  1 t.php>  
+*01:25:06 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*01:25:14 p  1 t.php>  
+*01:25:14 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*02:06:02 p  1 t.php>  
+*02:06:02 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*02:06:53 p  1 t.php>  
+*02:06:53 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A010
+*02:07:23 p  1 t.php>  
+*02:10:08 p  1 t.php>  
+*02:10:25 p  1 t.php>  
+*02:10:52 p  1 t.php>  
+*02:11:19 p  1 t.php>  
+*02:11:31 p  1 t.php>  
+*02:11:38 p  1 t.php>  
+*02:12:08 p  1 t.php>  
+*02:18:37 p  1 t.php>  
+*02:18:50 p  1 t.php>  
+*02:18:58 p  1 t.php>  
+*02:19:14 p  1 t.php>  
+*02:19:28 p  1 t.php>  
+*02:19:44 p  1 t.php>  
+*02:19:45 p  1 t.php>  
+*02:20:18 p  1 t.php>  
+*08:16:25 p  1 t.php>  
+*08:16:35 p  1 t.php>  
+*08:16:43 p  1 t.php>  
+*08:16:48 p  1 t.php>  
+*09:24:18 p  1 t.php>  
+*09:24:40 p  1 t.php>  
+*09:27:34 p  1 t.php>  
+*09:27:55 p  1 t.php>  
+*09:29:04 p  1 t.php>  
+*09:29:14 p  1 t.php>  
+*09:29:32 p  1 t.php>  
+*09:31:12 p  1 t.php>  
+*09:31:29 p  1 t.php>  
+*09:31:56 p  1 t.php>  
+*09:32:14 p  1 t.php>  
+*09:33:24 p  1 t.php>  
+*09:33:33 p  1 t.php>  
+*09:33:41 p  1 t.php>  
+*09:34:00 p  1 t.php>  
+*09:34:07 p  1 t.php>  
+*09:34:24 p  1 t.php>  
+*09:34:53 p  1 t.php>  
+*09:35:01 p  1 t.php>  
+*09:35:10 p  1 t.php>  
+*09:36:39 p  1 t.php>  
+*09:39:19 p  1 t.php>  
+*09:40:12 p  1 t.php>  
+*09:40:28 p  1 t.php>  
+*09:40:45 p  1 t.php>  
+*09:40:52 p  1 t.php>  
+*09:41:02 p  1 t.php>  
+*09:41:23 p  1 t.php>  
+*09:41:41 p  1 t.php>  
+*09:41:53 p  1 t.php>  
+*09:42:01 p  1 t.php>  
+*09:42:07 p  1 t.php>  
+*10:03:48 p  1 t.php>  
+*10:04:04 p  1 t.php>  
+*10:04:15 p  1 t.php>  
+*10:04:31 p  1 t.php>  
+*10:07:56 p  1 t.php>  
+*10:20:25 p  1 t.php>  
+*10:26:29 p  1 t.php>  
+*10:27:10 p  1 t.php>  
+*10:29:45 p  1 t.php>  
+*10:29:55 p  1 t.php>  
+*10:30:41 p  1 t.php>  
+*10:30:51 p  1 t.php>  
+*10:31:57 p  1 t.php>  
+*10:32:06 p  1 t.php>  
+*10:32:18 p  1 t.php>  
+*10:34:08 p  1 badges.php>  
+*10:35:22 p  1 t.php>  
+*10:48:00 p  1 t.php>  
+*10:48:01 p  1 t.php>  
+*10:48:14 p  1 t.php>  
+*10:49:00 p  1 t.php>  
+*10:49:07 p  1 admin.php>  
+*10:49:08 p  1 admin_showlog.php>  
+*10:49:15 p  1 admin_showlog.php>  
+*10:49:17 p  1 admin_showlog.php>  
+*10:49:43 p  1 admin_showlog.php>  
+*10:49:46 p  1 admin_showlog.php>  
+*10:53:00 p  1 admin_showlog.php>  
+*10:53:06 p  1 admin_listusers.php>  
+*10:53:23 p  1 admin_listusers.php>  
+*10:53:26 p  1 t.php>  
+*10:53:49 p  1 admin.php>  
+*10:53:51 p  1 admin_showlog.php>  
+*10:54:42 p  1 t.php>  
+*10:55:21 p  1 t.php>  
+*10:57:35 p  1 t.php>  
+*10:58:38 p  1 t.php>  
+*11:03:15 p  1 badges.php>  
+*11:03:26 p  1 members.php>  
+*11:03:27 p  1 members_listpics.php>  
+*11:03:30 p  1 badges.php>  
+*11:04:05 p  1 badges.php>  
+*11:05:41 p  1 badges.php>  
+*11:08:10 p  1 members.php>  
+*11:08:11 p  1 members_list.php>  
+*11:22:23 p  1 members.php>  
+*11:22:24 p  1 members_list.php>  
+*11:22:29 p  1 badges.php>  
+*11:22:30 p  1 badges_listids.php>  
+*11:22:39 p  1 badges_listids.php>  
+*11:23:15 p  1 badges_listids.php>  
+*11:23:28 p  1 badges_listids.php>  
+*11:23:36 p  1 members.php>  
+*11:23:38 p  1 members_listpics.php>  
+*11:23:39 p  1 members_edituser.php>  
+*11:23:41 p  1 badges.php>  
+*11:23:43 p  1 members.php>  
+*11:23:45 p  1 members_listpics.php>  
+*11:23:46 p  1 members_edituser.php>  
+*11:23:53 p  1 members_listpics.php>  
+*11:23:55 p  1 members_edituser.php>  
+*11:23:58 p  1 members_listpics.php>  
+*11:27:57 p  1 badges.php>  
+*11:27:59 p  1 badges_listids.php>  
+*11:28:57 p  1 badges_listids.php>  
+*11:29:09 p  1 badges_listids.php>  
+*11:30:46 p  1 members.php>  
+*11:30:48 p  1 members_list.php>  
+*11:30:50 p  1 members_edituser.php>  
+*11:43:12 p  1 badges.php>  
+*11:43:41 p  1 badges_listblanks.php>  
+*11:43:45 p  1 members.php>  
+*11:43:47 p  1 members_list.php>  
+*11:43:50 p  1 members_edituser.php>  
+*11:43:56 p  1 members_edituser.php>  
+*11:43:56 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*11:43:58 p  1 members.php>  
+*11:43:59 p  1 badges.php>  
+*11:44:00 p  1 badges_listblanks.php>  
+*11:44:02 p  1 members_edituser.php>  
+*11:44:12 p  1 members_edituser.php>  
+*11:44:12 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*11:44:15 p  1 badges.php>  
+*11:44:16 p  1 badges_listblanks.php>  
+*11:44:18 p  1 badges_listids.php>  
+*11:44:22 p  1 badges_listids.php>  
+*11:45:49 p  1 badges_listids.php>  
+*11:48:45 p  1 badges_showbadge.php>  
+*11:51:36 p  1 badges_showbadge.php>  
+*11:58:18 p  1 badges_listids.php>  
+*11:58:19 p  1 badges_showbadge.php>  
+*11:58:31 p  1 badges_showbadge.php>  
+*11:59:08 p  1 admin.php>  
+*11:59:10 p  1 badges.php>  
+*11:59:12 p  1 badges_listids.php>  
+*11:59:14 p  1 badges_showbadge.php>  
+*12:05:10 p  1 members.php>  
+*12:05:12 p  1 members_list.php>  
+*12:05:13 p  1 members_edituser.php>  
+*12:05:17 p  1 members_uploadpic.php>  
+*12:08:52 p  1 members_list.php>  
+*12:08:55 p  1 badges.php>  
+*12:08:57 p  1 badges_listids.php>  
+*12:08:58 p  1 badges_showbadge.php>  
+*12:11:10 p  1 badges_showbadge.php>  
+*12:12:18 p  1 badges_showbadge.php>  
+*12:14:16 p  1 badges_showbadge.php>  
+*12:14:40 p  1 badges_showbadge.php>  
+*12:18:18 p  1 badges_showbadge.php>  
+*12:18:36 p  1 badges_showbadge.php>  
+*12:18:45 p  1 badges_showbadge.php>  
+*12:19:04 p  1 badges_showbadge.php>  
+*12:19:41 p  1 badges_showbadge.php>  
+*12:19:58 p  1 badges_showbadge.php>  
+*12:21:11 p  1 badges_showbadge.php>  
+*12:21:18 p  1 badges_showbadge.php>  
+*12:21:26 p  1 badges_showbadge.php>  
+*12:21:50 p  1 badges_showbadge.php>  
+*12:22:00 p  1 badges_showbadge.php>  
+*12:23:47 p  1 badges_showbadge.php>  
+*12:24:00 p  1 badges_showbadge.php>  
+*12:24:55 p  1 badges_showbadge.php>  
+*12:26:12 p  1 badges_showbadge.php>  
+*12:26:25 p  1 badges_showbadge.php>  
+*12:26:34 p  1 badges_showbadge.php>  
+*12:26:55 p  1 badges_showbadge.php>  
+*12:27:30 p  1 badges_showbadge.php>  
+*12:27:47 p  1 badges_showbadge.php>  
+*12:28:11 p  1 badges_showbadge.php>  
+*12:28:29 p  1 badges_showbadge.php>  
+*12:31:58 p  1 badges_showbadge.php>  
+*12:32:39 p  1 badges_showbadge.php>  
+*12:33:07 p  1 badges_showbadge.php>  
+*12:33:48 p  1 badges_showbadge.php>  
+*12:36:04 p  1 badges_showbadge.php>  
+*12:36:58 p  1 badges_showbadge.php>  
+*12:37:17 p  1 badges_showbadge.php>  
+*12:37:33 p  1 members_edituser.php>  
+*12:37:39 p  1 badges_showbadge.php>  
+*12:37:43 p  1 members_edituser.php>  
+*12:37:47 p  1 badges_showbadge.php>  
+*12:42:03 p  1 admin.php>  
+*12:42:04 p  1 admin_masquerade.php>  
+*12:42:10 p  1 admin_masquerade.php>  
+*12:42:10 s  1 admin_masquerade.php> User dal is attemping to masquerade as anna
+*12:42:10 s  0 userlib.php->StartLogin> checking=anna, bypass=true
+*12:42:10 s  0 userlib.php->StartLogin> User "anna" used bypass feature to avoid password match.
+*12:42:10 s  8 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 8
+*12:42:10 s  8 userlib.php->StartLogin> >>>>>>>>>>> Collier, Anna
++> New Login!  UserName=anna,   UserID=8
++> IP Address= ::1    Tags=Member
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*12:42:10 p  8 welcome.php>  
+*12:42:13 p  8 logout.php>  
+*12:42:13 s  8 logout.php> Masquerade session is over.
+*12:42:13 s  0 logout.php> Attempting to re-login as dal
+*12:42:13 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*12:42:13 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*12:42:13 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*12:42:13 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Editor/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*12:42:13 p  1 welcome.php>  
+*12:42:14 p  1 badges.php>  
+*12:42:16 p  1 badges_listids.php>  
+*12:42:17 p  1 badges_showbadge.php>  
+*12:43:27 p  1 members_edituser.php>  
+*12:53:13 p  1 members_edituser.php>  
+*12:53:51 p  1 members_edituser.php>  
+*12:54:16 p  1 members_edituser.php>  
+*12:55:03 p  1 members_edituser.php>  
+*12:55:29 p  1 members_edituser.php>  
+*12:56:47 p  1 members_edituser.php>  
+*12:57:03 p  1 members_edituser.php>  
+*13:01:12 p  1 members_edituser.php>  
+*13:02:42 p  1 members_edituser.php>  
+*13:02:56 p  1 members_edituser.php>  
+*13:03:02 p  1 members_edituser.php>  
+*13:05:37 p  1 members_edituser.php>  
+*13:06:05 p  1 members_edituser.php>  
+*13:06:32 p  1 members_edituser.php>  
+*13:16:23 p  1 members_edituser.php>  
+*13:17:17 p  1 members_edituser.php>  
+*13:17:19 p  1 members_edituser.php>  
+*13:17:21 p  1 badges_showbadge.php>  
+*13:17:22 s  1 badges_showbadge.php> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*13:18:15 p  1 members_edituser.php>  
+*13:18:21 p  1 badges_showbadge.php>  
+*13:18:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*13:18:35 p  1 admin.php>  
+*13:18:36 p  1 admin_showlog.php>  
+*13:19:27 p  1 members.php>  
+*13:19:29 p  1 members_list.php>  
+*13:19:33 p  1 members_edituser.php>  
+*13:19:36 p  1 badges_showbadge.php>  
+*13:19:36 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A003
+*13:19:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*13:19:41 p  1 members_edituser.php>  
+*13:20:59 p  1 admin.php>  
+*13:21:00 p  1 admin_showlog.php>  
+*13:21:02 p  1 admin_showlog.php>  
+*13:21:13 p  1 members.php>  
+*13:21:14 p  1 members_list.php>  
+*13:21:17 p  1 members_edituser.php>  
+*13:21:24 p  1 badges_showbadge.php>  
+*13:21:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*13:21:33 p  1 admin.php>  
+*13:21:34 p  1 admin_showlog.php>  
+*13:22:55 p  1 members.php>  
+*13:22:57 p  1 members_list.php>  
+*13:22:58 p  1 members_edituser.php>  
+*13:23:00 p  1 badges_showbadge.php>  
+*13:23:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*13:24:17 p  1 members_edituser.php>  
+*13:24:18 p  1 badges_showbadge.php>  
+*13:24:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*13:25:45 p  1 members.php>  
+*13:25:46 p  1 badges.php>  
+*13:25:47 p  1 badges_listids.php>  
+*13:25:49 p  1 badges_showbadge.php>  
+*13:25:56 p  1 members.php>  
+*13:25:59 p  1 members_list.php>  
+*13:26:05 p  1 members_edituser.php>  
+*13:26:07 p  1 badges_showbadge.php>  
+*13:26:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*13:26:38 p  1 members.php>  
+*13:26:40 p  1 members_list.php>  
+*13:26:56 p  1 members_edituser.php>  
+*13:27:01 p  1 members_list.php>  
+*13:27:05 p  1 members_edituser.php>  
+*13:27:11 p  1 badges_showbadge.php>  
+*13:27:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*13:27:46 p  1 admin.php>  
+*13:27:48 p  1 admin_showlog.php>  
+*13:28:35 p  1 badges.php>  
+*13:28:38 p  1 badges_listids.php>  
+*13:28:39 p  1 badges_showbadge.php>  
+*13:30:36 p  1 logout.php>  
+*13:30:36 s  1 logout.php> User Brandon, Dalbert is Logging Out.
+*13:30:38 p  0 login.php>  
+*13:30:39 p  0 login.php>  
+*13:30:39 s  0 login.php> Developer bypass attempted for username=dal
+*13:30:39 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*13:30:39 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*13:30:39 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*13:30:39 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Editor/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*13:30:39 p  1 welcome.php>  
+*13:30:40 p  1 members.php>  
+*13:30:42 p  1 members_list.php>  
+*13:30:45 p  1 badges.php>  
+*13:30:47 p  1 badges_listids.php>  
+*13:30:49 p  1 badges_showbadge.php>  
+*13:31:50 p  1 t.php>  
+*13:31:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dal Brandon, BadgeID=A010.
+*13:31:59 p  1 badges.php>  
+*13:32:02 p  1 badges_listids.php>  
+*13:32:04 p  1 badges_showbadge.php>  
+*13:32:05 p  1 members_edituser.php>  
+*13:32:07 p  1 badges_showbadge.php>  
+*13:32:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*13:33:41 p  1 badges.php>  
+*13:33:42 p  1 badges_listids.php>  
+*13:33:51 p  1 members.php>  
+*13:33:52 p  1 members_list.php>  
+*13:33:57 p  1 members_edituser.php>  
+*13:33:59 p  1 badges_showbadge.php>  
+*13:33:59 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A016
+*13:33:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*13:34:03 p  1 members_edituser.php>  
+*13:40:09 p  1 badges.php>  
+*13:40:11 p  1 badges_listblanks.php>  
+*13:40:17 p  1 badges_listids.php>  
+*13:40:20 p  1 badges_showbadge.php>  
+*13:40:26 p  1 badges_listids.php>  
+*13:40:39 p  1 badges_showbadge.php>  
+*13:40:47 p  1 members.php>  
+*13:40:49 p  1 members_list.php>  
+*13:40:50 p  1 members_edituser.php>  
+*13:40:53 p  1 badges_showbadge.php>  
+*13:40:53 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A001
+*13:40:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*13:41:06 p  1 members_edituser.php>  
+*13:41:08 p  1 members_list.php>  
+*13:41:10 p  1 members_edituser.php>  
+*13:41:11 p  1 badges_showbadge.php>  
+*13:41:11 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A002
+*13:41:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*13:41:14 p  1 members_edituser.php>  
+*13:41:14 p  1 members_list.php>  
+*13:41:18 p  1 members_edituser.php>  
+*13:41:24 p  1 badges_showbadge.php>  
+*13:41:24 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A004
+*13:41:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*13:41:28 p  1 members_edituser.php>  
+*13:41:28 p  1 members_list.php>  
+*13:41:37 p  1 badges.php>  
+*13:41:39 p  1 badges_listblanks.php>  
+*13:43:24 p  1 members.php>  
+*13:43:26 p  1 members_listpics.php>  
+*13:44:14 p  1 setup.php>  
+*13:49:52 p  1 members.php>  
+*13:49:53 p  1 members_listpics.php>  
+*13:55:57 p  1 badges.php>  
+*13:55:59 p  1 badges_showall.php>  
+*13:56:52 p  1 badges_showall.php>  
+*13:57:30 p  1 badges_showall.php>  
+*13:58:18 p  1 badges_showall.php>  
+*13:58:57 p  1 badges_showall.php>  
+*13:59:51 p  1 badges_showall.php>  
+*14:00:23 p  1 badges_showall.php>  
+*14:00:33 p  1 badges_showall.php>  
+*14:19:59 p  1 badges.php>  
+*14:20:01 p  1 badges_showall.php>  
+*14:20:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*14:20:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*14:20:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*14:20:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*14:20:02 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A005
+*14:20:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*14:20:03 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A006
+*14:20:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*14:20:03 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A007
+*14:20:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*14:20:03 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A008
+*14:20:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*14:20:03 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A009
+*14:20:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*14:20:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*14:20:04 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A011
+*14:20:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*14:20:04 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A012
+*14:20:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*14:20:04 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A013
+*14:20:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*14:20:04 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A014
+*14:20:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*14:20:04 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A015
+*14:20:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*14:20:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*14:20:05 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A017
+*14:20:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*14:20:05 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A018
+*14:20:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*14:20:05 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A019
+*14:20:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*14:20:05 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A020
+*14:20:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*14:20:05 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A021
+*14:20:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*14:20:06 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A022
+*14:20:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*14:20:06 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A023
+*14:20:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*14:20:06 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A024
+*14:20:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*14:20:06 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A025
+*14:20:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*14:20:07 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A026
+*14:20:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*14:20:07 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A027
+*14:20:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*14:20:07 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A028
+*14:20:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*14:20:07 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A029
+*14:20:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*14:20:07 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A030
+*14:20:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*14:20:08 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A031
+*14:20:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*14:20:08 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A032
+*14:20:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*14:20:08 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A033
+*14:20:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*14:20:08 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A034
+*14:20:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*14:20:08 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A035
+*14:20:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*14:20:09 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A036
+*14:20:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*14:20:09 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A037
+*14:20:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*14:20:09 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A038
+*14:20:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*14:20:09 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A039
+*14:20:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*14:20:09 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A040
+*14:20:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*14:20:10 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A041
+*14:20:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*14:20:10 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A042
+*14:20:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*14:20:10 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A043
+*14:20:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*14:20:10 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A044
+*14:20:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*14:20:10 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A045
+*14:20:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*14:20:11 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A046
+*14:20:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*14:20:11 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A047
+*14:20:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*14:20:11 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A048
+*14:20:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*14:20:11 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A049
+*14:20:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*14:20:11 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A050
+*14:20:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*14:20:12 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A051
+*14:20:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*14:20:12 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A052
+*14:20:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*14:20:12 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A053
+*14:20:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*14:20:12 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A054
+*14:20:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*14:20:12 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A055
+*14:20:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*14:20:13 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A056
+*14:20:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*14:20:13 s  1 badgelib.php->DeleteBadge> Unable to delete badge files, for BadgeID=A057
+*14:20:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*14:20:25 p  1 badges_showall.php>  
+*14:21:19 p  1 badges_showall.php>  
+*14:21:27 p  1 badges_listids.php>  
+*14:21:29 p  1 badges_showbadge.php>  
+*14:21:47 p  1 badges_showall.php>  
+*14:22:54 p  1 badges_showall.php>  
+*14:22:56 p  1 badges_showall.php>  
+*14:22:57 p  1 badges_showbadge.php>  
+*14:25:36 p  1 badges_showbadge.php>  
+*14:25:37 p  1 badges_showall.php>  
+*14:25:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*14:25:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*14:25:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*14:25:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*14:25:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*14:25:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*14:25:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*14:25:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*14:25:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*14:25:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*14:25:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*14:25:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*14:25:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*14:25:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*14:25:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*14:25:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*14:25:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*14:25:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*14:25:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*14:25:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*14:25:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*14:25:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*14:25:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*14:25:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*14:25:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*14:25:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*14:25:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*14:25:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*14:25:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*14:25:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*14:25:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*14:25:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*14:25:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*14:25:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*14:25:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*14:25:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*14:25:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*14:25:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*14:25:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*14:25:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*14:25:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*14:25:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*14:25:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*14:25:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*14:25:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*14:25:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*14:25:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*14:25:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*14:25:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*14:25:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*14:25:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*14:25:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*14:25:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*14:25:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*14:25:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*14:25:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*14:25:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*14:26:16 p  1 badges_showbadge.php>  
+*15:50:44 p  1 badges_showall.php>  
+*15:50:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*15:50:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*15:50:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*15:50:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*15:50:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*15:50:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*15:50:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*15:50:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*15:50:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*15:50:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*15:50:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*15:50:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*15:50:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*15:50:46 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*15:50:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*15:50:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*15:50:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*15:50:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*15:50:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*15:50:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*15:50:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*15:50:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*15:50:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*15:50:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*15:50:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*15:50:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*15:50:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*15:50:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*15:50:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*15:50:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*15:50:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*15:50:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*15:50:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*15:50:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*15:50:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*15:50:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*15:50:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*15:50:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*15:50:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*15:50:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*15:50:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*15:50:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*15:50:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*15:50:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*15:50:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*15:50:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*15:50:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*15:50:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*15:50:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*15:50:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*15:50:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*15:50:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*15:50:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*15:50:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*15:50:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*15:50:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*15:50:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*15:51:00 p  1 badges_showall.php>  
+*16:00:47 p  1 setup.php>  
+*16:01:13 p  1 setup.php>  
+*16:02:00 p  1 setup.php>  
+*16:02:12 p  1 setup.php>  
+*16:02:16 p  1 members.php>  
+*16:02:18 p  1 members_list.php>  
+*16:02:20 p  1 members_edituser.php>  
+*16:03:52 p  1 setup.php>  
+*16:04:49 p  1 setup.php>  
+*16:05:10 p  1 setup.php>  
+*16:05:38 p  1 setup.php>  
+*16:05:55 p  1 setup.php>  
+*16:05:57 p  1 admin.php>  
+*16:05:59 p  1 members.php>  
+*16:06:01 p  1 members_listpics.php>  
+*16:06:05 p  1 members_list.php>  
+*16:06:06 p  1 members_listpics.php>  
+*16:06:49 p  1 members.php>  
+*16:06:49 p  1 members_listpics.php>  
+*16:06:52 p  1 members_list.php>  
+*16:06:53 p  1 members.php>  
+*16:06:53 p  1 members_listpics.php>  
+*16:06:55 p  1 members_list.php>  
+*16:06:57 p  1 members_adduser.php>  
+*16:06:59 p  1 members_listpics.php>  
+*16:07:04 p  1 badges.php>  
+*16:07:06 p  1 badges_listblanks.php>  
+*16:07:12 p  1 badges_listids.php>  
+*16:07:24 p  1 badges_showall.php>  
+*16:15:33 p  1 badges_showall.php>  
+*16:15:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:15:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:15:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:15:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:15:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:15:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:15:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:15:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:15:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:15:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:15:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:15:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:15:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:15:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:15:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:15:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:15:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:15:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:15:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:15:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:15:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:15:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:15:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:15:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:15:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:15:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:15:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:15:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:15:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:15:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:15:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:15:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:15:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:15:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:15:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:15:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:15:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:15:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:15:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:15:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:15:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:15:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:15:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:15:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:15:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:15:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:15:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:15:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:15:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:15:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:15:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:15:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:15:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:15:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:15:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:15:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:15:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:15:47 p  1 badges_showall.php>  
+*16:15:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:15:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:15:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:15:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:15:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:15:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:15:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:15:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:15:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:15:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:15:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:15:49 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:15:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:15:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:15:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:15:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:15:50 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:15:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:15:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:15:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:15:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:15:51 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:15:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:15:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:15:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:15:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:15:52 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:15:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:15:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:15:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:15:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:15:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:15:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:15:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:15:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:15:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:15:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:15:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:15:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:15:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:15:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:15:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:15:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:15:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:15:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:15:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:15:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:15:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:15:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:15:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:15:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:15:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:15:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:15:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:15:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:15:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:15:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:16:04 p  1 badges_makeall.php>  
+*16:16:36 p  1 badges_showall.php>  
+*16:16:48 p  1 badges_showall.php>  
+*16:18:39 p  1 attendance.php>  
+*16:18:51 p  1 attendance.php>  
+*16:18:55 p  1 attendance.php>  
+*16:18:55 p  1 attendance.php>  
+*16:18:56 p  1 attendance.php>  
+*16:18:56 p  1 attendance.php>  
+*16:18:58 p  1 members.php>  
+*16:18:58 p  1 members_listpics.php>  
+*16:18:59 p  1 badges.php>  
+*16:19:09 p  1 members.php>  
+*16:19:09 p  1 members_listpics.php>  
+*16:19:12 p  1 badges.php>  
+*16:19:40 p  1 badges_showall.php>  
+*16:19:50 p  1 badges_listblanks.php>  
+*16:19:51 p  1 badges.php>  
+*16:19:51 p  1 badges_showall.php>  
+*16:19:54 p  1 members.php>  
+*16:19:54 p  1 members_listpics.php>  
+*16:19:56 p  1 badges.php>  
+*16:19:56 p  1 badges_showall.php>  
+*16:19:58 p  1 reader.php>  
+*16:19:59 p  1 setup.php>  
+*16:22:34 p  1 attendance.php>  
+*16:22:36 p  1 admin.php>  
+*16:22:38 p  1 setup.php>  
+*16:22:40 p  1 reader.php>  
+*16:22:45 p  1 badges.php>  
+*16:22:45 p  1 badges_showall.php>  
+*16:22:56 p  1 badges_listblanks.php>  
+*16:23:02 p  1 badges_listids.php>  
+*16:23:04 p  1 badges_makeall.php>  
+*16:24:20 p  1 badges_makeall.php>  
+*16:24:56 p  1 badges_makeall.php>  
+*16:25:06 p  1 badges_showall.php>  
+*16:25:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:25:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:25:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:25:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:25:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:25:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:25:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:25:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:25:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:25:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:25:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:25:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:25:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:25:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:25:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:25:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:25:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:25:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:25:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:25:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:25:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:25:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:25:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:25:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:25:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:25:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:25:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:25:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:25:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:25:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:25:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:25:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:25:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:25:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:25:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:25:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:25:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:25:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:25:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:25:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:25:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:25:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:25:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:25:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:25:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:25:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:25:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:25:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:25:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:25:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:25:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:25:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:25:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:25:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:25:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:25:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:25:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:26:52 p  1 badges_makeall.php>  
+*16:26:53 p  1 badges_showall.php>  
+*16:26:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:26:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:26:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:26:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:26:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:26:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:26:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:26:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:26:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:26:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:26:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:26:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:26:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:26:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:26:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:26:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:26:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:26:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:26:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:26:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:26:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:26:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:26:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:26:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:26:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:26:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:26:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:26:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:26:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:26:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:26:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:26:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:27:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:27:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:27:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:27:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:27:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:27:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:27:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:27:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:27:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:27:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:27:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:27:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:27:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:27:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:27:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:27:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:27:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:27:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:27:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:27:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:27:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:27:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:27:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:27:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:27:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:29:30 p  1 badges_makeall.php>  
+*16:29:32 p  1 badges_showall.php>  
+*16:29:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:29:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:29:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:29:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:29:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:29:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:29:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:29:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:29:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:29:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:29:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:29:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:29:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:29:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:29:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:29:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:29:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:29:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:29:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:29:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:29:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:29:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:29:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:29:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:29:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:29:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:29:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:29:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:29:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:29:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:29:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:29:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:29:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:29:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:29:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:29:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:29:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:29:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:29:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:29:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:29:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:29:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:29:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:29:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:29:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:29:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:29:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:29:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:29:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:29:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:29:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:29:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:29:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:29:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:29:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:29:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:29:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:29:43 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*16:32:30 p  1 badges_makeall.php>  
+*16:32:32 p  1 badges_showall.php>  
+*16:32:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:32:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:32:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:32:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:32:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:32:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:32:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:32:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:32:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:32:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:32:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:32:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:32:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:32:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:32:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:32:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:32:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:32:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:32:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:32:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:32:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:32:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:32:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:32:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:32:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:32:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:32:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:32:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:32:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:32:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:32:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:32:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:32:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:32:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:32:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:32:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:32:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:32:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:32:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:32:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:32:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:32:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:32:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:32:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:32:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:32:41 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:32:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:32:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:32:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:32:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:32:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:32:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:32:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:32:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:32:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:32:43 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:32:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:32:44 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*16:35:03 p  1 badges_showall.php>  
+*16:35:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:35:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:35:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:35:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:35:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:35:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:35:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:35:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:35:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:35:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:35:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:35:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:35:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:35:06 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:35:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:35:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:35:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:35:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:35:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:35:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:35:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:35:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:35:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:35:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:35:08 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:35:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:35:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:35:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:35:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:35:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:35:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:35:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:35:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:35:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:35:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:35:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:35:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:35:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:35:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:35:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:35:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:35:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:35:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:35:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:35:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:35:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:35:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:35:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:35:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:35:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:35:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:35:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:35:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:35:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:35:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:35:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:35:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:35:15 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*16:35:15 p  1 badges_makeall.php>  
+*16:35:19 p  1 badges_makeall.php>  
+*16:35:22 p  1 badges_showall.php>  
+*16:35:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*16:35:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*16:35:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*16:35:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*16:35:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*16:35:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*16:35:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*16:35:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*16:35:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*16:35:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*16:35:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*16:35:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*16:35:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*16:35:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*16:35:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*16:35:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*16:35:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*16:35:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*16:35:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*16:35:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*16:35:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*16:35:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*16:35:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*16:35:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*16:35:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*16:35:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*16:35:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*16:35:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*16:35:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*16:35:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*16:35:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*16:35:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*16:35:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*16:35:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*16:35:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*16:35:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*16:35:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*16:35:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*16:35:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*16:35:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*16:35:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*16:35:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*16:35:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*16:35:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*16:35:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*16:35:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*16:35:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*16:35:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*16:35:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*16:35:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*16:35:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*16:35:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*16:35:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*16:35:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*16:35:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*16:35:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*16:35:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*16:35:34 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0

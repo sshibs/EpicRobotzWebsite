@@ -1,0 +1,16 @@
+Action,   BadgeID,                  T0, Reason
+DeleteScan,     *, 2015-01-02 10:00:00, Delete testing data before scanner active
+DeleteScan,     *, 2015-01-03 10:00:00, Delete testing data before scanner active
+DeleteScan,     *, 2015-01-04 10:00:00, Delete testing data before scanner active
+AddScanIn,      *, 2015-01-03 09:00:00, Credit for everybody on kickoff day
+AddScanOut,     *, 2015-01-03 16:00:00, Scanouts for everybody on kickoff day
+AddScanIn,      *, 2015-01-04 14:00:00, Credit for everybody on second kickoff day
+AddScanOut,     *, 2015-01-04 18:30:00, Scanouts for everybody on second kickoff day
+AddScanIn,      *, 2015-01-19 18:30:00, Credit for everybody on day we were locked out
+AddScanOut,     *, 2015-01-19 18:30:01, Credit for everybody on day we were locked out
+AddScanOut,  A004, 2015-02-07 18:00:00, Machine broke while trying to scan out
+AddScanOut,  A015, 2015-02-07 18:00:00, Machine broke while trying to scan out
+AddScanOut,  A017, 2015-02-07 18:00:00, Machine broke while trying to scan out
+AddScanOut,  A012, 2015-02-07 18:00:00, Machine broke while trying to scan out
+AddScanOut,  A013, 2015-02-07 18:00:00, Machine broke while trying to scan out
+AddScanOut,  A028, 2015-02-07 18:00:00, Machine broke while trying to scan out

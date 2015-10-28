@@ -1,0 +1,49 @@
+Instructions for Printing Badges on Teslin Paper
+
+Some Info First:
+
+1. The paper stock is 8.5x11" sheets. These sheets
+have perforated cutouts for 8 badges on one sheet.
+
+2. The margins are about 5/8" all the way around
+the outside, and 7/16" between the cutouts.
+
+3. All teslin paper can be printed on both sides.
+
+4. This website produces the badges in 300dpi resolution.
+
+5. This website generates images for the sheets
+to be printed with Word. 
+
+
+
+Steps to Produce the Printed Sheets:
+
+1. Run the Sheet Generation Function.  This will
+produce all the sheets necessary to make a badge
+for everyone that has a badge ID.
+
+2. The sheets are put in the "upload/sheet" directory,
+and are named "sheet_n_f.jpg" and "sheet_n_b.jpg"
+for front and back respectively.  The 'n' stands
+for the sheet number.  You will need FileZilla
+or some FTP program to download the finished sheets.
+
+3. Use Word to print the sheets.  The sheets are
+2956x2169 pixels, for an actual size of 9.85x7.23".
+
+4. Set the margins in word to be 0.63" left and right,
+and 0.57" for top and bottom.
+
+5. Copy the sheet image into work, and use the formatting
+dialog to set the iamge size to be 9.85x7.23, and rotate
+the image by 90 degrees.  
+
+6. Move the image so that it is agains the top-left margin.
+
+7. Print. 
+
+
+
+
+

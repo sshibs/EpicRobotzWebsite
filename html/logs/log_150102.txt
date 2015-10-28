@@ -1,0 +1,852 @@
+#01/02/2015 Friday   Dals Development Computer
+*13:22:54 p  1 badges_showall.php>  
+*13:22:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*13:22:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*13:22:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*13:22:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*13:22:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*13:22:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*13:22:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*13:22:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*13:22:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*13:22:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*13:22:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*13:22:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*13:22:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*13:22:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*13:22:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*13:22:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*13:22:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*13:22:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*13:22:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*13:22:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*13:22:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*13:22:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*13:22:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*13:22:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*13:22:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*13:22:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*13:22:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*13:22:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*13:22:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*13:23:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*13:23:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*13:23:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*13:23:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*13:23:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*13:23:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*13:23:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*13:23:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*13:23:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*13:23:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*13:23:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*13:23:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*13:23:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*13:23:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*13:23:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*13:23:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*13:23:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*13:23:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*13:23:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*13:23:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*13:23:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*13:23:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*13:23:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*13:23:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*13:23:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*13:23:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*13:23:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*13:23:05 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*13:23:05 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*13:23:05 p  1 badges_makeall.php>  
+*13:23:05 p  1 badges_makeall.php>  
+*13:23:10 p  1 badges_makegif.php>  
+*13:23:23 p  1 badges_showall.php>  
+*13:23:23 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:23 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:24 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:25 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:26 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:27 s  1 badgeli.php->MakeGif> Image Successfully made for UserID= .
+*13:23:27 s  1 badges_showall.php->MakeAllBadges> All gif images made!
++> Images Made: 51, Members without BadgeIDs: 0, Failures: 6. (See sys log!)
+*13:24:00 p  1 admin.php>  
+*13:24:02 p  1 admin_showlog.php>  
+*13:27:39 p  1 badges.php>  
+*13:27:39 p  1 badges_showall.php>  
+*13:27:41 p  1 badges_makegif.php>  
+*13:27:43 p  1 badges_showall.php>  
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A001.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A002.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A003.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A004.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A005.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A006.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A007.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A008.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A009.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A010.
+*13:27:43 e  1 badgeli.php->MakeGif> PicID not given.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A012.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A013.
+*13:27:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A014.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A015.
+*13:27:44 e  1 badgeli.php->MakeGif> PicID not given.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A017.
+*13:27:44 e  1 badgeli.php->MakeGif> PicID not given.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A019.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A020.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A021.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A022.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A023.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A024.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A025.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A026.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A027.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A028.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A029.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A030.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A031.
+*13:27:44 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A032.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A033.
+*13:27:45 e  1 badgeli.php->MakeGif> PicID not given.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A035.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A036.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A037.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A038.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A039.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A040.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A041.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A042.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A043.
+*13:27:45 e  1 badgeli.php->MakeGif> PicID not given.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A045.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A046.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A047.
+*13:27:45 e  1 badgeli.php->MakeGif> PicID not given.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A049.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A050.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A051.
+*13:27:45 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A052.
+*13:27:46 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A053.
+*13:27:46 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A054.
+*13:27:46 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A055.
+*13:27:46 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A056.
+*13:27:46 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A057.
+*13:27:46 s  1 badges_showall.php->MakeAllBadges> All gif images made!
++> Images Made: 51, Members without BadgeIDs: 0, Failures: 6. (See sys log!)
+*13:27:49 p  1 admin.php>  
+*13:27:50 p  1 admin_showlog.php>  
+*13:31:37 p  1 badges.php>  
+*13:31:37 p  1 badges_showall.php>  
+*13:31:38 p  1 badges_makegif.php>  
+*13:31:40 p  1 badges_showall.php>  
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A001.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A002.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A003.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A004.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A005.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A006.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A007.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A008.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A009.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A010.
+*13:31:40 e  1 badgeli.php->MakeGif> PicID not given. for UserID = 0
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A012.
+*13:31:40 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A013.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A014.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A015.
+*13:31:41 e  1 badgeli.php->MakeGif> PicID not given. for UserID = 0
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A017.
+*13:31:41 e  1 badgeli.php->MakeGif> PicID not given. for UserID = 0
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A019.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A020.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A021.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A022.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A023.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A024.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A025.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A026.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A027.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A028.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A029.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A030.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A031.
+*13:31:41 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A032.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A033.
+*13:31:42 e  1 badgeli.php->MakeGif> PicID not given. for UserID = 0
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A035.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A036.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A037.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A038.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A039.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A040.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A041.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A042.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A043.
+*13:31:42 e  1 badgeli.php->MakeGif> PicID not given. for UserID = 0
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A045.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A046.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A047.
+*13:31:42 e  1 badgeli.php->MakeGif> PicID not given. for UserID = 0
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A049.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A050.
+*13:31:42 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A051.
+*13:31:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A052.
+*13:31:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A053.
+*13:31:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A054.
+*13:31:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A055.
+*13:31:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A056.
+*13:31:43 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A057.
+*13:31:43 s  1 badges_showall.php->MakeAllBadges> All gif images made!
++> Images Made: 51, Members without BadgeIDs: 0, Failures: 6. (See sys log!)
+*13:31:46 p  1 admin.php>  
+*13:31:47 p  1 admin_showlog.php>  
+*13:33:28 p  1 badges.php>  
+*13:33:28 p  1 badges_showall.php>  
+*13:33:30 p  1 badges_makegif.php>  
+*13:33:32 p  1 badges_showall.php>  
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A001.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A002.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A003.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A004.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A005.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A006.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A007.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A008.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A009.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A010.
+*13:33:32 e  1 badgeli.php->MakeGif> PicID not given for UserID = 11
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A012.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A013.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A014.
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A015.
+*13:33:32 e  1 badgeli.php->MakeGif> PicID not given for UserID = 16
+*13:33:32 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A017.
+*13:33:32 e  1 badgeli.php->MakeGif> PicID not given for UserID = 18
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A019.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A020.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A021.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A022.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A023.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A024.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A025.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A026.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A027.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A028.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A029.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A030.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A031.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A032.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A033.
+*13:33:33 e  1 badgeli.php->MakeGif> PicID not given for UserID = 34
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A035.
+*13:33:33 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A036.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A037.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A038.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A039.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A040.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A041.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A042.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A043.
+*13:33:34 e  1 badgeli.php->MakeGif> PicID not given for UserID = 44
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A045.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A046.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A047.
+*13:33:34 e  1 badgeli.php->MakeGif> PicID not given for UserID = 48
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A049.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A050.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A051.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A052.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A053.
+*13:33:34 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A054.
+*13:33:35 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A055.
+*13:33:35 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A056.
+*13:33:35 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A057.
+*13:33:35 s  1 badges_showall.php->MakeAllBadges> All gif images made!
++> Images Made: 51, Members without BadgeIDs: 0, Failures: 6. (See sys log!)
+*13:33:37 p  1 admin.php>  
+*13:33:38 p  1 admin_showlog.php>  
+*21:16:50 p  1 badges.php>  
+*21:16:50 p  1 badges_showall.php>  
+*21:16:53 p  1 members.php>  
+*21:16:53 p  1 members_listpics.php>  
+*21:29:35 p  1 admin.php>  
+*21:29:37 p  1 members.php>  
+*21:29:37 p  1 members_listpics.php>  
+*21:29:38 p  1 members_bulkpics.php>  
+*21:31:08 p  1 members_bulkpics.php>  
+*22:13:53 p  1 members_bulkpics.php>  
+*22:13:55 p  1 members_bulkpics.php>  
+*22:14:15 p  1 members_bulkpics.php>  
+*22:15:01 p  1 members_bulkpics.php>  
+*22:15:03 s  1 members_bulkpics.php->ProcessBulkPics> 42 pictures imported. 0 failures. 60 lines processed.
+*22:16:07 p  1 members_bulkpics.php>  
+*22:16:10 p  1 members.php>  
+*22:16:10 p  1 members_listpics.php>  
+*22:16:12 p  1 members_bulkpics.php>  
+*22:16:17 p  1 members_bulkpics.php>  
+*22:16:20 s  1 members_bulkpics.php->ProcessBulkPics> 42 pictures imported. 0 failures. 60 lines processed.
+*22:18:06 p  1 members_bulkpics.php>  
+*22:18:13 p  1 members_bulkpics.php>  
+*22:18:14 s  1 members_bulkpics.php->ProcessBulkPics> 42 pictures imported. 0 failures. 60 lines processed.
+*22:47:51 p  1 admin.php>  
+*22:47:53 p  1 members.php>  
+*22:47:53 p  1 members_listpics.php>  
+*22:47:55 p  1 members_bulkpics.php>  
+*22:57:35 p  1 members_bulkpics.php>  
+*22:57:37 s  1 piclib.php->StorePicture> Pic ID 53 Successfully Stored on server. (Elp=1216.90 ms.)
+*22:57:37 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 53, UserID = 2
+*22:57:39 s  1 piclib.php->StorePicture> Pic ID 54 Successfully Stored on server. (Elp=1227.45 ms.)
+*22:57:40 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 54, UserID = 3
+*22:57:42 s  1 piclib.php->StorePicture> Pic ID 55 Successfully Stored on server. (Elp=1220.40 ms.)
+*22:57:42 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 55, UserID = 4
+*22:57:44 s  1 piclib.php->StorePicture> Pic ID 56 Successfully Stored on server. (Elp=1194.87 ms.)
+*22:57:44 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 56, UserID = 1
+*22:57:46 s  1 piclib.php->StorePicture> Pic ID 57 Successfully Stored on server. (Elp=1223.23 ms.)
+*22:57:46 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 57, UserID = 5
+*22:57:48 s  1 piclib.php->StorePicture> Pic ID 58 Successfully Stored on server. (Elp=1219.44 ms.)
+*22:57:48 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 58, UserID = 6
+*22:57:50 s  1 piclib.php->StorePicture> Pic ID 59 Successfully Stored on server. (Elp=1213.51 ms.)
+*22:57:50 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 59, UserID = 7
+*22:57:52 s  1 piclib.php->StorePicture> Pic ID 60 Successfully Stored on server. (Elp=1219.98 ms.)
+*22:57:52 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 60, UserID = 8
+*22:57:54 s  1 piclib.php->StorePicture> Pic ID 61 Successfully Stored on server. (Elp=1200.07 ms.)
+*22:57:54 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 61, UserID = 9
+*22:57:59 s  1 piclib.php->StorePicture> Pic ID 62 Successfully Stored on server. (Elp=1225.66 ms.)
+*22:57:59 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 62, UserID = 10
+*22:58:02 s  1 piclib.php->StorePicture> Pic ID 63 Successfully Stored on server. (Elp=1197.23 ms.)
+*22:58:02 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 63, UserID = 12
+*22:58:04 s  1 piclib.php->StorePicture> Pic ID 64 Successfully Stored on server. (Elp=1220.58 ms.)
+*22:58:04 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 64, UserID = 13
+*22:58:07 s  1 piclib.php->StorePicture> Pic ID 65 Successfully Stored on server. (Elp=1202.67 ms.)
+*22:58:07 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 65, UserID = 14
+*22:58:09 s  1 piclib.php->StorePicture> Pic ID 66 Successfully Stored on server. (Elp=1197.33 ms.)
+*22:58:09 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 66, UserID = 15
+*22:58:11 s  1 piclib.php->StorePicture> Pic ID 67 Successfully Stored on server. (Elp=1215.11 ms.)
+*22:58:11 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 67, UserID = 17
+*22:58:14 s  1 piclib.php->StorePicture> Pic ID 68 Successfully Stored on server. (Elp=1190.91 ms.)
+*22:58:14 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 68, UserID = 19
+*22:58:16 s  1 piclib.php->StorePicture> Pic ID 69 Successfully Stored on server. (Elp=1232.70 ms.)
+*22:58:16 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 69, UserID = 20
+*22:58:19 s  1 piclib.php->StorePicture> Pic ID 70 Successfully Stored on server. (Elp=1231.02 ms.)
+*22:58:19 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 70, UserID = 21
+*22:58:21 s  1 piclib.php->StorePicture> Pic ID 71 Successfully Stored on server. (Elp=1200.24 ms.)
+*22:58:21 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 71, UserID = 22
+*22:58:24 s  1 piclib.php->StorePicture> Pic ID 72 Successfully Stored on server. (Elp=1211.31 ms.)
+*22:58:24 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 72, UserID = 23
+*22:58:26 s  1 piclib.php->StorePicture> Pic ID 73 Successfully Stored on server. (Elp=1211.29 ms.)
+*22:58:26 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 73, UserID = 24
+*22:58:28 s  1 piclib.php->StorePicture> Pic ID 74 Successfully Stored on server. (Elp=1231.60 ms.)
+*22:58:28 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 74, UserID = 25
+*22:58:31 s  1 piclib.php->StorePicture> Pic ID 75 Successfully Stored on server. (Elp=1224.31 ms.)
+*22:58:31 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 75, UserID = 26
+*22:58:34 s  1 piclib.php->StorePicture> Pic ID 76 Successfully Stored on server. (Elp=1229.53 ms.)
+*22:58:34 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 76, UserID = 27
+*22:58:37 s  1 piclib.php->StorePicture> Pic ID 77 Successfully Stored on server. (Elp=1228.67 ms.)
+*22:58:37 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 77, UserID = 28
+*22:58:39 s  1 piclib.php->StorePicture> Pic ID 78 Successfully Stored on server. (Elp=1205.91 ms.)
+*22:58:39 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 78, UserID = 29
+*22:58:42 s  1 piclib.php->StorePicture> Pic ID 79 Successfully Stored on server. (Elp=1282.99 ms.)
+*22:58:42 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 79, UserID = 30
+*22:58:45 s  1 piclib.php->StorePicture> Pic ID 80 Successfully Stored on server. (Elp=1222.20 ms.)
+*22:58:45 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 80, UserID = 31
+*22:58:47 s  1 piclib.php->StorePicture> Pic ID 81 Successfully Stored on server. (Elp=1209.13 ms.)
+*22:58:47 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 81, UserID = 32
+*22:58:49 s  1 piclib.php->StorePicture> Pic ID 82 Successfully Stored on server. (Elp=1228.58 ms.)
+*22:58:49 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 82, UserID = 33
+*22:58:52 s  1 piclib.php->StorePicture> Pic ID 83 Successfully Stored on server. (Elp=1194.92 ms.)
+*22:58:52 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 83, UserID = 35
+*22:58:54 s  1 piclib.php->StorePicture> Pic ID 84 Successfully Stored on server. (Elp=1226.84 ms.)
+*22:58:54 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 84, UserID = 36
+*22:58:56 s  1 piclib.php->StorePicture> Pic ID 85 Successfully Stored on server. (Elp=1208.61 ms.)
+*22:58:56 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 85, UserID = 37
+*22:58:58 s  1 piclib.php->StorePicture> Pic ID 86 Successfully Stored on server. (Elp=1237.51 ms.)
+*22:58:58 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 86, UserID = 38
+*22:59:00 s  1 piclib.php->StorePicture> Pic ID 87 Successfully Stored on server. (Elp=1216.09 ms.)
+*22:59:01 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 87, UserID = 39
+*22:59:03 s  1 piclib.php->StorePicture> Pic ID 88 Successfully Stored on server. (Elp=1228.98 ms.)
+*22:59:03 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 88, UserID = 40
+*22:59:05 s  1 piclib.php->StorePicture> Pic ID 89 Successfully Stored on server. (Elp=1221.47 ms.)
+*22:59:05 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 89, UserID = 42
+*22:59:07 s  1 piclib.php->StorePicture> Pic ID 90 Successfully Stored on server. (Elp=1211.79 ms.)
+*22:59:07 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 90, UserID = 41
+*22:59:09 s  1 piclib.php->StorePicture> Pic ID 91 Successfully Stored on server. (Elp=1243.69 ms.)
+*22:59:09 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 91, UserID = 43
+*22:59:11 s  1 piclib.php->StorePicture> Pic ID 92 Successfully Stored on server. (Elp=1221.68 ms.)
+*22:59:11 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 92, UserID = 44
+*22:59:14 s  1 piclib.php->StorePicture> Pic ID 93 Successfully Stored on server. (Elp=1216.67 ms.)
+*22:59:14 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 93, UserID = 45
+*22:59:16 s  1 piclib.php->StorePicture> Pic ID 94 Successfully Stored on server. (Elp=1213.58 ms.)
+*22:59:16 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 94, UserID = 46
+*22:59:18 s  1 piclib.php->StorePicture> Pic ID 95 Successfully Stored on server. (Elp=1220.71 ms.)
+*22:59:18 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 95, UserID = 47
+*22:59:34 p  1 members_bulkpics.php>  
+*22:59:36 p  1 members.php>  
+*22:59:36 p  1 members_listpics.php>  
+*22:59:52 p  1 admin.php>  
+*22:59:53 p  1 admin_showlog.php>  
+*23:00:13 p  1 admin_showlog.php>  
+*23:00:15 p  1 members.php>  
+*23:00:15 p  1 members_listpics.php>  
+*23:00:43 p  1 members_edituser.php>  
+*23:00:47 p  1 members_listpics.php>  
+*23:04:36 p  1 members_bulkpics.php>  
+*23:04:40 p  1 members_bulkpics.php>  
+*23:04:43 s  1 piclib.php->StorePicture> Pic ID 97 Successfully Stored on server. (Elp=1209.37 ms.)
+*23:04:43 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 97, UserID = 41
+*23:04:45 s  1 piclib.php->StorePicture> Pic ID 98 Successfully Stored on server. (Elp=1239.71 ms.)
+*23:04:45 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 98, UserID = 43
+*23:04:48 s  1 piclib.php->StorePicture> Pic ID 99 Successfully Stored on server. (Elp=1218.46 ms.)
+*23:04:48 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 99, UserID = 44
+*23:04:50 s  1 piclib.php->StorePicture> Pic ID 100 Successfully Stored on server. (Elp=1212.50 ms.)
+*23:04:50 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 100, UserID = 45
+*23:04:52 s  1 piclib.php->StorePicture> Pic ID 101 Successfully Stored on server. (Elp=1212.44 ms.)
+*23:04:52 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 101, UserID = 46
+*23:04:54 s  1 piclib.php->StorePicture> Pic ID 102 Successfully Stored on server. (Elp=1221.25 ms.)
+*23:04:54 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 102, UserID = 47
+*23:04:56 s  1 piclib.php->StorePicture> Pic ID 103 Successfully Stored on server. (Elp=1223.43 ms.)
+*23:04:56 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 103, UserID = 48
+*23:04:59 s  1 piclib.php->StorePicture> Pic ID 104 Successfully Stored on server. (Elp=1221.10 ms.)
+*23:04:59 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 104, UserID = 49
+*23:05:01 s  1 piclib.php->StorePicture> Pic ID 105 Successfully Stored on server. (Elp=1218.54 ms.)
+*23:05:01 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 105, UserID = 50
+*23:05:03 s  1 piclib.php->StorePicture> Pic ID 106 Successfully Stored on server. (Elp=1226.14 ms.)
+*23:05:03 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 106, UserID = 51
+*23:05:05 s  1 piclib.php->StorePicture> Pic ID 107 Successfully Stored on server. (Elp=1260.69 ms.)
+*23:05:05 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 107, UserID = 52
+*23:05:08 s  1 piclib.php->StorePicture> Pic ID 108 Successfully Stored on server. (Elp=1216.67 ms.)
+*23:05:08 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 108, UserID = 53
+*23:05:10 s  1 piclib.php->StorePicture> Pic ID 109 Successfully Stored on server. (Elp=1216.83 ms.)
+*23:05:10 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 109, UserID = 54
+*23:05:12 s  1 piclib.php->StorePicture> Pic ID 110 Successfully Stored on server. (Elp=1227.88 ms.)
+*23:05:12 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 110, UserID = 55
+*23:05:14 s  1 piclib.php->StorePicture> Pic ID 111 Successfully Stored on server. (Elp=1221.65 ms.)
+*23:05:14 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 111, UserID = 56
+*23:05:16 s  1 piclib.php->StorePicture> Pic ID 112 Successfully Stored on server. (Elp=1227.16 ms.)
+*23:05:16 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 112, UserID = 57
+*23:05:16 s  1 members_bulkpics.php->ProcessBulkPics> 0 pictures imported. 16 failures. 19 lines processed.
+*23:05:47 p  1 members.php>  
+*23:05:47 p  1 members_listpics.php>  
+*23:06:10 p  1 members_edituser.php>  
+*23:06:17 p  1 badges.php>  
+*23:06:17 p  1 badges_showall.php>  
+*23:06:19 p  1 badges_makeall.php>  
+*23:06:20 p  1 badges_showall.php>  
+*23:06:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*23:06:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*23:06:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*23:06:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*23:06:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*23:06:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*23:06:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*23:06:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*23:06:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*23:06:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*23:06:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*23:06:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*23:06:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*23:06:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*23:06:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*23:06:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*23:06:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*23:06:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*23:06:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*23:06:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*23:06:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*23:06:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*23:06:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*23:06:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*23:06:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*23:06:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*23:06:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*23:06:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*23:06:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*23:06:26 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:06:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*23:06:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*23:06:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*23:06:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*23:06:27 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*23:06:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*23:06:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*23:06:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*23:06:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*23:06:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*23:06:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*23:06:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*23:06:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*23:06:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*23:06:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*23:06:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*23:06:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*23:06:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*23:06:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*23:06:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*23:06:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*23:06:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*23:06:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*23:06:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*23:06:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*23:06:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*23:06:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*23:06:32 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*23:06:36 p  1 badges_showbadge.php>  
+*23:07:28 p  1 attendance.php>  
+*23:07:29 p  1 admin.php>  
+*23:15:00 p  1 members.php>  
+*23:15:00 p  1 members_listpics.php>  
+*23:15:02 p  1 members_edituser.php>  
+*23:15:04 p  1 members_uploadpic.php>  
+*23:15:33 p  1 members_uploadpic.php>  
+*23:15:34 s  1 piclib.php->StorePicture> Pic ID 113 Successfully Stored on server. (Elp=1244.55 ms.)
+*23:15:34 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 113, UserID = 34
+*23:15:37 p  1 members.php>  
+*23:15:37 p  1 members_listpics.php>  
+*23:15:39 p  1 members_edituser.php>  
+*23:15:41 p  1 members_uploadpic.php>  
+*23:15:54 p  1 members_uploadpic.php>  
+*23:15:55 s  1 piclib.php->StorePicture> Pic ID 114 Successfully Stored on server. (Elp=1295.57 ms.)
+*23:15:55 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 114, UserID = 18
+*23:15:57 p  1 members.php>  
+*23:15:57 p  1 members_listpics.php>  
+*23:17:42 p  1 members_listpics.php>  
+*23:34:12 p  1 members.php>  
+*23:34:12 p  1 members_listpics.php>  
+*23:34:13 p  1 members_edituser.php>  
+*23:34:15 p  1 badges_showbadge.php>  
+*23:34:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:34:22 p  1 members.php>  
+*23:34:22 p  1 members_listpics.php>  
+*23:34:23 p  1 members_edituser.php>  
+*23:34:28 p  1 badges_showbadge.php>  
+*23:34:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:34:31 p  1 badges_showbadge.php>  
+*23:34:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:37:05 p  1 members_edituser.php>  
+*23:37:07 p  1 badges_showbadge.php>  
+*23:37:07 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:37:10 p  1 badges_showbadge.php>  
+*23:37:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:37:11 p  1 badges_showbadge.php>  
+*23:37:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:37:15 p  1 members_edituser.php>  
+*23:37:20 p  1 badges_showbadge.php>  
+*23:37:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:37:25 p  1 badges_showbadge.php>  
+*23:37:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:37:40 p  1 members_edituser.php>  
+*23:37:42 p  1 badges_showbadge.php>  
+*23:37:42 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:37:44 p  1 badges_showbadge.php>  
+*23:37:44 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:38:23 p  1 members_edituser.php>  
+*23:38:25 p  1 badges_showbadge.php>  
+*23:38:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:38:28 p  1 badges_showbadge.php>  
+*23:38:28 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:38:52 p  1 members_edituser.php>  
+*23:38:54 p  1 badges_showbadge.php>  
+*23:38:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:38:56 p  1 badges_showbadge.php>  
+*23:38:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:38:57 p  1 badges_showbadge.php>  
+*23:38:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:39:12 p  1 badges_makeall.php>  
+*23:39:14 p  1 badges_showall.php>  
+*23:39:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*23:39:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*23:39:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*23:39:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*23:39:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*23:39:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*23:39:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*23:39:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*23:39:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*23:39:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*23:39:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*23:39:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*23:39:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*23:39:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*23:39:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*23:39:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*23:39:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*23:39:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*23:39:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*23:39:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*23:39:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*23:39:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*23:39:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*23:39:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*23:39:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*23:39:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*23:39:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*23:39:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*23:39:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*23:39:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:39:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*23:39:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*23:39:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*23:39:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*23:39:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*23:39:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*23:39:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*23:39:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*23:39:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*23:39:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*23:39:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*23:39:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*23:39:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*23:39:22 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*23:39:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*23:39:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*23:39:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*23:39:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*23:39:23 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*23:39:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*23:39:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*23:39:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*23:39:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*23:39:24 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*23:39:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*23:39:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*23:39:25 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*23:39:25 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*23:39:29 p  1 badges_showall.php>  
+*23:39:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*23:39:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*23:39:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*23:39:29 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*23:39:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*23:39:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*23:39:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*23:39:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*23:39:30 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*23:39:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*23:39:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*23:39:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*23:39:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*23:39:31 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*23:39:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*23:39:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*23:39:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*23:39:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*23:39:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*23:39:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*23:39:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*23:39:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*23:39:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*23:39:33 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*23:39:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*23:39:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*23:39:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*23:39:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*23:39:34 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*23:39:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:39:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*23:39:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*23:39:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*23:39:35 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*23:39:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*23:39:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*23:39:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*23:39:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*23:39:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*23:39:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*23:39:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*23:39:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*23:39:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*23:39:37 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*23:39:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*23:39:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*23:39:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*23:39:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*23:39:38 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*23:39:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*23:39:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*23:39:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*23:39:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*23:39:39 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*23:39:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*23:39:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*23:39:40 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*23:39:40 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*23:39:50 p  1 badges_showbadge.php>  
+*23:39:53 p  1 badges_showall.php>  
+*23:39:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*23:39:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*23:39:53 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*23:39:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*23:39:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*23:39:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*23:39:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*23:39:54 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*23:39:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*23:39:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*23:39:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*23:39:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*23:39:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*23:39:55 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*23:39:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*23:39:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*23:39:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*23:39:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*23:39:56 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*23:39:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*23:39:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*23:39:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*23:39:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*23:39:57 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*23:39:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*23:39:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*23:39:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*23:39:58 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*23:39:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*23:39:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:39:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*23:39:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*23:39:59 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*23:40:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*23:40:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*23:40:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*23:40:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*23:40:00 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*23:40:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*23:40:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*23:40:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*23:40:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*23:40:01 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*23:40:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*23:40:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*23:40:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*23:40:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*23:40:02 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*23:40:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*23:40:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*23:40:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*23:40:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*23:40:03 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*23:40:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*23:40:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*23:40:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*23:40:04 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*23:40:04 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0
+*23:40:04 p  1 badges.php>  
+*23:40:04 p  1 badges_showall.php>  
+*23:40:11 p  1 badges_showbadge.php>  
+*23:41:43 p  1 members_edituser.php>  
+*23:41:45 p  1 badges_showbadge.php>  
+*23:41:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*23:41:47 p  1 badges_showbadge.php>  
+*23:41:47 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*23:42:08 p  1 badges_makeall.php>  
+*23:42:09 p  1 badges_showall.php>  
+*23:42:09 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chase Aardema, BadgeID=A001.
+*23:42:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Lorenzo Adler, BadgeID=A002.
+*23:42:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Baysic, BadgeID=A003.
+*23:42:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dalbert Brandon, BadgeID=A004.
+*23:42:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Michael Butkus, BadgeID=A005.
+*23:42:10 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ricky Carranza, BadgeID=A006.
+*23:42:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cerrik Chin, BadgeID=A007.
+*23:42:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Anna Collier, BadgeID=A008.
+*23:42:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jim Dekker, BadgeID=A009.
+*23:42:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nick Dekker, BadgeID=A010.
+*23:42:11 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ginger DeVries, BadgeID=A011.
+*23:42:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Paul DeVries, BadgeID=A012.
+*23:42:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Peter DeVries, BadgeID=A013.
+*23:42:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kyle Dominguez, BadgeID=A014.
+*23:42:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*23:42:12 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Dan Dominik, BadgeID=A016.
+*23:42:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*23:42:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hunter Feller, BadgeID=A018.
+*23:42:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David Fieldhouse, BadgeID=A019.
+*23:42:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gavin Fua, BadgeID=A020.
+*23:42:13 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Logan Furlong, BadgeID=A021.
+*23:42:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= William Furlong, BadgeID=A022.
+*23:42:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Gordan Gao, BadgeID=A023.
+*23:42:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathan  Gardner, BadgeID=A024.
+*23:42:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Temesghen Ghebreyesus, BadgeID=A025.
+*23:42:14 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Yoel Ghebreyesus, BadgeID=A026.
+*23:42:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Elisha Goldine-Hashim, BadgeID=A027.
+*23:42:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Granch, BadgeID=A028.
+*23:42:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Stan Granch, BadgeID=A029.
+*23:42:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Andrew Haitz, BadgeID=A030.
+*23:42:15 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Wayne He, BadgeID=A031.
+*23:42:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Kim, BadgeID=A032.
+*23:42:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Payton Kooi, BadgeID=A033.
+*23:42:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Cheyenne La France, BadgeID=A034.
+*23:42:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kristiana Lee, BadgeID=A035.
+*23:42:16 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jenny Liu, BadgeID=A036.
+*23:42:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Don Long, BadgeID=A037.
+*23:42:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Khalil Meade, BadgeID=A038.
+*23:42:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matt Moore, BadgeID=A039.
+*23:42:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Nathaniel Newbold, BadgeID=A040.
+*23:42:17 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Mike Ormonde, BadgeID=A041.
+*23:42:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= David O Toole, BadgeID=A042.
+*23:42:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jelani Poole, BadgeID=A043.
+*23:42:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= True Sarmiento, BadgeID=A044.
+*23:42:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Shawn Shi, BadgeID=A045.
+*23:42:18 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Matthew Sigala, BadgeID=A046.
+*23:42:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Madison Silva, BadgeID=A047.
+*23:42:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ellen Su, BadgeID=A048.
+*23:42:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Claus Tan, BadgeID=A049.
+*23:42:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Caleb Thacker, BadgeID=A050.
+*23:42:19 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tina Tran, BadgeID=A051.
+*23:42:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Ryan Vreeke, BadgeID=A052.
+*23:42:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Kevin Wen, BadgeID=A053.
+*23:42:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Jack Wu, BadgeID=A054.
+*23:42:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Melody Zhang, BadgeID=A055.
+*23:42:20 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Tab Zhang, BadgeID=A056.
+*23:42:21 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Hobbes Zhou, BadgeID=A057.
+*23:42:21 s  1 badges_showall.php->MakeAllBadges> All badges remade!
++> Badges Made: 57, Members without BadgeIDs: 0

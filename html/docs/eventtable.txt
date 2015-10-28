@@ -1,0 +1,41 @@
+The Event Table is the list of meetings that the team
+holds during the year.  Attendance is scored against
+this table.  There is only one table, and it can be 
+changed (uploaded) any time without hurting the raw
+attendance data.  Uploading a new table causes the
+attendance scores to be recalculated.
+
+The columns in the table are:
+
+Name, StartTime, EndTime, Type, Purpose
+
+Name is used to lable the attendance records for that
+event.  Typically, it is a simple abbrivation of the
+date, such as "1/3".  
+
+StartTime and EndTime specifiy the time of the event. 
+Normally they should be on the same day.  Regular SQL 
+time format is expected, such as "2015-01-03 18:30:00" 
+-- where the year, month, date, hour, minute, and second
+is given in 24-hour format.  To get credit for attending
+an event, a member must scan in or out during these times,
+or be scanned in throughout the event.
+
+Type tells if the event is counted toward the attendance 
+requirement.  It can be one of "Regular", "Manditory", or
+"Optional".  
+
+Purpose is a comment about the event that might be displayed
+with other data.  It should be kept short (say 20 chars max).
+
+
+Instructions:
+
+To upload the table, create a csv file with the columns
+described above.  The names of the columns must match thoses
+above exactly.  Its okay to have more columns than those
+listed -- they will be ignored.  
+
+Once the csv file is complete, upload it.  It will replace
+any existing event table.
+

@@ -1,0 +1,113 @@
+Worklog for admin.epicscouts.org
+
+------------ Sunday, 12/28/14
+1. Bought a new droplet at Digital Ocean.  $5/month kind.
+2. Gave it a host name of "admin.epicscouts.org".
+3. Created a DNS record for it, under the DNS menu
+   at Digital Ocean. Used "Add Domain".  Associated
+   the name "admin.epicscouts.org" with 104.236.140.24,
+   and the new droplet just created.
+4. Used console on Digital Ocean's webpage to log in as
+   root, and change the root loggin's pw to "loveepic".
+5. Able to use PuTTY immediately to log into new server
+   without any more configuration.
+6. Created a user accout: dal.  
+7. Added 'dal' to 'sudo' group.  Forgot how.
+8. Used Digital Ocean Turorial to install LAMP.
+   a. MySQL root password: "loveepic".
+   b. Installed the following php packages: 
+       sudo apt-get install php5-gd
+       sudo apt-get install php5-cli
+       sudo apt-get install php5-
+
+9. Changed mode and ownership of www files to root:www-data 0775.
+10. Added dal to group www-data
+11. Verified FTP working.  Remember to use port 22.
+
+-------------- Monday 12/29/14
+12. Get MySql to grant access remotely.
+    See: https://rtcamp.com/tutorials/mysql/remote-access/
+13. Setup MySql to grant access to 'webpage' and 'dal';
+    See: http://dev.mysql.com/doc/refman/5.1/en/adding-users.html
+14. Tested all web stuff by running EpicScouts.org on new website.
+15. Got new layout working, with nag pane and menubar.
+    Includes changes to header.php, footer.php.
+16. Started on Admin pages. Finished List Users, and Edit User.
+17. Added a new repository on bitbucket called "EpicAdmin".
+18. Pushed frist version of website to bitbucket.
+19. Installed first version of website on Digital Ocean.
+20. Finished ShowLog, Masquerade.
+
+-------------- Tuesday 12/30/14
+21. Filled out website so that the structure is shown.
+22. Finished all admin functions.  
+23. Changed database to put title and Badge number in Users Table.
+24. Updated user information.
+25. Added Account pages.
+26. Added Member pages.  Member adding, editing, listing.
+27. Got picture uploading to work in members and admin.
+28. Deployed everything to production.  All seems to work.
+29. Got a good start on drawing badges. 
+
+-------------- Wednesday 12/31/14
+30. Finished first version of drawing of badges.  Checked code in.
+31. Added lots of badge stuff to rest of website (lists, showall, ect).
+32. Wired badge making into member editing.
+33. Lots of email regarding badges and artwork.
+
+-------------- Thursday 1/1/15
+33. Wrote up rules regarding attendance system, emails.
+34. More email regarding artwork.
+35. Tried to do GUI with PHP... won't work.
+36. Reviewed Python programming.
+37. Learned Tkinter under Python 2.7.
+38. Spent time trying to get Tkinter to read jpg files... no go.
+39. Started final reader program.
+40. Got basic reader program working.
+41. Set up Mercurial for it.  Pushed it.
+42. Tested on Pi,  seems to work.
+
+-------------- Friday 1/2/15
+43. Configured Raspberry Pi for WiFi.  As simple as plugging dongle in, and running 
+    WiFi Config from the desktop. 
+44. Configured Rasp-pi for proper timezone:
+    sudo dpkg-reconfigure tzdata
+45. Configured Rasp-pi so that "ae" and "AE" both start the attendance program.
+    link: /usr/bin/ae -> /home/pi/attendance/epicreader.py
+    link: /usr/bin/AE -> /home/pi/attendance/epicreader.py    
+46. Got epicreader setup to run at startup.  Did this by:
+    a. creating the directory: /home/pi/.config/autostart
+    b. creating the file: /home/pi/.config/autostart/attendance.desktop
+    c. putting the following contents in the file:
+    [Desktop Entry]
+    Name=Attendance
+    Exec=lxterminal --working-directory=/home/pi/attendance --command=/home/pi/attendance/epicreader.py
+    Type=Application
+47. Got epicreader polished up, fixed various bugs.
+48. Worked on generating GIF files for reader using EpicAdmin php code.
+49. FInished hardward.  Booted on SD with new Raspberry... worked.
+50. Started work on new pictures from Will.  Added new "upload" in badges.
+51. Finished everything up.  New badge makers, 57 badges, tested. image backedup.
+
+-------------- Thursday 1/15/15
+52. Added new members: Kyle Fleming, Nestor Maldonado to user list.
+53. Set up user list as follows: UserList.xlsx (master) => UserList.csv => UserListPart1.csv, UserListPart2.csv
+54. Put Kyles and Nestors pics in the public dropbox.
+55. Synced main site to know Kyle and Nestor.
+56. Added pages for downloading and printing the badge images.
+57. Pushed changes, deployed changes to production.
+58. Fixed a few bugs. New push.
+
+-------------- Monday, 2/9/15
+59. Added "Corrections" feature.
+60. Pushed changes, deployed code.
+
+
+
+
+    
+
+
+ 
+
+
