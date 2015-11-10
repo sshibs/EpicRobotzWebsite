@@ -1,3 +1,27 @@
+<!DOCTYPE HTML> 
+<html>
+<body> 
+
+<?php
+// --------------------------------------------------------------------
+// workorder_create_form.php -- form to add work orders.
+//
+// Created: 11/07/15 PR
+// --------------------------------------------------------------------
+
+
+if(!empty($success_msg))
+{
+    echo '<div class="inputform_msg" id="inputform_success_msg" >' . $success_msg . "</div>";
+}
+if(!empty($error_msg))
+{
+    echo '<div class="inputform_msg" id="inputform_error_msg" >' . $error_msg . "</div>";
+}
+?>
+
+<form action= "workorder_addnew.php" method="post">
+
 <h1>Create new workorder:</h1>
 <div style="float:left;width:450px;height:575px;padding:10px;border:10px solid black;">
 --------------------Workorder information--------------------
@@ -11,6 +35,8 @@ Workorder description:
 <br>
 <textarea rows="4" cols="50" placeholder="Description" name="WorkOrderName">
 </textarea>
+
+
 <br>
 Workorder request date (MM/DD/YYYY): [DATE]
 <br>
@@ -112,3 +138,7 @@ Has this workorder been approved by requesting IPT group's IPT Leader? <select>
 <br>
 <input type="submit" value="Submit workorder">
 </div>
+
+</body>
+</html>
+
