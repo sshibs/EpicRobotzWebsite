@@ -1,4 +1,4 @@
-<?php
+l<?php
 // --------------------------------------------------------------------
 // badgelib.php:  library fucntions that deal with making badges.
 //
@@ -33,8 +33,7 @@ require_once "libs/php-barcode.php";
 function MakeBadge($data)
 {
     global $config;
-    $loc = 'badgeli.php->MakeBadge';
-    
+    $loc = 'badgeli.php->MakeBadge'; 
     if(!isset($data["BadgeID"])) return 'BadgeID not given.';
     if(!isset($data["FirstName"])) return 'FirstName not given.';
     if(!isset($data["LastName"])) return 'LastName not given.';
@@ -453,7 +452,16 @@ function GetBadgeFile($badgeid, $side="front")
     $file = $p . $badgeid . $s;
     return $file;
 }
-
+// --------------------------------------------------------------------
+// Returns the file path to a badge, given the StickerID. 
+function GetStickerFile($stickerid)
+{
+    global $config;
+    $p = $config["UploadDir"] . 'stickers/';
+    $s = '.gif';
+    $file = $p . $stickerid . $s;
+    return $file;
+}
 // --------------------------------------------------------------------
 // Returns the URL to a badge, given the BadgeID and side.  The side
 // can be 'front' or 'back'.
@@ -741,6 +749,32 @@ function PaintBadgeOnSheet($img, $filename, $x0, $y0, $swell)
         return $msg;
     }
 }
+function PaintStickerOnSheet($img, $filename, $x0, $y0, $swell)
+{
+    $loc = 'badeglib.php->PaintBadgeOnSheet';
+    if(!file_exists($filename)) return;
+    $bimg = @imagecreatefromjpeg($filename);
+    if($bimg === false)
+    {
+        $msg = 'imagecreatefromjpeg() failed on our image: ' . $filename;
+        log_error($loc, $msg);
+        return $msg;
+    }
+    $xsz = imagesx($bimg);
+    $ysz = imagesy($bimg);
+    
+    $result = @imagecopyresampled($img, $bimg, 
+                $x0 - $swell, $y0 - $swell,       // Destination start
+                0, 0,                             // Source start
+                175 + 2*$swell, 215 + 2*$swell,  // Destinatin size
+                $xsz, $ysz);                      // Source Size
+    if($result === false)
+    {
+        $msg = 'imagecopyresampled() failed on our image: ' . $filename;
+        log_error($loc, $msg);
+        return $msg;
+    }
+}
 
 function ImageBox($img, $x0, $y0, $color)
 {
@@ -749,7 +783,76 @@ function ImageBox($img, $x0, $y0, $color)
     imageline($img, $x0+637, $y0+1012, $x0 + 637, $y0,      $color);
     imageline($img, $x0+637, $y0+1012, $x0,       $y0+1012, $color);
 }
+// --------------------------------------------------------------------
+// Make sticker print sheet.  Makes a page, suitable for printing
+// 	stickers of top half of badge.
+//
+// The page is 300dpi, with a border of 0.625" (187.5px) on all sides.
+// The padding between the Stickers is 7/16" (131.25px).  Up to 12 Stickers
+// can be printed on a 8.5x11 page.  Size of each Sticker should be
+// (637.5x1012.5) pixels.
+//
+//  The Stickers will be layed out as follows:
+// 
+//   Front:               
+//   -----------------   
+//   | 0 | 1 | 2 | 3 |    
+//   -----------------     
+//   | 4 | 5 | 6 | 7 |   
+//   -----------------
+//   | 8 | 9 | 10| 11|   
+//   -----------------  
 
+function MakeStickerPrintSheet($badgelist, $basefilename)
+{
+    global $config;
+    $swell = 6; // Number of pixels that we enlarge each badge around it's border.
+    $w = intval(4*(175.5) + 3*(131.25)) + 1 + 2*$swell;
+    $h = intval(2*(220.5 + 131.25)) + 1 + 2*$swell;
+
+    $img = @imagecreatetruecolor($w, $h);
+    $white  = ImageColorAllocate($img,0xff,0xff,0xff);
+    $red    = ImageColorAllocate($img,0xff,0x00,0x00);
+    $blue   = ImageColorAllocate($img,0x00,0x00,0xff);
+    $black  = ImageColorAllocate($img,0x00,0x00,0x00);
+
+    imagefilledrectangle($img, 0, 0, $w, $h, $white);
+
+    for($i = 0; $i < 4; $i++)
+    {
+        for($j = 0; $j < 3; $j++)
+        {
+            // Establish top,left corner of each image.
+            $x0 = $swell + intval($i*(175.5+75.25));
+            $y0 = $swell + intval($j*(220.5));
+
+            // Draw a box around the image...
+            // This box should get covered up because of the swell.
+            StickerImageBox($img, $x0, $y0, $black);
+
+
+            // Get the badgeId for this position.
+            $badge = "";
+            $index = $i + 4*$j;
+            $badgeid = "";
+            $file = "";
+            if(isset($badgelist[$index])) $stickerid = $badgelist[$index];
+
+            // Get the file names.
+            if(!empty($stickerid)) $file = GetStickerFile($stickerid);
+            PaintStickerOnSheet($img, $file, $x0, $y0, $swell);
+        }
+    }
+    SaveSheetImg("sheets", $img, $basefilename . '.jpg');
+}
+
+function StickerImageBox($img, $x0, $y0, $color)
+{
+    imageline($img, $x0,     $y0,      $x0 + 175, $y0,      $color);
+    imageline($img, $x0,     $y0,      $x0,       $y0+200, $color);
+    imageline($img, $x0+175, $y0+200, $x0 + 175, $y0,      $color);
+    imageline($img, $x0+175, $y0+200, $x0,       $y0+200, $color);
+}
 // --------------------------------------------------------------------
 // Saved an image in a folder under the given name.  The folder is 
 // created if it does not exist.

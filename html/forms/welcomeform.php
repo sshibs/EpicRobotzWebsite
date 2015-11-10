@@ -18,11 +18,11 @@ to manage attendance and other team logistics.
 
 <p class="welcome_msg">
 The EPIC Robotz team is based in Valley Christian High School, in 
-Cerriotos California.
+Cerritos California.
 </p>
 
 <p class="welcome_msg">
-This website was last updated 12/29/14.
+This website was last updated 11/7/15.
 </p>
 
 </div>
