@@ -1,0 +1,401 @@
+#01/20/2015 Tuesday   Dals Development Computer
+*09:12:34 p  1 t.php>  
+*09:58:03 p  1 t.php>  
+*09:58:05 p  1 account_showscans.php>  
+*09:58:07 p  1 t.php>  
+*09:58:25 p  1 attendance.php>  
+*09:58:59 p  1 t.php>  
+*09:59:05 p  1 attendance.php>  
+*09:59:21 p  1 reader.php>  
+*10:03:00 p  1 reader.php>  
+*10:03:10 p  1 account.php>  
+*10:03:12 p  1 account_setup.php>  
+*11:24:23 p  1 reader.php>  
+*11:24:24 p  1 reader_setup.php>  
+*11:24:24 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:24:38 p  1 reader_setup.php>  
+*11:24:38 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:26:07 p  1 reader_setup.php>  
+*11:26:07 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:26:08 p  1 reader_setup.php>  
+*11:26:08 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:33:54 p  1 reader_setup.php>  
+*11:33:54 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:33:57 p  1 reader_setup.php>  
+*11:33:57 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:34:01 p  1 reader_setup.php>  
+*11:34:01 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:34:38 p  1 reader_setup.php>  
+*11:34:38 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:37:02 p  1 reader_setup.php>  
+*11:37:02 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:37:02 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:37:02 e  1 preflib.php->SavePrefsForUser> SQL Querry Failure!
++> SQL=INSERT INTO Prefs (UserID, PrefName, PrefValue) VALUES (0, "LastDay", "12/5/2014")
+*11:40:24 p  1 reader_setup.php>  
+*11:40:24 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:40:24 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*11:40:24 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*11:40:24 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*11:40:26 p  1 reader_setup.php>  
+*11:40:26 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*11:40:27 p  1 reader_setup.php>  
+*11:40:27 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*11:40:31 p  1 reader_setup.php>  
+*11:40:31 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*11:40:31 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*11:40:31 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*11:40:31 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*11:41:57 p  1 reader_uploadlog.php>  
+*11:43:27 p  1 reader_uploadlog.php>  
+*11:43:37 p  1 reader_uploadlog.php>  
+*11:48:11 p  1 reader_uploadlog.php>  
+*11:48:21 p  1 reader_uploadlog.php>  
+*11:48:39 p  1 reader_uploadlog.php>  
+*11:50:39 p  1 reader_uploadlog.php>  
+*11:50:47 p  1 reader_uploadlog.php>  
+*11:50:47 e  1 reader_uploadlog.php> $_FILES not set.
+*11:53:14 p  1 reader_uploadlog.php>  
+*11:53:22 p  1 reader_uploadlog.php>  
+*11:53:22 e  1 reader_uploadlog.php> $_FILES not set.
+*12:00:30 p  1 reader_uploadlog.php>  
+*12:01:06 p  1 reader_uploadlog.php>  
+*12:04:03 p  1 reader_uploadlog.php>  
+*12:04:13 p  1 reader_uploadlog.php>  
+*12:04:27 p  1 reader_uploadlog.php>  
+*12:19:46 p  1 reader_uploadlog.php>  
+*12:21:18 p  1 reader_uploadlog.php>  
+*12:21:45 p  1 account.php>  
+*12:21:46 p  1 account_showscans.php>  
+*12:23:10 p  1 attendance.php>  
+*12:23:14 p  1 t.php>  
+*12:23:20 p  1 attendance.php>  
+*12:23:22 p  1 attendance_uploadevents.php>  
+*12:23:48 p  1 attendance_uploadevents.php>  
+*12:23:49 s  1 attendance_uploadevents.php->ProcessEventFile> 49 events added. 0 failures. 52 lines processed.
+*12:23:52 p  1 t.php>  
+*12:27:47 p  1 reader.php>  
+*12:27:49 p  1 reader_setup.php>  
+*12:27:49 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*12:35:51 p  1 t.php>  
+*12:36:09 p  1 t.php>  
+*12:38:58 p  1 t.php>  
+*12:38:58 e  1 databaselib.php->GetSqlTable> SQL Querry Failure!
++> SQL=SELECT * FROM EventTimes WHERE ORDER BY StartTime
+*12:40:04 p  1 t.php>  
+*12:43:33 p  1 t.php>  
+*12:44:07 p  1 t.php>  
+*13:10:33 p  1 t.php>  
+*13:11:17 p  1 t.php>  
+*13:42:16 p  1 t.php>  
+*13:42:26 p  1 t.php>  
+*13:42:26 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*13:42:32 p  1 reader.php>  
+*13:42:33 p  1 reader_setup.php>  
+*13:42:33 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*13:42:46 p  1 reader_setup.php>  
+*13:42:46 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*13:42:46 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 0
+*13:42:46 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*13:42:46 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:42:59 p  1 reader_setup.php>  
+*13:42:59 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:45:07 p  1 t.php>  
+*13:45:07 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:45:27 p  1 reader.php>  
+*13:45:29 p  1 reader_setup.php>  
+*13:45:29 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:45:37 p  1 reader_setup.php>  
+*13:45:37 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:45:37 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:45:37 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*13:45:37 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:46:18 p  1 reader_setup.php>  
+*13:46:18 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:46:22 p  1 t.php>  
+*13:46:22 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:46:43 p  1 admin.php>  
+*13:46:45 p  1 reader.php>  
+*13:46:46 p  1 reader_setup.php>  
+*13:46:46 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:46:54 p  1 reader_setup.php>  
+*13:46:54 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:46:54 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:46:54 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*13:46:54 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:46:58 p  1 t.php>  
+*13:46:58 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:50:27 p  1 reader.php>  
+*13:50:28 p  1 reader_setup.php>  
+*13:50:28 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:50:30 p  1 reader_setup.php>  
+*13:50:30 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:50:37 p  1 reader_setup.php>  
+*13:50:37 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:07 p  1 reader_setup.php>  
+*13:51:07 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:17 p  1 reader_setup.php>  
+*13:51:17 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:17 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:17 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*13:51:17 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:22 p  1 reader_setup.php>  
+*13:51:22 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:22 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:22 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*13:51:22 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:28 p  1 reader_setup.php>  
+*13:51:28 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:51:29 p  1 reader_setup.php>  
+*13:51:29 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:52:57 p  1 reader_setup.php>  
+*13:52:57 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:53:04 p  1 reader_setup.php>  
+*13:53:04 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:53:04 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:53:04 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*13:53:04 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:53:07 p  1 t.php>  
+*13:53:07 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*13:53:41 p  1 account.php>  
+*13:54:37 p  1 account_setup.php>  
+*13:54:40 p  1 account_showscans.php>  
+*13:54:43 p  1 account.php>  
+*14:07:42 p  1 t.php>  
+*14:07:42 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:12:34 p  1 account.php>  
+*14:12:34 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:13:07 p  1 t.php>  
+*14:13:07 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:13:12 p  1 account.php>  
+*14:13:12 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:13:50 p  1 account.php>  
+*14:13:50 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:14:11 p  1 account.php>  
+*14:14:11 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:15:14 p  1 account.php>  
+*14:15:14 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:15:30 p  1 account.php>  
+*14:15:30 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:15:40 p  1 account.php>  
+*14:15:40 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:17:46 p  1 account.php>  
+*14:17:46 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:18:09 p  1 account.php>  
+*14:18:09 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:18:17 p  1 account.php>  
+*14:18:17 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:20:51 p  1 reader.php>  
+*14:20:52 p  1 reader_setup.php>  
+*14:20:52 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:20:58 p  1 reader_setup.php>  
+*14:20:58 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:20:58 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:20:58 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*14:20:58 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:21:00 p  1 account.php>  
+*14:21:00 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:27:33 p  1 account.php>  
+*14:27:33 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:29:36 p  1 account.php>  
+*14:29:36 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:30:52 p  1 account.php>  
+*14:30:52 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:31:31 p  1 account.php>  
+*14:31:31 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:32:11 p  1 account.php>  
+*14:32:11 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:32:40 p  1 account.php>  
+*14:32:40 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:33:44 p  1 account.php>  
+*14:33:44 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:33:52 p  1 account.php>  
+*14:33:52 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:34:13 p  1 account.php>  
+*14:34:13 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:34:21 p  1 account.php>  
+*14:34:21 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:34:28 p  1 account.php>  
+*14:34:28 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:35:13 p  1 account.php>  
+*14:35:13 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:35:32 p  1 account_showscans.php>  
+*14:35:33 p  1 account_setup.php>  
+*14:35:39 p  1 account.php>  
+*14:35:39 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:35:52 p  1 account.php>  
+*14:35:52 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:36:03 p  1 admin.php>  
+*14:36:05 p  1 admin_masquerade.php>  
+*14:36:09 p  1 admin_masquerade.php>  
+*14:36:09 s  1 admin_masquerade.php> User dal is attemping to masquerade as anna
+*14:36:09 s  0 userlib.php->StartLogin> checking=anna, bypass=true
+*14:36:09 s  0 userlib.php->StartLogin> User "anna" used bypass feature to avoid password match.
+*14:36:09 s  8 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 8
+*14:36:09 s  8 userlib.php->StartLogin> >>>>>>>>>>> Collier, Anna
++> New Login!  UserName=anna,   UserID=8
++> IP Address= ::1    Tags=Member
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*14:36:09 p  8 welcome.php>  
+*14:36:11 p  8 account.php>  
+*14:36:11 s  8 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:36:17 p  8 account_setup.php>  
+*14:36:19 p  8 account_showscans.php>  
+*14:37:03 p  8 account_showscans.php>  
+*14:37:04 p  8 account.php>  
+*14:37:04 s  8 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:37:06 p  8 account_showscans.php>  
+*14:37:06 p  8 account_setup.php>  
+*14:37:08 p  8 account.php>  
+*14:37:08 s  8 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:37:50 p  8 reader.php>  
+*14:37:54 p  8 account.php>  
+*14:37:54 s  8 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:38:38 p  8 account.php>  
+*14:38:38 s  8 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:38:40 p  8 attendance.php>  
+*14:38:42 p  8 account.php>  
+*14:38:42 s  8 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:39:01 p  8 logout.php>  
+*14:39:01 s  8 logout.php> Masquerade session is over.
+*14:39:01 s  0 logout.php> Attempting to re-login as dal
+*14:39:01 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*14:39:01 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*14:39:01 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*14:39:01 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Editor/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*14:39:01 p  1 welcome.php>  
+*14:39:03 p  1 reader.php>  
+*14:39:04 p  1 reader_setup.php>  
+*14:39:04 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:39:09 p  1 reader_setup.php>  
+*14:39:09 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:39:09 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:39:09 s  1 preflib.php->SavePrefsForUser> 1 preferences updated/saved successfully for user 0
+*14:39:09 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:39:11 p  1 account.php>  
+*14:39:11 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:49:14 p  1 attendance.php>  
+*14:49:18 p  1 attendance.php>  
+*14:49:19 p  1 attendance.php>  
+*14:49:20 p  1 attendance.php>  
+*14:49:20 p  1 attendance.php>  
+*14:49:21 p  1 attendance_uploadevents.php>  
+*14:50:01 p  1 reader.php>  
+*14:50:05 p  1 attendance.php>  
+*14:50:17 p  1 reader.php>  
+*14:50:18 p  1 reader_setup.php>  
+*14:50:18 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:53:06 p  1 reader.php>  
+*14:53:08 p  1 attendance.php>  
+*14:53:10 p  1 attendance_uploadevents.php>  
+*14:53:13 p  1 attendance_setup.php>  
+*14:53:13 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:53:16 p  1 attendance_setup.php>  
+*14:53:16 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:53:40 p  1 attendance_setup.php>  
+*14:53:40 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:53:42 p  1 attendance_uploadevents.php>  
+*14:53:46 p  1 attendance.php>  
+*14:54:36 p  1 attendance.php>  
+*14:54:37 p  1 attendance_setup.php>  
+*14:54:37 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*14:54:38 p  1 attendance_uploadevents.php>  
+*15:02:42 p  1 t.php>  
+*15:02:42 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:02:53 p  1 t.php>  
+*15:02:53 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:08:57 p  1 t.php>  
+*15:08:57 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:11:10 p  1 account.php>  
+*15:11:10 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:12:01 p  1 account.php>  
+*15:12:01 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:12:15 p  1 account.php>  
+*15:12:15 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:13:35 p  1 account.php>  
+*15:13:35 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:14:01 p  1 account.php>  
+*15:14:01 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:15:16 p  1 account.php>  
+*15:15:16 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:15:24 p  1 account.php>  
+*15:15:24 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:15:30 p  1 account.php>  
+*15:15:30 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:15:33 p  1 attendance.php>  
+*15:16:52 p  1 t.php>  
+*15:16:52 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:18:57 p  1 attendance.php>  
+*15:18:59 p  1 attendance_setup.php>  
+*15:18:59 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:20:15 p  1 attendance_setup.php>  
+*15:20:15 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:20:19 p  1 attendance.php>  
+*15:20:19 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:20:59 p  1 t.php>  
+*15:20:59 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:22:35 p  1 attendance.php>  
+*15:22:35 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:23:02 p  1 attendance.php>  
+*15:23:02 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:23:06 p  1 attendance_setup.php>  
+*15:23:06 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:23:13 p  1 attendance_setup.php>  
+*15:23:13 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:23:15 p  1 attendance.php>  
+*15:23:15 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:24:02 p  1 attendance.php>  
+*15:24:02 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:24:43 p  1 attendance.php>  
+*15:24:43 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:25:13 p  1 attendance.php>  
+*15:25:13 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:25:46 p  1 attendance.php>  
+*15:25:46 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:26:28 p  1 attendance.php>  
+*15:26:28 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:27:23 p  1 attendance.php>  
+*15:27:23 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:27:44 p  1 attendance.php>  
+*15:27:44 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:28:26 p  1 attendance.php>  
+*15:28:26 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:28:28 p  1 account.php>  
+*15:28:28 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:28:40 p  1 attendance.php>  
+*15:28:40 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:28:52 p  1 attendance.php>  
+*15:28:52 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:30:03 p  1 admin.php>  
+*15:30:05 p  1 admin_listusers.php>  
+*15:41:47 p  1 attendance.php>  
+*15:41:47 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:42:10 p  1 attendance.php>  
+*15:42:10 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:44:53 p  1 t.php>  
+*15:44:53 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:45:31 p  1 attendance.php>  
+*15:45:31 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:47:19 p  1 attendance.php>  
+*15:47:19 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:47:30 p  1 attendance.php>  
+*15:47:30 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:47:45 p  1 attendance.php>  
+*15:47:45 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:49:38 p  1 attendance.php>  
+*15:49:38 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:50:05 p  1 attendance.php>  
+*15:50:05 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:50:13 p  1 attendance.php>  
+*15:50:13 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:50:26 p  1 attendance.php>  
+*15:50:26 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:50:57 p  1 attendance.php>  
+*15:50:57 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:55:43 p  1 attendance.php>  
+*15:55:43 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0
+*15:56:40 p  1 attendance.php>  
+*15:56:40 s  1 preflib.php->GetPrefsForUser> 1 preferences retrieved successfully for user 0

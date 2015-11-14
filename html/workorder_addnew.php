@@ -27,7 +27,7 @@ if( $_SERVER["REQUEST_METHOD"] == "POST")
         $sEmpty = array();
         if(empty($_POST["WorkOrderName"]))  $sEmpty[] = "Work Order Name";
         if(empty($_POST["RequestingIPTGroup"]))  $sEmpty[] = "Requesting IPT Group";
-        if(empty($_POST["RecievingIPTGroup"]))  $sEmpty[] = "Recieving IPT Group";
+        if(empty($_POST["ReceivingIPTGroup"]))  $sEmpty[] = "Recieving IPT Group";
         if(count($sEmpty) > 0)
         {
 		 $error_msg = "Required information missing: ";
@@ -41,11 +41,11 @@ if( $_SERVER["REQUEST_METHOD"] == "POST")
         $error_msg .= '.';
         goto GenerateHtml;
         }
-		
-		$data = ExtractValuesFromParamList($param_list);
+
+		//$data = ExtractValuesFromParamList($param_list);
 		global $config;
 		$WorkOrderName = "";
-		$NeedByDate = "";
+		$DateNeeded = "";
 		$Priority = "";
 		$DayEstimate = "";
 		$Revision = "";
@@ -56,40 +56,40 @@ if( $_SERVER["REQUEST_METHOD"] == "POST")
 		$Quantity = "";
 		$Description = "";
 		$UnitPrice = "";
-		$JobName = "";
 		$FilePath = "";
-		
-		if(!empty($_POST["WorkOrderName"]) ) { $WorkOrderName = SQLClean($params["WorkOrderName"]);}
-		if(!empty($_POST["DueYear"]) && empty($_POST["DueMonth"]) && empty($_POST["DueDay"])) { $NeedByDate = SQLClean($params["DueYear"] . "-" . SQLClean($params["DueMonth"]) . "-" . SQLClean($params["DueDay"];}
-		if(!empty($_POST["Priority"]) ) { $Priority = SQLClean($params["Priority"]);}
-		if(!empty($_POST["DayEstimate"]) ) { $DayEstimate = SQLClean($params["DayEstimate"]);}
-		if(!empty($_POST["Revision"]) ) { $Revision = SQLClean($params["Revision"]);}
-		if(!empty($_POST["Requestor"]) ) { $Requestor = SQLClean($params["Requestor"]);}
-		if(!empty($_POST["Project"]) ) { $Project = SQLClean($params["Project"]);}
-		if(!empty($_POST["RequestingIPTGroup"]) ) { $RequestingIPTGroup = SQLClean($params["RequestingIPTGroup"]);}
-		if(!empty($_POST["ReceivingIPTGroup"]) ) { $ReceivingIPTGroup = SQLClean($params["ReceivingIPTGroup"]);}
-		if(!empty($_POST["Quantity"]) ) { $Quantity = SQLClean($params["Quantity"]);}
-		if(!empty($_POST["Description"]) ) { $Description = SQLClean($params["Description"]);}
-		if(!empty($_POST["UnitPrice"]) ) { $UnitPrice = SQLClean($params["UnitPrice"]);}
-		if(!empty($_POST["JobName"]) ) { $JobName = SQLClean($params["JobName"]);}
-		if(!empty($_POST["FilePath"]) ) { $FilePath = SQLClean($params["FilePath"]);}
-		
+		$Prereq = "";
+
+		if(!empty($_POST["WorkOrderName"]) ) { $WorkOrderName = SQLClean($_POST["WorkOrderName"]);}
+		if(!empty($_POST["DueYear"]) && !empty($_POST["DueMonth"]) && !empty($_POST["DueDay"])) { $DateNeeded = SQLClean($_POST["DueYear"]) . "-" . SQLClean($_POST["DueMonth"]) . "-" . SQLClean($_POST["DueDay"]);}
+		if(!empty($_POST["Priority"]) ) { $Priority = SQLClean($_POST["Priority"]);}
+		if(!empty($_POST["DayEstimate"]) ) { $DayEstimate = SQLClean($_POST["DayEstimate"]);}
+		if(!empty($_POST["Revision"]) ) { $Revision = SQLClean($_POST["Revision"]);}
+		if(!empty($_POST["Requestor"]) ) { $Requestor = SQLClean($_POST["Requestor"]);}
+		if(!empty($_POST["Project"]) ) { $Project = SQLClean($_POST["Project"]);}
+		if(!empty($_POST["RequestingIPTGroup"]) ) { $RequestingIPTGroup = SQLClean($_POST["RequestingIPTGroup"]);}
+		if(!empty($_POST["ReceivingIPTGroup"]) ) { $ReceivingIPTGroup = SQLClean($_POST["ReceivingIPTGroup"]);}
+		if(!empty($_POST["Quantity"]) ) { $Quantity = SQLClean($_POST["Quantity"]);}
+		if(!empty($_POST["Description"]) ) { $Description = SQLClean($_POST["Description"]);}
+		if(!empty($_POST["Prereq"]) ) { $Prereq = SQLClean($_POST["Prereq"]);}
+		if(!empty($_POST["UnitPrice"]) ) { $UnitPrice = SQLClean($_POST["UnitPrice"]);}
+		if(!empty($_POST["FilePath"]) ) { $FilePath = SQLClean($_POST["FilePath"]);}
+		$Requestor = GetUserName();
 		// Check for duplicate name
-		sql =  'SELECT WorkOrderName FROM WorkOrders WHERE WorkOrderName ="' . $WorkOrderName . '"';
-		$result - SqlQuery($loc, $sql);
+		$sql =  'SELECT WorkOrderName FROM WorkOrders WHERE WorkOrderName ="' . $WorkOrderName . '"';
+		$result = SqlQuery($loc, $sql);
 		if($result->num_rows > 0)
 		{
 			$error_msg = 'Unable to add new Work Order. Duplicate Work Order Name. (' . $WorkOrderName . ')';
 			log_msg($loc, $msg);
 			goto GenerateHtml;
 		}
-		
+
 		// Build the sql to add workorder
-		$sql = 'INSERT INTO WorkOrders (WorkOrderName, NeedByDate, Priority, DayEstimate, Revision, Requestor, ' 
-			.  'Project, RequestingIPTGroup, RecievingIPTGroup, Quantity, Description, UnitPrice, JobName, FilePath) ';
+		$sql = 'INSERT INTO WorkOrders (WorkOrderName, DateNeeded, Priority, DayEstimate, Revision, Requestor, ' 
+			.  'Project, RequestingIPTGroup, ReceivingIPTGroup,RequestingIPTLeadApproval, AssignedIPTLeadApproval, ProjectOfficeApproval, DateRequested) ';
 			$sql .= ' VALUES(';
 		$sql .= '  "' . $WorkOrderName  . '"';
-		$sql .= ', "' . $NeedByDate    . '"';
+		$sql .= ', "' . $DateNeeded    . '"';
 		$sql .= ', "' . $Priority  . '"';
 		$sql .= ', "' . $DayEstimate . '"';
 		$sql .= ', "' . $Revision  . '"';
@@ -97,31 +97,57 @@ if( $_SERVER["REQUEST_METHOD"] == "POST")
 		$sql .= ', "' . $Project   . '"';
 		$sql .= ', "' . $RequestingIPTGroup     . '"';
 		$sql .= ', "' . $ReceivingIPTGroup      . '"';
-		$sql .= ', "' . $RQuantity  . '"';
-		$sql .= ', "' . $Description     . '"';
-		$sql .= ', "' . $UnitPrice   . '"';
-		$sql .= ', "' . $JobName     . '"';
-		$sql .= ', "' . $FilePath      . '"';
+		$sql .= ', true';
+		$sql .= ', false';
+		$sql .= ', false';
+		$sql .= ', CURDATE()';
 		$sql .= ')';
-		
+
 		$result = SqlQuery($loc, $sql);
-		log_msg($loc, 
-       array("New Work Order added!  Job name =" . $JobName ,
-       "DueDate= " . $NeedByDate ));
-	   
-	   
-        $success_msg = 'User "' . $_POST["UserName"] . '" successfully added.';
+		$sql = 'SELECT WorkOrderID, WorkOrderName FROM WorkOrders WHERE WorkOrderName = "' . $WorkOrderName . '";';
+		$result =SqlQuery($loc, $sql);
+		$rowCount = $result->num_rows;
+		if ($rowCount > 0) {
+    			$row = $result->fetch_assoc();
+			$WorkOrderID = $row["WorkOrderID"];
+			$sql = 'INSERT INTO WorkOrderTasks  (WorkOrderID, Quantity, Description, UnitPrice )';
+			$sql .= ' VALUES(';
+			$sql .= ' "' . $WorkOrderID  . '"';
+			$sql .= ', "' . $Quantity  . '"';
+			$sql .= ', "' . $Description     . '"';
+			$sql .= ', "' . $UnitPrice   . '"';
+			$sql .= ')';
+			$result = SqlQuery($loc, $sql);
+			$sql = 'SELECT WorkOrderID from WorkOrders WHERE WorkOrderName  = "' . $Prereq . '";';
+			$result =SqlQuery($loc, $sql);
+			$rowCount = $result->num_rows;
+			if ($rowCount > 0) {
+    				$row = $result->fetch_assoc();
+				$PrevWorkOrderID = $row["WorkOrderID"];
+				$sql = 'INSERT INTO Prerequisites  (WorkOrderID, PrevWorkOrderID )';
+				$sql .= ' VALUES(';
+				$sql .= ' "' . $WorkOrderID  . '"';
+				$sql .= ', "' . $PrevWorkOrderID  . '"';
+				$sql .= ')';
+				$result =SqlQuery($loc, $sql);
+			}
+		}
+			//$sql .= ', "' . $FilePath      . '"';
+		log_msg($loc,
+       array("New Work Order added!  Work Order Name =" . $WorkOrderName  . " id = " . $WorkOrderID));
+
+        $success_msg = 'Work Order "' . $_POST["WorkOrderName"] . '"' . $Priority . 'ID ' . $WorkOrderID . ' successfully added.';
         //foreach($param_list as &$param_spec) { unset($param_spec["Value"]); }
 
-        $error_msg = true;
+       // $error_msg = true;
 
 	   // Render the page based on state variables that were set above...
 // These are: $error_msg, $success_msg, $param_list.
-
+}
 GenerateHtml:
 include "forms/header.php";
 include "forms/navform.php";
-include "forms/members_menubar.php";
+include "forms/workorders_menubar.php";
 include "forms/workorder_create_form.php";
 include "forms/footer.php";
 ?>

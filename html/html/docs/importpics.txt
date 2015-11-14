@@ -1,0 +1,29 @@
+How to Import Pictures in Bulk
+
+1. Upload the pictures to some public place on the internet,
+such as a public folder in dropbox. Make sure you can see each picture
+by typing an url into a browser.
+
+2. Prepare a CSV file that has the following column headers:
+   -- UserName
+   -- Picture
+
+3. Note, the headers labels must be spelled exactly as shown above. 
+Its okay to have extra columns, but these two must be present.
+
+4. The CSV file can be created as an Excel worksheet, and then
+saved as a CSV file.
+
+5. Under the UserName column, put the username with the exact
+spelling and case.
+
+6. Under the picture column put the full url that locates the 
+picture on the web.
+
+7. Upload the csv file using this page.
+
+8. The import will probably take a long time.  The website will
+timeout after 2 minutes. Use mulitple files if this is a problem.
+Usually, one picture can be processed in about two second.
+
+9. Results of this operation will be written to the system log.

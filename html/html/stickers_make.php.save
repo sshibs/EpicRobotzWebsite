@@ -1,0 +1,15 @@
+<?php
+require_once "libs/all.php";
+
+SELECT COUNT(column_name) FROM table_name;
+
+$picid = 15;
+$firstname = "Sarah";
+$lastname = "Shibley";
+$title = "mentor";
+$folder = "/stickers";
+$fname = $picid . ".gif";
+$img = CreateLabelPic($picid, $firstname, $lastname, $title);
+SaveSheetImg($folder, $img, $fname);
+
+?>

@@ -1,0 +1,2021 @@
+#12/30/2014 Tuesday   Dals Development Computer
+*00:05:29 p  1 admin_showlog.php>  
+*00:05:51 p  1 admin_showlog.php>  
+*00:05:57 p  1 admin_showlog.php>  
+*00:08:05 p  1 admin_showlog.php>  
+*00:08:08 p  1 admin_showlog.php>  
+*00:08:29 p  1 admin_showlog.php>  
+*00:09:05 p  1 admin.php>  
+*00:09:05 p  1 admin_listusers.php>  
+*00:09:07 p  1 admin_showlog.php>  
+*00:09:10 p  1 admin.php>  
+*00:09:10 p  1 admin_listusers.php>  
+*00:09:11 p  1 admin_showlog.php>  
+*00:09:59 p  1 admin_showlog.php>  
+*00:10:00 p  1 admin_showlog.php>  
+*00:10:47 p  1 admin_showlog.php>  
+*00:11:21 p  1 admin_showlog.php>  
+*00:11:41 p  1 admin.php>  
+*00:11:41 p  1 admin_listusers.php>  
+*00:11:42 p  1 admin_showlog.php>  
+*00:12:58 p  1 t.php>  
+*00:13:37 p  1 admin.php>  
+*00:13:37 p  1 admin_listusers.php>  
+*00:13:38 p  1 admin_showlog.php>  
+*00:13:58 p  1 admin_showlog.php>  
+*00:14:36 p  1 admin_showlog.php>  
+*00:14:42 p  1 admin_listusers.php>  
+*00:14:44 p  1 admin_edituser.php>  
+*00:15:01 p  1 admin_edituser.php>  
+*00:15:01 s  1 userlib.php->UpdateUser> Info for User 2 updated by dal. 
+*00:15:03 p  1 admin_showlog.php>  
+*00:15:13 p  1 admin_showlog.php>  
+*00:16:45 p  1 admin_showlog.php>  
+*00:17:31 p  1 admin_showlog.php>  
+*00:38:51 p  1 admin.php>  
+*00:38:51 p  1 admin_listusers.php>  
+*00:39:19 p  1 admin_masquerade.php>  
+*00:39:47 p  1 admin_masquerade.php>  
+*00:39:52 p  1 admin_showlog.php>  
+*00:40:20 p  1 admin_masquerade.php>  
+*00:40:24 p  1 admin_masquerade.php>  
+*00:40:24 s  1 admin_masquerade.php> User dal is attemping to masquerade as jim
+*00:40:24 s  0 userlib.php->StartLogin> checking=jim, bypass=true
+*00:40:24 s  0 userlib.php->StartLogin> User "jim" used bypass feature to avoid password match.
+*00:40:24 s  2 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 2
+*00:40:24 s  2 userlib.php->StartLogin> >>>>>>>>>>> Dekker, Jim
++> New Login!  UserName=jim,   UserID=2
++> IP Address= ::1    Tags=
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*00:40:24 p  2 welcome.php>  
+*00:40:27 p  2 admin.php>  
+*00:40:27 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:40:50 p  2 admin.php>  
+*00:40:50 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:08 p  2 welcome.php>  
+*00:43:24 p  2 admin.php>  
+*00:43:24 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:27 p  2 admin.php>  
+*00:43:27 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:32 p  2 admin.php>  
+*00:43:32 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:33 p  2 welcome.php>  
+*00:43:34 p  2 admin.php>  
+*00:43:34 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:35 p  2 welcome.php>  
+*00:43:44 p  2 admin.php>  
+*00:43:44 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:45 p  2 welcome.php>  
+*00:43:46 p  2 admin.php>  
+*00:43:46 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:49 p  2 welcome.php>  
+*00:43:55 p  2 admin.php>  
+*00:43:55 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:43:57 p  2 welcome.php>  
+*00:46:18 p  2 admin.php>  
+*00:46:18 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:46:20 p  2 welcome.php>  
+*00:46:26 p  2 admin.php>  
+*00:46:26 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:46:27 p  2 welcome.php>  
+*00:46:33 p  2 logout.php>  
+*00:46:33 s  2 logout.php> Masquerade session is over.
+*00:46:33 s  0 logout.php> Attempting to re-login as dal
+*00:46:33 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*00:46:33 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*00:46:33 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*00:46:33 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*00:46:33 p  1 welcome.php>  
+*00:46:35 p  1 admin.php>  
+*00:46:35 p  1 admin_listusers.php>  
+*00:46:37 p  1 admin_masquerade.php>  
+*00:46:41 p  1 admin_masquerade.php>  
+*00:46:42 p  1 admin_masquerade.php>  
+*00:46:44 p  1 admin_masquerade.php>  
+*00:47:39 p  1 admin_masquerade.php>  
+*00:47:53 p  1 admin_masquerade.php>  
+*00:47:53 s  1 admin_masquerade.php> User dal is attemping to masquerade as jim
+*00:47:53 s  0 userlib.php->StartLogin> checking=jim, bypass=true
+*00:47:53 s  0 userlib.php->StartLogin> User "jim" used bypass feature to avoid password match.
+*00:47:54 s  2 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 2
+*00:47:54 s  2 userlib.php->StartLogin> >>>>>>>>>>> Dekker, Jim
++> New Login!  UserName=jim,   UserID=2
++> IP Address= ::1    Tags=
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*00:47:54 p  2 welcome.php>  
+*00:47:57 p  2 admin.php>  
+*00:47:57 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:47:59 p  2 welcome.php>  
+*00:48:01 p  2 admin.php>  
+*00:48:01 s  2 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*00:48:02 p  2 welcome.php>  
+*00:48:12 p  2 welcome.php>  
+*00:48:15 p  2 logout.php>  
+*00:48:15 s  2 logout.php> Masquerade session is over.
+*00:48:15 s  0 logout.php> Attempting to re-login as dal
+*00:48:15 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*00:48:15 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*00:48:15 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*00:48:15 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*00:48:15 p  1 welcome.php>  
+*00:48:17 p  1 admin.php>  
+*00:48:17 p  1 admin_listusers.php>  
+*00:48:21 p  1 admin_edituser.php>  
+*00:48:27 p  1 admin_edituser.php>  
+*00:48:27 e  1 admin_edituser.php> User with ID=23 not found.
+*00:48:30 p  1 welcome.php>  
+*00:51:39 p  1 welcome.php>  
+*00:51:40 p  1 welcome.php>  
+*00:51:43 p  1 admin.php>  
+*00:51:43 p  1 admin_listusers.php>  
+*00:51:44 p  1 admin_masquerade.php>  
+*00:51:57 p  1 admin_masquerade.php>  
+*00:51:57 s  1 admin_masquerade.php> User dal is attemping to masquerade as jim
+*00:51:57 s  0 userlib.php->StartLogin> checking=jim, bypass=true
+*00:51:57 s  0 userlib.php->StartLogin> User "jim" used bypass feature to avoid password match.
+*00:51:57 s  2 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 2
+*00:51:57 s  2 userlib.php->StartLogin> >>>>>>>>>>> Dekker, Jim
++> New Login!  UserName=jim,   UserID=2
++> IP Address= ::1    Tags=
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*00:51:57 p  2 welcome.php>  
+*00:52:01 p  2 logout.php>  
+*00:52:01 s  2 logout.php> Masquerade session is over.
+*00:52:01 s  0 logout.php> Attempting to re-login as dal
+*00:52:01 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*00:52:01 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*00:52:01 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*00:52:01 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*00:52:01 p  1 welcome.php>  
+*00:52:26 p  1 admin.php>  
+*00:52:26 p  1 admin_listusers.php>  
+*00:52:28 p  1 admin_masquerade.php>  
+*00:52:29 p  1 admin_showlog.php>  
+*00:53:28 p  1 admin_masquerade.php>  
+*00:53:33 p  1 admin_listusers.php>  
+*00:53:39 p  1 admin_adduser.php>  
+*00:53:48 p  1 admin_adduser.php>  
+*00:54:04 p  1 admin_showlog.php>  
+*00:54:11 p  1 admin_listusers.php>  
+*01:07:44 p  1 admin_listusers.php>  
+*01:08:51 p  1 admin_listusers.php>  
+*01:09:11 p  1 admin_listusers.php>  
+*01:12:50 p  1 admin_uploadusers.php>  
+*01:14:12 p  1 admin_uploadusers.php>  
+*01:14:45 p  1 admin_uploadusers.php>  
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=andrew
++> Full name= Haitz, Andrew
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=anna
++> Full name= Collier, Anna
++> tags=Scout, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=calebg
++> Full name= Granch, Caleb
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=calebt
++> Full name= Thacker, Caleb
++> tags=Scout, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=cerrik
++> Full name= Chin, Cerrik
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=chase
++> Full name= Aardema, Chase
++> tags=Scout, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=chris
++> Full name= Dominik, Chris
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=claus
++> Full name= Tan, Claus
++> tags=Scout, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dal)
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=dan
++> Full name= Dominik, Dan
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=davido
++> Full name= Otoole, David
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=davidf
++> Full name= Fieldhouse, David
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=don
++> Full name= Long, Don
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=elisha
++> Full name= Goldine-Hashim, Elisha
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=ellen
++> Full name= Su, Ellen
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=gavin
++> Full name= Fua, Gavin
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=ginger
++> Full name= DeVries, Ginger
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=gio
++> Full name= Morandini, Giovanni
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=gordan
++> Full name= Gao, Gordan
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=hobbes
++> Full name= Zhou, Hobbes
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=jackk
++> Full name= Kim, Jack
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=jackw
++> Full name= Wu, Jack
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=jelani
++> Full name= Poole, Jelani
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=jenny
++> Full name= Liu, Jenny
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jim)
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinb
++> Full name= Baysic, Kevin
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinw
++> Full name= Wen, Kevin
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=khalil
++> Full name= Meade, Khalil
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=kristiana
++> Full name= Lee, Kristiana
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=kyle
++> Full name= Dominguez, Kyle
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=logan
++> Full name= Furlong, Logan
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=lorenzo
++> Full name= Adler, Lorenzo
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=madison
++> Full name= Silva, Madison
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=mattm
++> Full name= Moore, Matt
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=matts
++> Full name= Sigala, Matthew
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=melody
++> Full name= Zhang, Melody
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=michael
++> Full name= Butkus, Michael
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=mikeo
++> Full name= Ormonde, Mike
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=nathan 
++> Full name= Gardner, Nathan 
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=nathaniel
++> Full name= Newbold, Nathaniel
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=nick
++> Full name= Dekker, Nick
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=paul
++> Full name= DeVries, Paul
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=payton
++> Full name= Kooi, Payton
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=peter
++> Full name= DeVries, Peter
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=ricky
++> Full name= Carranza, Ricky
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=rob
++> Full name= Dominik, Rob
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=ryan
++> Full name= Vreeke, Ryan
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=shawn
++> Full name= Shi, Shawn
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=stan
++> Full name= Granch, Stan
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=tab
++> Full name= Zhang, Tab
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=temesghen
++> Full name= Ghebreyesus, Temesghen
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=tina
++> Full name= Tran, Tina
++> tags=Scout , Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=wayne
++> Full name= He, Wayne
++> tags=Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=will
++> Full name= Furlong, William
++> tags=Mentor/Scout/Editor/Admin, Active=true
+*01:14:45 s  1 userlib.php->CreateNewUser> New User added!  Username=yoel
++> Full name= Ghebreyesus, Yoel
++> tags=Scout , Active=true
+*01:14:45 s  1 adduserbulk.php->ProcessBulkUsers> 53 users added. 2 failures. 58 lines processed.
+*01:14:49 p  1 admin_listusers.php>  
+*01:15:18 p  1 admin_masquerade.php>  
+*01:15:22 p  1 admin_masquerade.php>  
+*01:15:22 s  1 admin_masquerade.php> User dal is attemping to masquerade as anna
+*01:15:22 s  0 userlib.php->StartLogin> checking=anna, bypass=true
+*01:15:22 s  0 userlib.php->StartLogin> User "anna" used bypass feature to avoid password match.
+*01:15:22 s  4 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 4
+*01:15:22 s  4 userlib.php->StartLogin> >>>>>>>>>>> Collier, Anna
++> New Login!  UserName=anna,   UserID=4
++> IP Address= ::1    Tags=Scout
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*01:15:22 p  4 welcome.php>  
+*01:15:25 p  4 logout.php>  
+*01:15:25 s  4 logout.php> Masquerade session is over.
+*01:15:25 s  0 logout.php> Attempting to re-login as dal
+*01:15:25 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*01:15:25 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*01:15:25 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*01:15:25 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*01:15:25 p  1 welcome.php>  
+*01:15:26 p  1 admin.php>  
+*01:15:26 p  1 admin_listusers.php>  
+*01:15:35 p  1 admin_uploadusers.php>  
+*01:15:41 p  1 admin_uploadusers.php>  
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (andrew)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (anna)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (calebg)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (calebt)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (cerrik)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (chase)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (chris)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (claus)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dal)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dan)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (davido)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (davidf)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (don)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (elisha)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (ellen)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (gavin)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (ginger)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (gio)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (gordan)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (hobbes)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jackk)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jackw)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jelani)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jenny)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jim)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (kevinb)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (kevinw)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (khalil)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (kristiana)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (kyle)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (logan)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (lorenzo)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (madison)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (mattm)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (matts)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (melody)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (michael)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (mikeo)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (nathan )
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (nathaniel)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (nick)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (paul)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (payton)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (peter)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (ricky)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (rob)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (ryan)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (shawn)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (stan)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (tab)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (temesghen)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (tina)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (wayne)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (will)
+*01:15:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (yoel)
+*01:15:41 s  1 adduserbulk.php->ProcessBulkUsers> 0 users added. 55 failures. 58 lines processed.
+*01:15:49 p  1 admin_showlog.php>  
+*11:34:28 p  1 admin.php>  
+*11:34:28 p  1 admin_listusers.php>  
+*11:36:55 p  1 admin.php>  
+*11:38:22 p  1 admin.php>  
+*11:38:30 p  1 admin.php>  
+*11:39:36 p  1 admin_showlog.php>  
+*11:39:38 p  1 admin_showlog.php>  
+*11:39:49 p  1 admin_showlog.php>  
+*11:39:54 p  1 admin_masquerade.php>  
+*11:39:58 p  1 admin_masquerade.php>  
+*11:39:58 s  1 admin_masquerade.php> User dal is attemping to masquerade as anna
+*11:39:58 s  0 userlib.php->StartLogin> checking=anna, bypass=true
+*11:39:58 s  0 userlib.php->StartLogin> User "anna" used bypass feature to avoid password match.
+*11:39:58 s  4 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 4
+*11:39:58 s  4 userlib.php->StartLogin> >>>>>>>>>>> Collier, Anna
++> New Login!  UserName=anna,   UserID=4
++> IP Address= ::1    Tags=Scout
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*11:39:58 p  4 welcome.php>  
+*11:40:02 p  4 welcome.php>  
+*11:41:16 p  4 welcome.php>  
+*11:41:29 p  4 welcome.php>  
+*11:43:18 p  4 logout.php>  
+*11:43:18 s  4 logout.php> Masquerade session is over.
+*11:43:18 s  0 logout.php> Attempting to re-login as dal
+*11:43:18 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*11:43:18 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*11:43:18 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*11:43:18 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*11:43:18 p  1 welcome.php>  
+*11:45:11 p  1 admin.php>  
+*11:45:14 p  1 admin_listusers.php>  
+*11:53:34 p  1 admin_listusers.php>  
+*13:21:55 p  1 admin.php>  
+*13:21:59 p  1 admin_listusers.php>  
+*13:22:01 p  1 admin_edituser.php>  
+*13:22:16 p  1 admin_edituser.php>  
+*13:23:19 p  1 admin_edituser.php>  
+*13:23:42 p  1 admin_edituser.php>  
+*13:24:50 p  1 admin_edituser.php>  
+*13:24:58 p  1 admin_edituser.php>  
+*13:24:58 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. (Including a password change.)
+*13:25:05 p  1 admin_edituser.php>  
+*13:25:13 p  1 admin_edituser.php>  
+*13:25:13 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. (Including a password change.)
+*13:25:57 p  1 admin_edituser.php>  
+*13:26:13 p  1 admin_edituser.php>  
+*13:27:06 p  1 admin_edituser.php>  
+*13:27:06 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*13:27:13 p  1 admin_edituser.php>  
+*13:27:13 s  1 userlib.php->UpdateUser> Unable to update user. Bad Format for BadgeID. Must be in form of "A000".
+*13:27:36 p  1 admin_edituser.php>  
+*13:27:36 s  1 userlib.php->UpdateUser> Unable to update user. Bad Format for BadgeID. Must be in form of "A000".
+*13:27:44 p  1 admin_edituser.php>  
+*13:27:44 s  1 userlib.php->UpdateUser> Unable to update user. Bad Format for BadgeID. Must be in form of "A000".
+*13:27:49 p  1 admin_edituser.php>  
+*13:27:55 p  1 admin_edituser.php>  
+*13:27:55 s  1 userlib.php->UpdateUser> Unable to update user. Bad Format for BadgeID. Must be in form of "A000".
+*13:31:33 p  1 t.php>  
+*13:32:09 p  1 admin.php>  
+*13:32:12 p  1 admin_listusers.php>  
+*13:32:12 p  1 admin_edituser.php>  
+*13:32:19 p  1 admin_edituser.php>  
+*13:32:19 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*13:32:22 p  1 admin_listusers.php>  
+*13:32:23 p  1 admin_edituser.php>  
+*13:32:39 p  1 admin_edituser.php>  
+*13:32:39 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*13:32:41 p  1 admin_adduser.php>  
+*13:33:26 p  1 admin_adduser.php>  
+*13:33:26 s  1 userlib.php->CreateNewUser> New User added!  Username=keith
++> Full name= Brandon, Keith
++> tags=Member/Editor, Active=false
+*13:33:30 p  1 admin_listusers.php>  
+*13:33:31 p  1 admin_edituser.php>  
+*13:33:33 p  1 admin_edituser.php>  
+*13:33:33 s  1 userlib.php->UpdateUser> Info for User 2 updated by dal. 
+*13:33:39 p  1 admin_listusers.php>  
+*13:33:41 p  1 admin_edituser.php>  
+*13:33:46 p  1 admin_listusers.php>  
+*13:33:47 p  1 admin_edituser.php>  
+*13:33:52 p  1 admin_edituser.php>  
+*13:33:52 s  1 userlib.php->UpdateUser> Unable to update user. BadgeID B324 already in use.
+*13:34:46 p  1 admin_edituser.php>  
+*13:34:46 s  1 userlib.php->UpdateUser> Unable to update user. BadgeID B324 already in use.
+*13:35:30 p  1 admin_edituser.php>  
+*13:35:30 s  1 userlib.php->UpdateUser> Unable to update user. BadgeID B324 already in use.
+*13:36:44 p  1 admin_edituser.php>  
+*13:36:44 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*13:41:34 p  1 admin_uploadusers.php>  
+*13:41:41 p  1 admin_uploadusers.php>  
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=chase
++> Full name= Aardema, Chase
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=lorenzo
++> Full name= Adler, Lorenzo
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinb
++> Full name= Baysic, Kevin
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dal)
+*13:41:41 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 6
++> Unable to add new user. Duplicate username. (dal)
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=michael
++> Full name= Butkus, Michael
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=ricky
++> Full name= Carranza, Ricky
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=cerrik
++> Full name= Chin, Cerrik
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=anna
++> Full name= Collier, Anna
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=jim
++> Full name= Dekker, Jim
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=nick
++> Full name= Dekker, Nick
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=ginger
++> Full name= DeVries, Ginger
++> tags=Member/Editor/Admin, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=paul
++> Full name= DeVries, Paul
++> tags=Member/Editor/Admin, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=peter
++> Full name= DeVries, Peter
++> tags=Member/Editor, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=kyle
++> Full name= Dominguez, Kyle
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=chris
++> Full name= Dominik, Chris
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=dan
++> Full name= Dominik, Dan
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=rob
++> Full name= Dominik, Rob
++> tags=Member/Editor/Admin, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=hunter
++> Full name= Feller, Hunter
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=davidf
++> Full name= Fieldhouse, David
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=gavin
++> Full name= Fua, Gavin
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=logan
++> Full name= Furlong, Logan
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=will
++> Full name= Furlong, William
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=gordan
++> Full name= Gao, Gordan
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=nathan 
++> Full name= Gardner, Nathan 
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=temesghen
++> Full name= Ghebreyesus, Temesghen
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=yoel
++> Full name= Ghebreyesus, Yoel
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=elisha
++> Full name= Goldine-Hashim, Elisha
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=calebg
++> Full name= Granch, Caleb
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=stan
++> Full name= Granch, Stan
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=andrew
++> Full name= Haitz, Andrew
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=wayne
++> Full name= He, Wayne
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=jackk
++> Full name= Kim, Jack
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=payton
++> Full name= Kooi, Payton
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=cheyenne
++> Full name= La France, Cheyenne
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=kristiana
++> Full name= Lee, Kristiana
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=jenny
++> Full name= Liu, Jenny
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=don
++> Full name= Long, Don
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=khalil
++> Full name= Meade, Khalil
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=mattm
++> Full name= Moore, Matt
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=gio
++> Full name= Morandini, Giovanni
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=nathaniel
++> Full name= Newbold, Nathaniel
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=mikeo
++> Full name= Ormonde, Mike
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=davido
++> Full name= Otoole, David
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=jelani
++> Full name= Poole, Jelani
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=true
++> Full name= Sarmiento, True
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=shawn
++> Full name= Shi, Shawn
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=matts
++> Full name= Sigala, Matthew
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=madison
++> Full name= Silva, Madison
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=ellen
++> Full name= Su, Ellen
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=claus
++> Full name= Tan, Claus
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=calebt
++> Full name= Thacker, Caleb
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=tina
++> Full name= Tran, Tina
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=ryan
++> Full name= Vreeke, Ryan
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinw
++> Full name= Wen, Kevin
++> tags=Member/Editor, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=jackw
++> Full name= Wu, Jack
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=melody
++> Full name= Zhang, Melody
++> tags=Member, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=tab
++> Full name= Zhang, Tab
++> tags=Member/Editor/Admin, Active=true
+*13:41:41 s  1 userlib.php->CreateNewUser> New User added!  Username=hobbes
++> Full name= Zhou, Hobbes
++> tags=Member, Active=true
+*13:41:41 s  1 adduserbulk.php->ProcessBulkUsers> 57 users added. 1 failures. 61 lines processed.
+*13:41:48 p  1 admin_listusers.php>  
+*13:41:58 p  1 admin_edituser.php>  
+*13:42:07 p  1 admin_listusers.php>  
+*13:46:18 p  1 admin_listusers.php>  
+*13:47:52 p  1 admin_listusers.php>  
+*13:48:26 p  1 admin_listusers.php>  
+*13:48:49 p  1 admin_edituser.php>  
+*13:48:55 p  1 admin_edituser.php>  
+*13:48:55 s  1 userlib.php->UpdateUser> Unable to update user. BadgeID A016 already in use.
+*13:49:01 p  1 admin_listusers.php>  
+*13:49:21 p  1 admin_edituser.php>  
+*13:49:28 p  1 admin_edituser.php>  
+*13:49:28 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*13:49:31 p  1 admin_listusers.php>  
+*13:50:56 p  1 admin_listusers.php>  
+*13:58:51 p  1 admin_listusers.php>  
+*13:58:57 p  1 admin_edituser.php>  
+*13:59:03 p  1 admin_edituser.php>  
+*13:59:03 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*13:59:06 p  1 logout.php>  
+*13:59:06 s  1 logout.php> User Brandon, Dalbert is Logging Out.
+*13:59:07 p  0 login.php>  
+*13:59:08 p  0 login.php>  
+*13:59:08 s  0 login.php> Developer bypass attempted for username=dal
+*13:59:08 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*13:59:08 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*13:59:08 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*13:59:08 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin/Editor
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*13:59:08 p  1 welcome.php>  
+*14:00:10 p  1 admin.php>  
+*14:00:13 p  1 setup.php>  
+*14:00:43 p  1 setup.php>  
+*14:02:15 p  1 setup.php>  
+*14:06:20 p  1 setup.php>  
+*14:06:39 p  1 setup.php>  
+*14:08:10 p  1 admin_edituser.php>  
+*14:08:10 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*14:08:36 p  1 setup.php>  
+*14:11:47 p  1 setup.php>  
+*14:11:58 p  1 setup.php>  
+*14:11:58 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*14:12:01 p  1 admin.php>  
+*14:12:03 p  1 admin_listusers.php>  
+*14:12:04 p  1 admin_edituser.php>  
+*14:12:07 p  1 setup.php>  
+*14:12:14 p  1 setup.php>  
+*14:12:14 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. (Including a password change.)
+*14:12:16 p  1 logout.php>  
+*14:12:16 s  1 logout.php> User Brandon, Dalbert is Logging Out.
+*14:12:18 p  0 login.php>  
+*14:12:21 p  0 login.php>  
+*14:12:21 s  0 userlib.php->StartLogin> checking=dal, bypass=false
+*14:12:21 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*14:12:21 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin/Editor
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*14:12:21 p  1 welcome.php>  
+*14:12:24 p  1 setup.php>  
+*14:12:32 p  1 setup.php>  
+*14:12:32 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. (Including a password change.)
+*14:12:35 p  1 admin.php>  
+*14:12:37 p  1 setup.php>  
+*14:12:42 p  1 setup.php>  
+*14:12:42 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*14:12:44 p  1 admin.php>  
+*14:12:45 p  1 setup.php>  
+*14:12:52 p  1 setup.php>  
+*14:12:52 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*14:12:53 p  1 setup.php>  
+*14:14:11 p  1 setup.php>  
+*14:14:39 p  1 admin.php>  
+*14:14:41 p  1 setup.php>  
+*14:14:43 p  1 admin.php>  
+*14:14:44 p  1 setup.php>  
+*16:11:44 p  1 attendance.php>  
+*16:11:46 p  1 null.php>  
+*16:11:48 p  1 attendance.php>  
+*16:11:49 p  1 null.php>  
+*16:11:49 p  1 attendance.php>  
+*16:11:50 p  1 null.php>  
+*16:11:51 p  1 attendance.php>  
+*16:13:43 p  1 attendance.php>  
+*16:13:44 p  1 attendance.php>  
+*16:13:45 p  1 attendance.php>  
+*16:13:46 p  1 attendance.php>  
+*16:13:46 p  1 attendance.php>  
+*16:13:56 p  1 attendance.php>  
+*16:21:42 p  1 badges.php>  
+*16:21:46 p  1 badges.php>  
+*16:22:01 p  1 badges.php>  
+*16:22:01 p  1 badges.php>  
+*16:22:02 p  1 badges.php>  
+*16:22:03 p  1 badges.php>  
+*16:22:03 p  1 badges.php>  
+*16:22:04 p  1 badges.php>  
+*16:31:36 p  1 badges.php>  
+*16:31:38 p  1 badges.php>  
+*16:31:40 p  1 badges.php>  
+*16:31:41 p  1 badges.php>  
+*16:31:42 p  1 badges.php>  
+*16:31:46 p  1 badges.php>  
+*16:31:47 p  1 setup.php>  
+*16:31:49 p  1 admin.php>  
+*16:31:51 p  1 admin_listusers.php>  
+*16:31:53 p  1 admin_adduser.php>  
+*16:31:55 p  1 admin.php>  
+*16:31:57 p  1 admin_adduser.php>  
+*16:31:58 p  1 admin_uploadusers.php>  
+*16:31:59 p  1 admin_showlog.php>  
+*16:32:01 p  1 admin_masquerade.php>  
+*16:32:02 p  1 admin_showlog.php>  
+*16:32:04 p  1 admin_listusers.php>  
+*16:32:06 p  1 admin.php>  
+*16:33:29 p  1 badges.php>  
+*16:42:22 p  1 members.php>  
+*16:42:24 p  1 members.php>  
+*16:42:24 p  1 members.php>  
+*16:42:38 p  1 badges.php>  
+*16:42:39 p  1 members.php>  
+*16:42:40 p  1 attendance.php>  
+*16:42:43 p  1 attendance.php>  
+*16:44:15 p  1 attendance.php>  
+*16:44:16 p  1 reader.php>  
+*16:44:20 p  1 setup.php>  
+*16:44:22 p  1 admin.php>  
+*16:44:24 p  1 setup.php>  
+*16:44:26 p  1 reader.php>  
+*16:44:33 p  1 badges.php>  
+*16:44:35 p  1 members.php>  
+*16:44:36 p  1 attendance.php>  
+*16:44:40 p  1 members.php>  
+*16:45:06 p  1 reader.php>  
+*16:45:08 p  1 badges.php>  
+*16:45:08 p  1 badges.php>  
+*16:45:09 p  1 badges.php>  
+*16:45:09 p  1 badges.php>  
+*16:45:09 p  1 badges.php>  
+*16:45:10 p  1 attendance.php>  
+*16:45:11 p  1 attendance.php>  
+*16:45:11 p  1 attendance.php>  
+*16:45:12 p  1 attendance.php>  
+*16:45:19 p  1 setup.php>  
+*16:45:23 p  1 reader.php>  
+*16:45:29 p  1 badges.php>  
+*16:45:31 p  1 members.php>  
+*16:45:32 p  1 badges.php>  
+*16:45:54 p  1 members.php>  
+*16:46:00 p  1 members.php>  
+*16:46:09 p  1 admin.php>  
+*16:46:10 p  1 admin_listusers.php>  
+*16:46:12 p  1 admin_edituser.php>  
+*16:47:53 p  1 logout.php>  
+*16:47:53 s  1 logout.php> User Brandon, Dalbert is Logging Out.
+*16:47:54 p  0 login.php>  
+*16:47:56 p  0 login.php>  
+*16:47:56 s  0 login.php> Developer bypass attempted for username=dal
+*16:47:56 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*16:47:56 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*16:47:56 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*16:47:56 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin/Editor
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*16:47:56 p  1 welcome.php>  
+*16:48:01 p  1 setup.php>  
+*16:48:03 p  1 admin.php>  
+*16:48:07 p  1 reader.php>  
+*16:48:14 p  1 badges.php>  
+*16:49:07 p  1 admin.php>  
+*16:49:09 p  1 admin_listusers.php>  
+*16:49:14 p  1 members.php>  
+*16:51:34 p  1 admin.php>  
+*16:51:36 p  1 admin_listusers.php>  
+*16:53:02 p  1 members.php>  
+*17:18:27 p  1 members.php>  
+*17:18:29 p  1 members.php>  
+*17:18:30 p  1 members.php>  
+*17:19:17 p  1 members.php>  
+*17:19:19 p  1 members.php>  
+*17:19:46 p  1 members_list.php>  
+*17:22:19 p  1 members_list.php>  
+*17:22:56 p  1 members_list.php>  
+*17:23:53 p  1 admin.php>  
+*17:23:54 p  1 admin_listusers.php>  
+*17:24:25 p  1 admin_edituser.php>  
+*17:24:31 p  1 admin_edituser.php>  
+*17:24:31 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*17:24:34 p  1 members.php>  
+*17:24:36 p  1 members_list.php>  
+*17:26:25 p  1 members_list.php>  
+*17:27:07 p  1 members_list.php>  
+*17:27:14 p  1 members_list.php>  
+*17:27:31 p  1 admin.php>  
+*17:27:32 p  1 admin_masquerade.php>  
+*17:27:40 p  1 admin_masquerade.php>  
+*17:27:50 p  1 admin_masquerade.php>  
+*17:27:51 p  1 admin_masquerade.php>  
+*17:27:58 p  1 admin_uploadusers.php>  
+*17:28:04 p  1 admin_uploadusers.php>  
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=chase
++> Full name= Aardema, Chase
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=lorenzo
++> Full name= Adler, Lorenzo
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinb
++> Full name= Baysic, Kevin
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dal)
+*17:28:04 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 6
++> Unable to add new user. Duplicate username. (dal)
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=michael
++> Full name= Butkus, Michael
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=ricky
++> Full name= Carranza, Ricky
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=cerrik
++> Full name= Chin, Cerrik
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=anna
++> Full name= Collier, Anna
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=jim
++> Full name= Dekker, Jim
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=nick
++> Full name= Dekker, Nick
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=ginger
++> Full name= DeVries, Ginger
++> tags=Member/Editor/Admin, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=paul
++> Full name= DeVries, Paul
++> tags=Member/Editor/Admin, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=peter
++> Full name= DeVries, Peter
++> tags=Member/Editor, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=kyle
++> Full name= Dominguez, Kyle
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=chris
++> Full name= Dominik, Chris
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=dan
++> Full name= Dominik, Dan
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=rob
++> Full name= Dominik, Rob
++> tags=Member/Editor/Admin, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=hunter
++> Full name= Feller, Hunter
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=davidf
++> Full name= Fieldhouse, David
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=gavin
++> Full name= Fua, Gavin
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=logan
++> Full name= Furlong, Logan
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=will
++> Full name= Furlong, William
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=gordan
++> Full name= Gao, Gordan
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=nathan 
++> Full name= Gardner, Nathan 
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=temesghen
++> Full name= Ghebreyesus, Temesghen
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=yoel
++> Full name= Ghebreyesus, Yoel
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=elisha
++> Full name= Goldine-Hashim, Elisha
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=calebg
++> Full name= Granch, Caleb
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=stan
++> Full name= Granch, Stan
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=andrew
++> Full name= Haitz, Andrew
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=wayne
++> Full name= He, Wayne
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=jackk
++> Full name= Kim, Jack
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=payton
++> Full name= Kooi, Payton
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=cheyenne
++> Full name= La France, Cheyenne
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=kristiana
++> Full name= Lee, Kristiana
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=jenny
++> Full name= Liu, Jenny
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=don
++> Full name= Long, Don
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=khalil
++> Full name= Meade, Khalil
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=mattm
++> Full name= Moore, Matt
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=gio
++> Full name= Morandini, Giovanni
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=nathaniel
++> Full name= Newbold, Nathaniel
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=mikeo
++> Full name= Ormonde, Mike
++> tags=Member, Active=true
+*17:28:04 s  1 userlib.php->CreateNewUser> New User added!  Username=davido
++> Full name= Otoole, David
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=jelani
++> Full name= Poole, Jelani
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=true
++> Full name= Sarmiento, True
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=shawn
++> Full name= Shi, Shawn
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=matts
++> Full name= Sigala, Matthew
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=madison
++> Full name= Silva, Madison
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=ellen
++> Full name= Su, Ellen
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=claus
++> Full name= Tan, Claus
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=calebt
++> Full name= Thacker, Caleb
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=tina
++> Full name= Tran, Tina
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=ryan
++> Full name= Vreeke, Ryan
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinw
++> Full name= Wen, Kevin
++> tags=Member/Editor, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=jackw
++> Full name= Wu, Jack
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=melody
++> Full name= Zhang, Melody
++> tags=Member, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=tab
++> Full name= Zhang, Tab
++> tags=Member/Editor/Admin, Active=true
+*17:28:05 s  1 userlib.php->CreateNewUser> New User added!  Username=hobbes
++> Full name= Zhou, Hobbes
++> tags=Member, Active=true
+*17:28:05 s  1 adduserbulk.php->ProcessBulkUsers> 57 users added. 1 failures. 61 lines processed.
+*17:28:07 p  1 admin_listusers.php>  
+*17:28:12 p  1 admin_masquerade.php>  
+*17:28:17 p  1 admin_masquerade.php>  
+*17:28:17 s  1 admin_masquerade.php> User dal is attemping to masquerade as peter
+*17:28:17 s  0 userlib.php->StartLogin> checking=peter, bypass=true
+*17:28:17 s  0 userlib.php->StartLogin> User "peter" used bypass feature to avoid password match.
+*17:28:17 s 13 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 13
+*17:28:17 s 13 userlib.php->StartLogin> >>>>>>>>>>> DeVries, Peter
++> New Login!  UserName=peter,   UserID=13
++> IP Address= ::1    Tags=Member/Editor
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*17:28:17 p 13 welcome.php>  
+*17:28:18 p 13 members.php>  
+*17:28:18 s 13 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*17:28:23 p 13 welcome.php>  
+*17:28:54 p 13 welcome.php>  
+*17:28:56 p 13 members.php>  
+*17:28:58 p 13 members_list.php>  
+*17:29:14 p 13 members_list.php>  
+*17:29:40 p 13 members_list.php>  
+*17:29:58 p 13 members_list.php>  
+*17:39:12 p 13 members_list.php>  
+*17:39:14 p 13 setup.php>  
+*17:39:14 e 13 admin_edituser.php> User with ID=13 not found.
+*17:39:18 p 13 welcome.php>  
+*17:39:20 p 13 logout.php>  
+*17:39:20 s 13 logout.php> Masquerade session is over.
+*17:39:20 s  0 logout.php> Attempting to re-login as dal
+*17:39:20 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*17:39:20 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*17:39:20 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*17:39:20 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*17:39:20 p  1 welcome.php>  
+*17:39:21 p  1 logout.php>  
+*17:39:21 s  1 logout.php> User Brandon, Dalbert is Logging Out.
+*17:39:22 p  0 login.php>  
+*17:39:23 p  0 login.php>  
+*17:39:23 s  0 login.php> Developer bypass attempted for username=dal
+*17:39:23 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*17:39:23 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*17:39:23 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*17:39:23 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*17:39:23 p  1 welcome.php>  
+*17:39:32 p  1 admin.php>  
+*17:39:34 p  1 admin_listusers.php>  
+*17:40:27 p  1 admin_listusers.php>  
+*17:40:32 p  1 logout.php>  
+*17:40:32 s  1 logout.php> User Brandon, Dalbert is Logging Out.
+*17:40:33 p  0 login.php>  
+*17:40:35 p  0 login.php>  
+*17:40:35 s  0 login.php> Developer bypass attempted for username=dal
+*17:40:35 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*17:40:35 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*17:40:35 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*17:40:35 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Editor/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*17:40:35 p  1 welcome.php>  
+*17:40:40 p  1 admin.php>  
+*17:40:43 p  1 admin_uploadusers.php>  
+*17:40:48 p  1 admin_uploadusers.php>  
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=chase
++> Full name= Aardema, Chase
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=lorenzo
++> Full name= Adler, Lorenzo
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinb
++> Full name= Baysic, Kevin
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dal)
+*17:40:48 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 6
++> Unable to add new user. Duplicate username. (dal)
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=michael
++> Full name= Butkus, Michael
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=ricky
++> Full name= Carranza, Ricky
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=cerrik
++> Full name= Chin, Cerrik
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=anna
++> Full name= Collier, Anna
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=jim
++> Full name= Dekker, Jim
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=nick
++> Full name= Dekker, Nick
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=ginger
++> Full name= DeVries, Ginger
++> tags=Member/Editor/Admin, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=paul
++> Full name= DeVries, Paul
++> tags=Member/Editor/Admin, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=peter
++> Full name= DeVries, Peter
++> tags=Member/Editor, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=kyle
++> Full name= Dominguez, Kyle
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=chris
++> Full name= Dominik, Chris
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=dan
++> Full name= Dominik, Dan
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=rob
++> Full name= Dominik, Rob
++> tags=Member/Editor/Admin, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=hunter
++> Full name= Feller, Hunter
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=davidf
++> Full name= Fieldhouse, David
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=gavin
++> Full name= Fua, Gavin
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=logan
++> Full name= Furlong, Logan
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=will
++> Full name= Furlong, William
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=gordan
++> Full name= Gao, Gordan
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=nathan 
++> Full name= Gardner, Nathan 
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=temesghen
++> Full name= Ghebreyesus, Temesghen
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=yoel
++> Full name= Ghebreyesus, Yoel
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=elisha
++> Full name= Goldine-Hashim, Elisha
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=calebg
++> Full name= Granch, Caleb
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=stan
++> Full name= Granch, Stan
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=andrew
++> Full name= Haitz, Andrew
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=wayne
++> Full name= He, Wayne
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=jackk
++> Full name= Kim, Jack
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=payton
++> Full name= Kooi, Payton
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=cheyenne
++> Full name= La France, Cheyenne
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=kristiana
++> Full name= Lee, Kristiana
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=jenny
++> Full name= Liu, Jenny
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=don
++> Full name= Long, Don
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=khalil
++> Full name= Meade, Khalil
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=mattm
++> Full name= Moore, Matt
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=nathaniel
++> Full name= Newbold, Nathaniel
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=mikeo
++> Full name= Ormonde, Mike
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=davido
++> Full name= O Toole, David
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=jelani
++> Full name= Poole, Jelani
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=true
++> Full name= Sarmiento, True
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=shawn
++> Full name= Shi, Shawn
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=matts
++> Full name= Sigala, Matthew
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=madison
++> Full name= Silva, Madison
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=ellen
++> Full name= Su, Ellen
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=claus
++> Full name= Tan, Claus
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=calebt
++> Full name= Thacker, Caleb
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=tina
++> Full name= Tran, Tina
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=ryan
++> Full name= Vreeke, Ryan
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinw
++> Full name= Wen, Kevin
++> tags=Member/Editor, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=jackw
++> Full name= Wu, Jack
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=melody
++> Full name= Zhang, Melody
++> tags=Member, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=tab
++> Full name= Zhang, Tab
++> tags=Member/Editor/Admin, Active=true
+*17:40:48 s  1 userlib.php->CreateNewUser> New User added!  Username=hobbes
++> Full name= Zhou, Hobbes
++> tags=Member, Active=true
+*17:40:48 s  1 adduserbulk.php->ProcessBulkUsers> 56 users added. 1 failures. 60 lines processed.
+*17:40:54 p  1 admin_listusers.php>  
+*17:40:57 p  1 members.php>  
+*17:40:58 p  1 members_list.php>  
+*17:47:35 p  1 members_list.php>  
+*17:51:02 p  1 members_list.php>  
+*17:51:04 p  1 members_list.php>  
+*17:51:06 p  1 members_edituser.php>  
+*17:51:19 p  1 admin_edituser.php>  
+*17:51:19 s  1 userlib.php->UpdateUser> Unable to update user. BadgeID A023 already in use.
+*17:51:52 p  1 members.php>  
+*17:51:53 p  1 members_list.php>  
+*17:51:55 p  1 members_edituser.php>  
+*17:51:57 p  1 members_edituser.php>  
+*17:52:04 p  1 members_edituser.php>  
+*17:52:04 s  1 userlib.php->UpdateUser> Unable to update user. BadgeID A023 already in use.
+*17:52:10 p  1 members_edituser.php>  
+*17:52:10 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*17:52:13 p  1 members.php>  
+*17:52:14 p  1 members_list.php>  
+*17:55:05 p  1 members.php>  
+*17:55:09 p  1 members.php>  
+*17:55:11 p  1 members_list.php>  
+*17:55:14 p  1 members_edituser.php>  
+*18:01:15 p  1 members.php>  
+*18:01:17 p  1 members_list.php>  
+*18:01:18 p  1 members_edituser.php>  
+*18:01:24 p  1 members_edituser.php>  
+*18:01:31 p  1 members_edituser.php>  
+*18:01:31 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. (Including a password change.)
+*18:01:56 p  1 members_list.php>  
+*18:03:50 p  1 members.php>  
+*18:03:52 p  1 members.php>  
+*18:04:14 p  1 members.php>  
+*18:04:15 p  1 members_adduser.php>  
+*18:04:17 p  1 admin_adduser.php>  
+*18:05:18 p  1 members.php>  
+*18:05:20 p  1 members_adduser.php>  
+*18:05:26 p  1 admin_adduser.php>  
+*18:05:40 p  1 members.php>  
+*18:05:41 p  1 members_adduser.php>  
+*18:06:08 p  1 members.php>  
+*18:06:08 p  1 members_adduser.php>  
+*18:06:10 p  1 members_adduser.php>  
+*18:06:42 p  1 members_adduser.php>  
+*18:06:42 s  1 userlib.php->CreateNewUser> New User added!  Username=bogus
++> Full name= Bogus, Dummy
++> tags=Member, Active=true
+*18:06:45 p  1 members_list.php>  
+*18:06:52 p  1 members_edituser.php>  
+*18:07:47 p  1 admin.php>  
+*18:07:49 p  1 admin_listusers.php>  
+*18:07:57 p  1 admin_edituser.php>  
+*18:08:00 p  1 admin_edituser.php>  
+*18:08:00 s  1 userlib.php->UpdateUser> Info for User 58 updated by dal. 
+*18:08:02 p  1 admin_listusers.php>  
+*18:08:05 p  1 members.php>  
+*18:08:07 p  1 members_list.php>  
+*18:08:13 p  1 admin.php>  
+*18:08:16 p  1 admin_listusers.php>  
+*18:08:21 p  1 admin_edituser.php>  
+*18:08:25 p  1 admin_edituser.php>  
+*18:08:25 s  1 userlib.php->UpdateUser> Info for User 7 updated by dal. 
+*18:08:28 p  1 members.php>  
+*18:08:29 p  1 members_list.php>  
+*18:08:38 p  1 admin.php>  
+*18:08:39 p  1 admin_listusers.php>  
+*18:08:44 p  1 admin_edituser.php>  
+*18:08:49 p  1 admin_edituser.php>  
+*18:08:49 s  1 userlib.php->UpdateUser> Info for User 7 updated by dal. 
+*18:08:50 p  1 members.php>  
+*18:08:52 p  1 members_list.php>  
+*18:09:58 p  1 setup.php>  
+*18:10:00 p  1 reader.php>  
+*18:10:03 p  1 badges.php>  
+*18:10:04 p  1 members.php>  
+*18:10:06 p  1 attendance.php>  
+*18:10:07 p  1 members.php>  
+*18:10:11 p  1 members_list.php>  
+*18:10:23 p  1 badges.php>  
+*18:11:48 p  1 members.php>  
+*18:11:50 p  1 members_list.php>  
+*18:11:53 p  1 members_edituser.php>  
+*18:14:11 p  1 members_edituser.php>  
+*18:14:42 p  1 members_edituser.php>  
+*18:14:45 p  1 members_edituser.php>  
+*18:15:39 p  1 members_edituser.php>  
+*18:15:44 p  1 members_edituser.php>  
+*20:06:57 p  1 members_edituser.php>  
+*20:07:04 p  1 members_edituser.php>  
+*20:09:11 p  1 members_edituser.php>  
+*20:09:13 p  1 members_edituser.php>  
+*20:24:42 p  1 members_uploadpic.php>  
+*20:26:55 p  1 members_uploadpic.php>  
+*20:26:57 p  1 members_uploadpic.php>  
+*20:27:01 p  1 members.php>  
+*20:27:03 p  1 members_list.php>  
+*20:27:04 p  1 members_edituser.php>  
+*20:27:06 p  1 members_uploadpic.php>  
+*20:27:31 p  1 members_uploadpic.php>  
+*20:28:00 p  1 members_uploadpic.php>  
+*20:30:37 p  1 members_list.php>  
+*20:30:38 p  1 members_edituser.php>  
+*20:37:49 p  1 members_edituser.php>  
+*20:40:02 p  1 members_uploadpic.php>  
+*20:42:17 p  1 members_uploadpic.php>  
+*20:42:27 p  1 members_uploadpic.php>  
+*20:54:07 p  1 members_uploadpic.php>  
+*20:55:57 p  1 members_uploadpic.php>  
+*20:55:59 p  1 members_uploadpic.php>  
+*20:56:00 s  1 piclib.php->StorePicture> Pic ID 1 Successfully Stored on server. (Elp=1232.23 ms.)
+*20:56:56 p  1 members_list.php>  
+*20:57:45 p  1 members_edituser.php>  
+*20:57:50 p  1 members_uploadpic.php>  
+*20:57:56 p  1 members_uploadpic.php>  
+*20:57:57 s  1 piclib.php->StorePicture> Pic ID 2 Successfully Stored on server. (Elp=1226.87 ms.)
+*20:58:00 p  1 members_list.php>  
+*20:58:51 p  1 members_edituser.php>  
+*20:58:52 p  1 members_uploadpic.php>  
+*20:59:03 p  1 members_uploadpic.php>  
+*20:59:04 s  1 piclib.php->StorePicture> Pic ID 3 Successfully Stored on server. (Elp=1173.08 ms.)
+*20:59:15 p  1 members_list.php>  
+*21:01:06 p  1 members_edituser.php>  
+*21:18:40 p  1 admin.php>  
+*21:18:43 p  1 admin_uploadusers.php>  
+*21:18:59 p  1 admin_uploadusers.php>  
+*21:18:59 s  1 userlib.php->CreateNewUser> New User added!  Username=chase
++> Full name= Aardema, Chase
++> tags=Member, Active=true
+*21:19:02 s  1 piclib.php->StorePicture> Pic ID 1 Successfully Stored on server. (Elp=1219.23 ms.)
+*21:19:02 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 1, UserID = 2
+*21:19:02 s  1 userlib.php->CreateNewUser> New User added!  Username=lorenzo
++> Full name= Adler, Lorenzo
++> tags=Member, Active=true
+*21:19:04 s  1 piclib.php->StorePicture> Pic ID 2 Successfully Stored on server. (Elp=1245.82 ms.)
+*21:19:04 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 2, UserID = 3
+*21:19:04 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinb
++> Full name= Baysic, Kevin
++> tags=Member, Active=true
+*21:19:07 s  1 piclib.php->StorePicture> Pic ID 3 Successfully Stored on server. (Elp=1236.19 ms.)
+*21:19:07 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 3, UserID = 4
+*21:19:07 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dal)
+*21:19:07 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 6
++> Unable to add new user. Duplicate username. (dal)
+*21:19:07 s  1 userlib.php->CreateNewUser> New User added!  Username=michael
++> Full name= Butkus, Michael
++> tags=Member, Active=true
+*21:19:09 s  1 piclib.php->StorePicture> Pic ID 4 Successfully Stored on server. (Elp=1277.53 ms.)
+*21:19:09 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 4, UserID = 5
+*21:19:09 s  1 userlib.php->CreateNewUser> New User added!  Username=ricky
++> Full name= Carranza, Ricky
++> tags=Member, Active=true
+*21:19:11 s  1 piclib.php->StorePicture> Pic ID 5 Successfully Stored on server. (Elp=1237.29 ms.)
+*21:19:11 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 5, UserID = 6
+*21:19:11 s  1 userlib.php->CreateNewUser> New User added!  Username=cerrik
++> Full name= Chin, Cerrik
++> tags=Member, Active=true
+*21:19:13 s  1 piclib.php->StorePicture> Pic ID 6 Successfully Stored on server. (Elp=1216.38 ms.)
+*21:19:13 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 6, UserID = 7
+*21:19:13 s  1 userlib.php->CreateNewUser> New User added!  Username=anna
++> Full name= Collier, Anna
++> tags=Member, Active=true
+*21:19:15 s  1 piclib.php->StorePicture> Pic ID 7 Successfully Stored on server. (Elp=1254.02 ms.)
+*21:19:15 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 7, UserID = 8
+*21:19:15 s  1 userlib.php->CreateNewUser> New User added!  Username=jim
++> Full name= Dekker, Jim
++> tags=Member, Active=true
+*21:19:17 s  1 piclib.php->StorePicture> Pic ID 8 Successfully Stored on server. (Elp=1151.99 ms.)
+*21:19:17 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 8, UserID = 9
+*21:19:17 s  1 userlib.php->CreateNewUser> New User added!  Username=nick
++> Full name= Dekker, Nick
++> tags=Member, Active=true
+*21:19:19 s  1 piclib.php->StorePicture> Pic ID 9 Successfully Stored on server. (Elp=1248.50 ms.)
+*21:19:19 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 9, UserID = 10
+*21:19:19 s  1 userlib.php->CreateNewUser> New User added!  Username=ginger
++> Full name= DeVries, Ginger
++> tags=Member/Editor/Admin, Active=true
+*21:19:19 s  1 userlib.php->CreateNewUser> New User added!  Username=paul
++> Full name= DeVries, Paul
++> tags=Member/Editor/Admin, Active=true
+*21:19:21 s  1 piclib.php->StorePicture> Pic ID 10 Successfully Stored on server. (Elp=1154.13 ms.)
+*21:19:21 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 10, UserID = 12
+*21:19:21 s  1 userlib.php->CreateNewUser> New User added!  Username=peter
++> Full name= DeVries, Peter
++> tags=Member/Editor, Active=true
+*21:19:23 s  1 piclib.php->StorePicture> Pic ID 11 Successfully Stored on server. (Elp=1250.81 ms.)
+*21:19:23 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 11, UserID = 13
+*21:19:23 s  1 userlib.php->CreateNewUser> New User added!  Username=kyle
++> Full name= Dominguez, Kyle
++> tags=Member, Active=true
+*21:19:25 s  1 piclib.php->StorePicture> Pic ID 12 Successfully Stored on server. (Elp=1205.04 ms.)
+*21:19:25 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 12, UserID = 14
+*21:19:25 s  1 userlib.php->CreateNewUser> New User added!  Username=chris
++> Full name= Dominik, Chris
++> tags=Member, Active=true
+*21:19:28 s  1 piclib.php->StorePicture> Pic ID 13 Successfully Stored on server. (Elp=1246.08 ms.)
+*21:19:28 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 13, UserID = 15
+*21:19:28 s  1 userlib.php->CreateNewUser> New User added!  Username=dan
++> Full name= Dominik, Dan
++> tags=Member, Active=true
+*21:19:28 s  1 admin_uploadusers.php->AddPIctureToUser> Picture not added. Unable to copy file.
++> External File=https://dl.dropboxusercontent.com/u/2783543/EpicPics/Students/
++> Internal Target=C:\EpicAdmin\uploads\tmp/temppic.jpg
+*21:19:28 s  1 userlib.php->CreateNewUser> New User added!  Username=rob
++> Full name= Dominik, Rob
++> tags=Member/Editor/Admin, Active=true
+*21:19:30 s  1 piclib.php->StorePicture> Pic ID 14 Successfully Stored on server. (Elp=1153.78 ms.)
+*21:19:30 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 14, UserID = 17
+*21:19:30 s  1 userlib.php->CreateNewUser> New User added!  Username=hunter
++> Full name= Feller, Hunter
++> tags=Member, Active=true
+*21:19:30 s  1 userlib.php->CreateNewUser> New User added!  Username=davidf
++> Full name= Fieldhouse, David
++> tags=Member, Active=true
+*21:19:32 s  1 piclib.php->StorePicture> Pic ID 15 Successfully Stored on server. (Elp=1163.79 ms.)
+*21:19:32 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 15, UserID = 19
+*21:19:32 s  1 userlib.php->CreateNewUser> New User added!  Username=gavin
++> Full name= Fua, Gavin
++> tags=Member, Active=true
+*21:19:34 s  1 piclib.php->StorePicture> Pic ID 16 Successfully Stored on server. (Elp=1255.34 ms.)
+*21:19:34 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 16, UserID = 20
+*21:19:34 s  1 userlib.php->CreateNewUser> New User added!  Username=logan
++> Full name= Furlong, Logan
++> tags=Member, Active=true
+*21:19:36 s  1 piclib.php->StorePicture> Pic ID 17 Successfully Stored on server. (Elp=1262.96 ms.)
+*21:19:36 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 17, UserID = 21
+*21:19:36 s  1 userlib.php->CreateNewUser> New User added!  Username=will
++> Full name= Furlong, William
++> tags=Member, Active=true
+*21:19:38 s  1 piclib.php->StorePicture> Pic ID 18 Successfully Stored on server. (Elp=1016.64 ms.)
+*21:19:38 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 18, UserID = 22
+*21:19:38 s  1 userlib.php->CreateNewUser> New User added!  Username=gordan
++> Full name= Gao, Gordan
++> tags=Member, Active=true
+*21:19:40 s  1 piclib.php->StorePicture> Pic ID 19 Successfully Stored on server. (Elp=1254.33 ms.)
+*21:19:40 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 19, UserID = 23
+*21:19:40 s  1 userlib.php->CreateNewUser> New User added!  Username=nathan 
++> Full name= Gardner, Nathan 
++> tags=Member, Active=true
+*21:19:42 s  1 piclib.php->StorePicture> Pic ID 20 Successfully Stored on server. (Elp=1251.72 ms.)
+*21:19:42 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 20, UserID = 24
+*21:19:42 s  1 userlib.php->CreateNewUser> New User added!  Username=temesghen
++> Full name= Ghebreyesus, Temesghen
++> tags=Member, Active=true
+*21:19:44 s  1 piclib.php->StorePicture> Pic ID 21 Successfully Stored on server. (Elp=1247.83 ms.)
+*21:19:44 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 21, UserID = 25
+*21:19:44 s  1 userlib.php->CreateNewUser> New User added!  Username=yoel
++> Full name= Ghebreyesus, Yoel
++> tags=Member, Active=true
+*21:19:46 s  1 piclib.php->StorePicture> Pic ID 22 Successfully Stored on server. (Elp=1230.91 ms.)
+*21:19:47 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 22, UserID = 26
+*21:19:47 s  1 userlib.php->CreateNewUser> New User added!  Username=elisha
++> Full name= Goldine-Hashim, Elisha
++> tags=Member, Active=true
+*21:19:49 s  1 piclib.php->StorePicture> Pic ID 23 Successfully Stored on server. (Elp=1265.06 ms.)
+*21:19:49 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 23, UserID = 27
+*21:19:49 s  1 userlib.php->CreateNewUser> New User added!  Username=calebg
++> Full name= Granch, Caleb
++> tags=Member, Active=true
+*21:19:51 s  1 piclib.php->StorePicture> Pic ID 24 Successfully Stored on server. (Elp=1258.15 ms.)
+*21:19:51 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 24, UserID = 28
+*21:19:51 s  1 userlib.php->CreateNewUser> New User added!  Username=stan
++> Full name= Granch, Stan
++> tags=Member, Active=true
+*21:19:53 s  1 piclib.php->StorePicture> Pic ID 25 Successfully Stored on server. (Elp=1209.57 ms.)
+*21:19:53 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 25, UserID = 29
+*21:19:53 s  1 userlib.php->CreateNewUser> New User added!  Username=andrew
++> Full name= Haitz, Andrew
++> tags=Member, Active=true
+*21:19:53 s  1 admin_uploadusers.php->AddPIctureToUser> Picture not added. Unable to copy file.
++> External File=https://dl.dropboxusercontent.com/u/2783543/EpicPics/Mentors/AndrewHaitz.JPG
++> Internal Target=C:\EpicAdmin\uploads\tmp/temppic.jpg
+*21:19:53 s  1 userlib.php->CreateNewUser> New User added!  Username=wayne
++> Full name= He, Wayne
++> tags=Member, Active=true
+*21:19:56 s  1 piclib.php->StorePicture> Pic ID 26 Successfully Stored on server. (Elp=1241.78 ms.)
+*21:19:56 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 26, UserID = 31
+*21:19:56 s  1 userlib.php->CreateNewUser> New User added!  Username=jackk
++> Full name= Kim, Jack
++> tags=Member, Active=true
+*21:19:58 s  1 piclib.php->StorePicture> Pic ID 27 Successfully Stored on server. (Elp=1234.48 ms.)
+*21:19:58 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 27, UserID = 32
+*21:19:58 s  1 userlib.php->CreateNewUser> New User added!  Username=payton
++> Full name= Kooi, Payton
++> tags=Member, Active=true
+*21:20:00 s  1 piclib.php->StorePicture> Pic ID 28 Successfully Stored on server. (Elp=1251.19 ms.)
+*21:20:00 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 28, UserID = 33
+*21:20:00 s  1 userlib.php->CreateNewUser> New User added!  Username=cheyenne
++> Full name= La France, Cheyenne
++> tags=Member, Active=true
+*21:20:00 s  1 userlib.php->CreateNewUser> New User added!  Username=kristiana
++> Full name= Lee, Kristiana
++> tags=Member, Active=true
+*21:20:01 s  1 piclib.php->StorePicture> Pic ID 29 Successfully Stored on server. (Elp=1075.11 ms.)
+*21:20:01 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 29, UserID = 35
+*21:20:01 s  1 userlib.php->CreateNewUser> New User added!  Username=jenny
++> Full name= Liu, Jenny
++> tags=Member, Active=true
+*21:20:04 s  1 piclib.php->StorePicture> Pic ID 30 Successfully Stored on server. (Elp=1248.13 ms.)
+*21:20:04 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 30, UserID = 36
+*21:20:04 s  1 userlib.php->CreateNewUser> New User added!  Username=don
++> Full name= Long, Don
++> tags=Member, Active=true
+*21:20:06 s  1 piclib.php->StorePicture> Pic ID 31 Successfully Stored on server. (Elp=1141.52 ms.)
+*21:20:06 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 31, UserID = 37
+*21:20:06 s  1 userlib.php->CreateNewUser> New User added!  Username=khalil
++> Full name= Meade, Khalil
++> tags=Member, Active=true
+*21:20:08 s  1 piclib.php->StorePicture> Pic ID 32 Successfully Stored on server. (Elp=1229.95 ms.)
+*21:20:08 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 32, UserID = 38
+*21:20:08 s  1 userlib.php->CreateNewUser> New User added!  Username=mattm
++> Full name= Moore, Matt
++> tags=Member, Active=true
+*21:20:10 s  1 piclib.php->StorePicture> Pic ID 33 Successfully Stored on server. (Elp=1228.69 ms.)
+*21:20:10 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 33, UserID = 39
+*21:20:10 s  1 userlib.php->CreateNewUser> New User added!  Username=nathaniel
++> Full name= Newbold, Nathaniel
++> tags=Member, Active=true
+*21:20:12 s  1 piclib.php->StorePicture> Pic ID 34 Successfully Stored on server. (Elp=1254.28 ms.)
+*21:20:12 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 34, UserID = 40
+*21:20:12 s  1 userlib.php->CreateNewUser> New User added!  Username=mikeo
++> Full name= Ormonde, Mike
++> tags=Member, Active=true
+*21:20:14 s  1 piclib.php->StorePicture> Pic ID 35 Successfully Stored on server. (Elp=1080.72 ms.)
+*21:20:14 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 35, UserID = 41
+*21:20:14 s  1 userlib.php->CreateNewUser> New User added!  Username=davido
++> Full name= O Toole, David
++> tags=Member, Active=true
+*21:20:16 s  1 piclib.php->StorePicture> Pic ID 36 Successfully Stored on server. (Elp=1248.22 ms.)
+*21:20:16 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 36, UserID = 42
+*21:20:16 s  1 userlib.php->CreateNewUser> New User added!  Username=jelani
++> Full name= Poole, Jelani
++> tags=Member, Active=true
+*21:20:18 s  1 piclib.php->StorePicture> Pic ID 37 Successfully Stored on server. (Elp=1250.01 ms.)
+*21:20:18 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 37, UserID = 43
+*21:20:18 s  1 userlib.php->CreateNewUser> New User added!  Username=true
++> Full name= Sarmiento, True
++> tags=Member, Active=true
+*21:20:18 s  1 userlib.php->CreateNewUser> New User added!  Username=shawn
++> Full name= Shi, Shawn
++> tags=Member, Active=true
+*21:20:20 s  1 piclib.php->StorePicture> Pic ID 38 Successfully Stored on server. (Elp=1204.07 ms.)
+*21:20:20 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 38, UserID = 45
+*21:20:20 s  1 userlib.php->CreateNewUser> New User added!  Username=matts
++> Full name= Sigala, Matthew
++> tags=Member, Active=true
+*21:20:22 s  1 piclib.php->StorePicture> Pic ID 39 Successfully Stored on server. (Elp=1207.85 ms.)
+*21:20:22 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 39, UserID = 46
+*21:20:22 s  1 userlib.php->CreateNewUser> New User added!  Username=madison
++> Full name= Silva, Madison
++> tags=Member, Active=true
+*21:20:24 s  1 piclib.php->StorePicture> Pic ID 40 Successfully Stored on server. (Elp=1211.84 ms.)
+*21:20:24 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 40, UserID = 47
+*21:20:24 s  1 userlib.php->CreateNewUser> New User added!  Username=ellen
++> Full name= Su, Ellen
++> tags=Member, Active=true
+*21:21:54 p  1 admin_uploadusers.php>  
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (chase)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 3
++> Unable to add new user. Duplicate username. (chase)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (lorenzo)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 4
++> Unable to add new user. Duplicate username. (lorenzo)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (kevinb)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 5
++> Unable to add new user. Duplicate username. (kevinb)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dal)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 6
++> Unable to add new user. Duplicate username. (dal)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (michael)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 7
++> Unable to add new user. Duplicate username. (michael)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (ricky)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 8
++> Unable to add new user. Duplicate username. (ricky)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (cerrik)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 9
++> Unable to add new user. Duplicate username. (cerrik)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (anna)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 10
++> Unable to add new user. Duplicate username. (anna)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jim)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 11
++> Unable to add new user. Duplicate username. (jim)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (nick)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 12
++> Unable to add new user. Duplicate username. (nick)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (ginger)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 13
++> Unable to add new user. Duplicate username. (ginger)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (paul)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 14
++> Unable to add new user. Duplicate username. (paul)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (peter)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 15
++> Unable to add new user. Duplicate username. (peter)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (kyle)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 16
++> Unable to add new user. Duplicate username. (kyle)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (chris)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 17
++> Unable to add new user. Duplicate username. (chris)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (dan)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 18
++> Unable to add new user. Duplicate username. (dan)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (rob)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 19
++> Unable to add new user. Duplicate username. (rob)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (hunter)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 20
++> Unable to add new user. Duplicate username. (hunter)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (davidf)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 21
++> Unable to add new user. Duplicate username. (davidf)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (gavin)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 22
++> Unable to add new user. Duplicate username. (gavin)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (logan)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 23
++> Unable to add new user. Duplicate username. (logan)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (will)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 24
++> Unable to add new user. Duplicate username. (will)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (gordan)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 25
++> Unable to add new user. Duplicate username. (gordan)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (nathan )
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 26
++> Unable to add new user. Duplicate username. (nathan )
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (temesghen)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 27
++> Unable to add new user. Duplicate username. (temesghen)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (yoel)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 28
++> Unable to add new user. Duplicate username. (yoel)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (elisha)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 29
++> Unable to add new user. Duplicate username. (elisha)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (calebg)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 30
++> Unable to add new user. Duplicate username. (calebg)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (stan)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 31
++> Unable to add new user. Duplicate username. (stan)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (andrew)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 32
++> Unable to add new user. Duplicate username. (andrew)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (wayne)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 33
++> Unable to add new user. Duplicate username. (wayne)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jackk)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 34
++> Unable to add new user. Duplicate username. (jackk)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (payton)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 35
++> Unable to add new user. Duplicate username. (payton)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (cheyenne)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 36
++> Unable to add new user. Duplicate username. (cheyenne)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (kristiana)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 37
++> Unable to add new user. Duplicate username. (kristiana)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jenny)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 38
++> Unable to add new user. Duplicate username. (jenny)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (don)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 39
++> Unable to add new user. Duplicate username. (don)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (khalil)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 40
++> Unable to add new user. Duplicate username. (khalil)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (mattm)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 41
++> Unable to add new user. Duplicate username. (mattm)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (nathaniel)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 42
++> Unable to add new user. Duplicate username. (nathaniel)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (mikeo)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 43
++> Unable to add new user. Duplicate username. (mikeo)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (davido)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 44
++> Unable to add new user. Duplicate username. (davido)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (jelani)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 45
++> Unable to add new user. Duplicate username. (jelani)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (true)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 46
++> Unable to add new user. Duplicate username. (true)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (shawn)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 47
++> Unable to add new user. Duplicate username. (shawn)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (matts)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 48
++> Unable to add new user. Duplicate username. (matts)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (madison)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 49
++> Unable to add new user. Duplicate username. (madison)
+*21:21:54 s  1 userlib.php->CreateNewUser> Unable to add new user. Duplicate username. (ellen)
+*21:21:54 s  1 adduserbulk.php->ProcessBulkUsers> User not added. Line 50
++> Unable to add new user. Duplicate username. (ellen)
+*21:21:54 s  1 userlib.php->CreateNewUser> New User added!  Username=claus
++> Full name= Tan, Claus
++> tags=Member, Active=true
+*21:21:57 s  1 piclib.php->StorePicture> Pic ID 42 Successfully Stored on server. (Elp=1237.90 ms.)
+*21:21:57 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 42, UserID = 49
+*21:21:57 s  1 userlib.php->CreateNewUser> New User added!  Username=calebt
++> Full name= Thacker, Caleb
++> tags=Member, Active=true
+*21:21:59 s  1 piclib.php->StorePicture> Pic ID 43 Successfully Stored on server. (Elp=1236.92 ms.)
+*21:21:59 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 43, UserID = 50
+*21:21:59 s  1 userlib.php->CreateNewUser> New User added!  Username=tina
++> Full name= Tran, Tina
++> tags=Member, Active=true
+*21:22:01 s  1 piclib.php->StorePicture> Pic ID 44 Successfully Stored on server. (Elp=1245.12 ms.)
+*21:22:01 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 44, UserID = 51
+*21:22:01 s  1 userlib.php->CreateNewUser> New User added!  Username=ryan
++> Full name= Vreeke, Ryan
++> tags=Member, Active=true
+*21:22:03 s  1 piclib.php->StorePicture> Pic ID 45 Successfully Stored on server. (Elp=1176.29 ms.)
+*21:22:03 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 45, UserID = 52
+*21:22:03 s  1 userlib.php->CreateNewUser> New User added!  Username=kevinw
++> Full name= Wen, Kevin
++> tags=Member/Editor, Active=true
+*21:22:05 s  1 piclib.php->StorePicture> Pic ID 46 Successfully Stored on server. (Elp=1161.81 ms.)
+*21:22:05 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 46, UserID = 53
+*21:22:05 s  1 userlib.php->CreateNewUser> New User added!  Username=jackw
++> Full name= Wu, Jack
++> tags=Member, Active=true
+*21:22:07 s  1 piclib.php->StorePicture> Pic ID 47 Successfully Stored on server. (Elp=1137.53 ms.)
+*21:22:07 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 47, UserID = 54
+*21:22:07 s  1 userlib.php->CreateNewUser> New User added!  Username=melody
++> Full name= Zhang, Melody
++> tags=Member, Active=true
+*21:22:09 s  1 piclib.php->StorePicture> Pic ID 48 Successfully Stored on server. (Elp=1183.22 ms.)
+*21:22:09 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 48, UserID = 55
+*21:22:09 s  1 userlib.php->CreateNewUser> New User added!  Username=tab
++> Full name= Zhang, Tab
++> tags=Member/Editor/Admin, Active=true
+*21:22:11 s  1 piclib.php->StorePicture> Pic ID 49 Successfully Stored on server. (Elp=1185.79 ms.)
+*21:22:11 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 49, UserID = 56
+*21:22:11 s  1 userlib.php->CreateNewUser> New User added!  Username=hobbes
++> Full name= Zhou, Hobbes
++> tags=Member, Active=true
+*21:22:13 s  1 piclib.php->StorePicture> Pic ID 50 Successfully Stored on server. (Elp=1178.18 ms.)
+*21:22:13 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 50, UserID = 57
+*21:22:13 s  1 adduserbulk.php->ProcessBulkUsers> 9 users added. 48 failures. 60 lines processed.
+*21:22:13 p  1 admin_uploadusers.php>  
+*21:22:13 p  1 admin_uploadusers.php>  
+*21:22:13 p  1 admin_uploadusers.php>  
+*21:22:13 p  1 index.php>  
+*21:22:26 p  1 index.php>  
+*21:23:38 p  1 index.php>  
+*21:23:38 p  1 welcome.php>  
+*21:23:41 p  1 admin.php>  
+*21:23:44 p  1 members.php>  
+*21:23:46 p  1 members_list.php>  
+*21:24:02 p  1 members_edituser.php>  
+*21:24:08 p  1 members_edituser.php>  
+*21:24:08 s  1 userlib.php->UpdateUser> Info for User 1 updated by dal. 
+*21:24:09 p  1 members_uploadpic.php>  
+*21:24:33 p  1 members_uploadpic.php>  
+*21:24:34 s  1 piclib.php->StorePicture> Pic ID 51 Successfully Stored on server. (Elp=1171.29 ms.)
+*21:24:34 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 51, UserID = 1
+*21:24:37 p  1 members_list.php>  
+*21:24:57 p  1 members_edituser.php>  
+*21:24:58 p  1 members_uploadpic.php>  
+*21:25:11 p  1 members_uploadpic.php>  
+*21:25:13 s  1 piclib.php->StorePicture> Pic ID 52 Successfully Stored on server. (Elp=1239.99 ms.)
+*21:25:13 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 52, UserID = 30
+*21:25:15 p  1 members_list.php>  
+*21:25:22 p  1 members.php>  
+*21:44:44 p  1 members.php>  
+*21:44:45 p  1 members_listpics.php>  
+*21:44:57 p  1 null.php>  
+*21:45:00 p  1 members_listpics.php>  
+*21:45:02 p  1 null.php>  
+*21:45:03 p  1 members_listpics.php>  
+*21:45:29 p  1 null.php>  
+*21:45:31 p  1 members_listpics.php>  
+*21:46:03 p  1 members_list.php>  
+*21:46:05 p  1 members_edituser.php>  
+*21:46:35 p  1 members_listpics.php>  
+*21:46:39 p  1 members_listpics.php>  
+*21:46:42 p  1 members_listpics.php>  
+*21:46:45 p  1 members_listpics.php>  
+*21:46:47 p  1 null.php>  
+*21:46:49 p  1 members_listpics.php>  
+*21:47:48 p  1 members_list.php>  
+*21:47:50 p  1 members_edituser.php>  
+*21:48:11 p  1 members_listpics.php>  
+*21:48:12 p  1 members_edituser.php>  
+*21:49:03 p  1 members_adduser.php>  
+*21:49:05 p  1 members_listpics.php>  
+*21:49:08 p  1 members_list.php>  
+*21:55:18 p  1 members_listpics.php>  
+*22:06:02 p  1 members_edituser.php>  
+*22:06:08 p  1 members_list.php>  
+*22:06:10 p  1 members_edituser.php>  
+*22:07:05 p  1 members_edituser.php>  
+*22:08:10 p  1 members_edituser.php>  
+*22:09:16 p  1 members_edituser.php>  
+*22:09:57 p  1 members_edituser.php>  
+*22:09:58 p  1 members_edituser.php>  
+*22:10:05 p  1 members_edituser.php>  
+*22:10:20 p  1 members_listpics.php>  
+*22:10:24 p  1 members_edituser.php>  
+*22:13:01 p  1 members_edituser.php>  
+*22:13:13 p  1 members_edituser.php>  
+*22:13:26 p  1 members_edituser.php>  
+*22:14:16 p  1 members_list.php>  
+*22:14:17 p  1 members_edituser.php>  
+*22:14:20 p  1 members_uploadpic.php>  
+*22:14:23 p  1 members_listpics.php>  
+*22:14:25 p  1 members_edituser.php>  
+*22:14:27 p  1 members_listpics.php>  
+*22:14:28 p  1 members_edituser.php>  
+*22:14:29 p  1 members_listpics.php>  
+*22:14:30 p  1 members_edituser.php>  
+*22:14:32 p  1 members_listpics.php>  
+*22:14:36 p  1 members_edituser.php>  
+*22:14:39 p  1 members_listpics.php>  
+*22:14:54 p  1 badges.php>  
+*22:15:18 p  1 members.php>  
+*22:15:22 p  1 members_list.php>  
+*22:15:24 p  1 members_listpics.php>  
+*22:15:27 p  1 members_edituser.php>  
+*22:15:33 p  1 members_adduser.php>  
+*22:15:36 p  1 badges.php>  
+*22:15:38 p  1 setup.php>  
+*22:15:42 p  1 admin.php>  
+*22:15:43 p  1 admin_masquerade.php>  
+*22:15:51 p  1 admin_masquerade.php>  
+*22:15:51 s  1 admin_masquerade.php> User dal is attemping to masquerade as anna
+*22:15:51 s  0 userlib.php->StartLogin> checking=anna, bypass=true
+*22:15:51 s  0 userlib.php->StartLogin> User "anna" used bypass feature to avoid password match.
+*22:15:51 s  8 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 8
+*22:15:51 s  8 userlib.php->StartLogin> >>>>>>>>>>> Collier, Anna
++> New Login!  UserName=anna,   UserID=8
++> IP Address= ::1    Tags=Member
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*22:15:51 p  8 welcome.php>  
+*22:15:53 p  8 reader.php>  
+*22:15:53 s  8 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*22:15:55 p  8 welcome.php>  
+*22:16:17 p  8 reader.php>  
+*22:16:18 p  8 attendance.php>  
+*22:16:18 s  8 userlib.php->CheckAdmin> User is not Admin!  Privilege  violation!
+*22:16:35 p  8 welcome.php>  
+*22:16:36 p  8 attendance.php>  
+*22:16:38 p  8 reader.php>  
+*22:16:39 p  8 setup.php>  
+*22:16:55 p  8 setup.php>  
+*22:16:55 s  8 userlib.php->UpdateUser> Info for User 8 updated by anna. 
+*22:16:58 p  8 setup.php>  
+*22:17:00 p  8 reader.php>  
+*22:17:01 p  8 attendance.php>  
+*22:17:03 p  8 logout.php>  
+*22:17:03 s  8 logout.php> Masquerade session is over.
+*22:17:03 s  0 logout.php> Attempting to re-login as dal
+*22:17:03 s  0 userlib.php->StartLogin> checking=dal, bypass=true
+*22:17:03 s  0 userlib.php->StartLogin> User "dal" used bypass feature to avoid password match.
+*22:17:03 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*22:17:03 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Editor/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*22:17:03 p  1 welcome.php>  
+*22:17:05 p  1 members.php>  
+*22:17:07 p  1 members_listpics.php>  
+*22:17:10 p  1 members_edituser.php>  
+*22:17:30 p  1 badges.php>  
+*22:21:23 p  1 badges.php>  
+*22:21:25 p  1 badges.php>  
+*22:21:26 p  1 badges.php>  
+*22:21:27 p  1 badges.php>  
+*22:21:27 p  1 badges.php>  
+*22:27:47 p  1 login.php>  
+*22:27:52 p  1 login.php>  
+*22:27:52 s  0 userlib.php->StartLogin> checking=dal, bypass=false
+*22:27:52 s  1 preflib.php->GetPrefsForUser> 0 preferences retrieved successfully for user 1
+*22:27:52 s  1 userlib.php->StartLogin> >>>>>>>>>>> Brandon, Dalbert
++> New Login!  UserName=dal,   UserID=1
++> IP Address= ::1    Tags=Member/Editor/Admin
++> Browser=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+*22:27:52 p  1 welcome.php>  
+*22:27:54 p  1 admin.php>  
+*22:27:58 p  1 admin_listusers.php>  
+*22:28:06 p  1 admin.php>  
+*22:28:07 p  1 welcome.php>  
+*22:28:07 p  1 login.php>  
+*22:28:13 p  1 login.php>  
+*22:50:34 p  1 badges.php>  
+*22:51:32 p  1 members.php>  
+*22:51:37 p  1 badges.php>  
+*22:51:51 p  1 badges.php>  
+*22:52:37 p  1 badges.php>  
+*22:53:33 p  1 members.php>  
+*22:53:37 p  1 members_list.php>  
+*22:53:39 p  1 members_edituser.php>  
+*23:56:24 p  1 admin.php>  
+*23:56:26 p  1 members.php>  
+*23:56:27 p  1 members_list.php>  
+*23:56:30 p  1 members_listpics.php>  
+*23:56:32 p  1 members_edituser.php>  
+*23:56:37 p  1 setup.php>  
+*23:56:38 p  1 admin.php>  
+*23:56:40 p  1 admin_showlog.php>  
+*23:56:41 p  1 admin_showlog.php>  
+*23:56:42 p  1 admin_masquerade.php>  
+*23:56:44 p  1 admin_listusers.php>  
+*23:56:45 p  1 admin_adduser.php>  
+*23:56:46 p  1 admin_uploadusers.php>  
+*23:56:50 p  1 badges.php>  
+*23:56:51 p  1 members.php>  

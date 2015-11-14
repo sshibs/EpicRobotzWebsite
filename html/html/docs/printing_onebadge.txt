@@ -1,0 +1,43 @@
+Instructions for Printing One Badge on Teslin Paper
+
+Some Info
+---------
+
+1. The paper stock is 4x6 inch sheets. These sheets
+have perforated cutouts for one badge in the center.
+
+2. All teslin paper can be printed on both sides.
+
+3. Use an ink-jet printer for printing.  Most teslin
+paper is not suited for laser printers.
+
+3. This website produces the badges in 300dpi resolution.
+
+4. A finished badge is 2.125 x 3.375 inches. 
+
+
+Steps to Produce the Printed Badge
+----------------------------------
+
+1. Download both the front and back images with the
+links above.  Put the files is an accessable directory
+on your PC.
+
+2. Use Word to do the printing.  Start a new, blank
+document in Word. 
+
+3. Set the page size to 4x6.
+
+4. Set the margins to zero on all sides.  Ignore any
+warnings.
+
+5. Drop the image into the page. Right click on the image
+and select "Size and Position".  Use the dialog box
+to set the size of the image to 6 inches high, and 4
+inchs wide.  It should then fill up the entire page.
+
+6. Print the image.  Word will warn you that the margins
+are not set right.  Continue without fixing them.
+
+7. Prepare the Word document in the same way for the back
+image, and feed teslin in reverse on the printer.

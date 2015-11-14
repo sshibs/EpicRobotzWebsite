@@ -1,0 +1,48 @@
+Instructions for Corrections
+
+A correction file can be uploaded to insert corrections
+into the reader data.  Each time this file is uploaded,
+it replaces all corrections from the past.
+
+The correction file is a csv file, with the following columns:
+
+Action, BadgeID, T0, Comment
+
+The first line of the file must have the above column headers,
+spelled exactly as shown. There can be more columns and the 
+columns can be out-of-order, but this line must be present.
+
+The columns are formatted as follows:
+
+  Action   -- The command, explained below.
+  BadgeID  -- The badge ID that this column pretains to.  Star ("*")
+              in this column means all badges.
+  T0       -- A time value in the format "yyyy-mm-dd hh:mm:ss"
+  Reason   -- A comment string, explaining why the correction is needed.
+              Cannot contain commas, unless entire comment is in quotes.
+  
+The action column can be one of the following:
+
+  "DeleteScan"   -- Delete all scans on the day which contains T0
+  "AddScanIn"    -- Adds a scan-in, at T0.
+  "AddScanOut"   -- Adds a scan-out, at T0.
+
+Note, the corrections are processed and applied in order, after the raw
+scans from the readers are loaded.  
+
+An example file might look like:
+
+Action,   BadgeID,                  T0, Reason
+DeleteScan,     *, 2015-01-02 10:00:00, Delete data before scanner active
+DeleteScan,     *, 2015-01-03 10:00:00, Delete data before scanner active
+AddScanIn,      *, 2015-01-03 09:00:00, Credit for everybody on kickoff day
+AddScanOut,     *, 2015-01-03 16:00:00, Scanouts for everybody on kickoff
+AddScanIn,      *, 2015-01-04 14:00:00, Credit for everybody on 2nd kickoff
+AddScanOut,     *, 2015-01-04 18:30:00, Scanouts for everybody 
+AddScanIn,      *, 2015-01-04 18:30:00, Credit n day we were locked out
+AddScanOut,  A004, 2014-01-07 18:00:00, Machine broken during scan out
+AddScanOut,  A015, 2014-01-07 18:00:00, Machine broke during scan out
+AddScanOut,  A017, 2014-01-07 18:00:00, Machine broke during scan out
+AddScanOut,  A012, 2014-01-07 18:00:00, Machine broke during scan out
+AddScanOut,  A013, 2014-01-07 18:00:00, Machine broke during scan out
+AddScanOut,  A028, 2014-01-07 18:00:00, Machine broke during scan out

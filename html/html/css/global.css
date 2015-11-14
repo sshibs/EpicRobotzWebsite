@@ -1,0 +1,212 @@
+/* --------------------------------------------------------------------
+** global.css -- CSS for entire EpicAdmin website goes here.
+**
+** Created 12/29/14 DLB
+** --------------------------------------------------------------------
+*/
+
+/* ------------ Global Settings */
+body {background-color: #cccccc; font: normal 12pt/14pt Arial, Univers, sans-serif; margin-top: 0; margin-right: 0;
+     margin-left: 0; }
+
+h1 {color: red; font-size: 18pt; font: Arial, Univers, sans-serif; }
+p {font-size: 14pt; font: Arial, Univers, sans-serif; padding: 5px; margin-right: 30px;}
+
+.page_title {font-size: 18pt; color: #444444; }
+
+/* ------------ For header.php */
+/* width of screen_area, menubar_area, and content_area set in header.php */
+#screen_area{ border: 5px; border-color: white; border-style: solid; 
+              background-color: #c78d57; margin: 0 auto; }
+#middle_area {margin: 5px; width: 100%}
+#nav_area {line-height: 30px; background-color: #bbbbbb; height: 500px; width: 100px;
+          float: left; padding: 5px}
+.nav_button {font-size: 12pt; font-weight: bold; margin-bottom: 10px; padding: 5px;}
+.nav_button a:link {text-decoration: none; }
+.nav_button a:visited {text-decoration: none; color: blue; }
+.nav_button a:active {text-decoration: none; }
+.nav_button a:hover {font-size: 12pt; font-weight: bold; color: yellow; }
+.content_area {float: left; padding: 5px;  background-color: #ffffff; min-height: 300px;}
+
+#header_banner {height: 40px; background-color: #c4ae68; margin-left: 0; margin-right: 0; margin-top: 0;}
+#header_writeable_area{width: 100%; }
+#header_website_name {float: left; font-size: 18pt; color: black; margin-left: 10px; 
+                      position: relative; top: 10px;}
+#header_website_name a:link {text-decoration: none; }
+#header_website_name a:visited {text-decoration: none; }
+#header_website_name a:hover {color: yellow}
+#header_login_area {float: right; font-size: 12pt; color: black;  margin-right: 15px; }
+#header_username_div {margin-left: 20px; margin-right: 0px;  float: left; text-align: right;}
+#header_logout_div {margin-left: 20px;  text-align: right; font-size: 10pt;}
+
+.menubar_area {float: left; padding: 5px; font-size: 10pt; background-color: #cccccc; height: 15px; }
+.menu_button   {float: left; margin-left: 10px; margin-right: 10px; }
+.menu_button a {font-size: 10pt; }
+.menu_button a:link {color: #0000CC; }
+.menu_button a:visited {color: #0000CC; }
+.menu_button a:hover {color: #0000FF; font-weight: bold;}
+.menu_button a:active {color: #FFFFFF; }
+
+/* ------------ For footer.php */
+
+#footer_area {margin-left: 30px; margin-right: 30px; width: 100%; height: 40px; clear: both;}
+#footer_msg  {color: green; font-size: 10pt; font: Arial, Univers, sans-serif; 
+        width:50%; margin-top: 20px; float: left;}
+#footer_home_link {margin-top: 20px; margin-left: 10px; margin-right: 40px; float: right;}
+#footer_masquerader {float: left; margin-top: 21px; font-size: 10pt; color: black; }
+#footer_timer {float: left; margin-top: 21px; margin-left: 20px; font-size: 10pt; color: black; }
+
+/* ------------ For login.php */
+
+.login_area   {width: 300px; margin-left: 100px; margin-top: 20px;}
+.login_label {width: 85px; float: left; margin-top: 15px;}
+.login_field {width: 200px; float: left; margin-top: 15px;}
+.login_button {margin-top: 30px; }
+
+#login_fail {color: red; }
+#welcome_area { margin-left: 20px; width: 90%; }
+
+/* ------------ For logout.php */
+#logout_msg {width: 500px; margin-left: 100px;}
+#login_link {width: 100px; margin-left: 100px;  height: 30px; 
+            border: 2px; border-color: white; border-style: solid;
+            font-size: 20pt; color: yellow; margin-top: 50px; margin-bottom: 30px;
+            background-color: blue; }
+#login_link a {position: relative; top: 5px; left: 14px;}
+#login_link a:link {text-decoration: none; color: yellow;}
+#login_link a:visited {text-decoration: none; color: yellow; }
+#login_link a:hover {font-size: 22pt; color: white; }
+
+/* ------------ For admin_listusers.php */
+.admin_userlist {font-size: 10pt; }
+.admin_userlist a {font-size: 10pt; }
+.admin_userlist a:link {color: #0000CC; }
+.admin_userlist a:visited {color: #0000CC; }
+.admin_userlist a:hover {color: #0000FF; font-weight: bold;}
+.admin_userlist a:active {color: #FFFFFF; }
+
+/* ------------ For members_listusers.php */
+.members_userlist {font-size: 10pt; }
+.members_userlist a {font-size: 10pt; }
+.members_userlist a:link {color: #0000CC; }
+.members_userlist a:visited {color: #0000CC; }
+.members_userlist a:hover {color: #0000FF; font-weight: bold;}
+.members_userlist a:active {color: #FFFFFF; }
+
+/* ------------ For members_listusers_form.php, members_uploadpic_form.php, 
+                members_edituser_form.php members_listpics.php */
+.members_toparea {display: block; margin-bottom: 15px; float: left; }
+                
+.members_paramlabel {display: inline; font-size: 12pt; color: #999999; }
+.members_paramvalue {display: inline; font-size: 14pt; font-weight: bold; color: black; 
+                     margin-left: 5px; margin-right: 20px; }
+.members_upload_link {display: inline; font-size: 12pt; color: black; margin-left: 20px; }
+.members_param_div{display: block; margin-top: 10px; }
+.members_showbadge_picarea {float: left; margin-left: 10px; margin-right: 10px; margin-top: 2px; }
+.members_showbadge_badge{width: auto; height: 100px; border: 1px; border-style: solid; border-color: black;}
+.members_badgelabel {font-size: 10pt; margin-left: 10px; }
+
+.members_picframe {margin: 5px; padding: 5px; border: 1px solid #0000ff;
+                  height: 100px; width: 90px; float: left; text-align: center; }
+
+.members_pic_div {float: left; margin: 2px; padding: 2px; border: 1px solid #0000ff;
+                  width: 90px; text-align: center; }                  
+
+.members_pic {display: block; width: 90%; height: 80%; }
+
+.members_pic img {display: inline; margin: 2px; border: 1px solid #ffffff; 
+                     max-width: 100%; max-height: 100%;}
+
+.members_piclabel  {text-align: center; font-weight: normal; width: 100%; margin-top: 5px; }
+
+.members_link_area {float: left; }
+.members_link_line {display: block; margin-bottom: 10px;}
+
+/* ------------ For badges_showbadge_form.php, badges_showall.php */
+.badges_showbadge_picarea {float: left; margin-right: 10px;}
+.badges_showbadge_badge{width: 180px; height: auto; border: 1px; border-style: solid; border-color: black;}
+.badges_badgelabel {font-size: 10pt; margin-left: 10px; }
+
+.badges_showbadge_memberInfo {float: left; width: 250px; }
+.badges_param_div   {display: block; height: 25px;}
+.badges_paramlabel {float: left; font-size: 12pt; color: #999999; width: 90px; height: 25px; }
+.badges_paramvalue {float: left; font-size: 14pt; font-weight: bold; color: black; 
+                     margin-left: 0px; margin-right: 20px; height: 25px;}
+                     
+.badges_params_link {display: block; font-size: 12pt; color: black; margin-top: 20px; margin-left: 20px; }
+.badges_params_link a:link {color: #0000CC; }
+.badges_params_link a:visited {color: #0000CC; }
+.badges_params_link a:hover {color: #0000FF; font-weight: bold;}
+.badges_params_link a:active {color: #FFFFFF; }
+
+.badges_badgeframe {margin: 5px; padding: 5px; 
+                  height: 120px; width: 70px; float: left; text-align: center; }
+.badges_pic {width: 65px; height: auto; border: 1px; border-style: solid; border-color: black;}
+.badges_pic img {width: 65px; height: auto; }
+.badges_badgelabel{ font-size: 8pt; }
+
+/* ------------ For renderlib.php, and the auto generated forms. */
+
+.inputform_area  {margin-top: 10px; margin-bottom: 10px; border: 2px; border-style: solid;
+                 border-color: blue; width: 90%;  max-width: 500px; padding: 10px; }
+
+.inputform_msg_area {width: 70%; float: left; font-size: 14pt; margin-left: 30px;}
+.inputform_msg{border: 2px; border-style: solid; border-color: green; width: 90%; max-width: 500px; 
+               padding-left: 10px; padding-right: 10px; padding-top: 4px; padding-bottom: 4px;
+               margin-bottom: 15px; margin-top: 10px; font-size: 14pt; font-style: bold;}
+#inputform_error_msg {color: red; }
+#inputform_success_msg {color: black; }
+
+
+.inputform_paramblock {display: block; width: 90%; padding: 2px;}
+.inputform_label {font-size: 12pt; margin-top: 5px; }
+
+.inputform_field {width: 100%; }
+.inputform_field input {width: 100%; }
+
+.inputform_text_field {font-size: 12pt; margin-top: 0px; margin-right: 10px; width: 100%; }
+.inputform_text_field input {width: 100%; }
+
+.inputform_selection {width: 100%; }
+.inputform_selection select { width: 100%; }
+
+.inputform_textarea {width: 100%; }
+.inputform_textarea textarea { width: 100%; }
+
+.inputform_boolean_paramblock { margin-top: 5px; width: 90%; }
+
+.inputform_boolean_area { margin-top: 5px; border: 2px; border-style: solid; border-color: gray; padding-top: 5px; }
+.inputform_boolean_label {display: inline; text-align: left; width: 15px; margin-left: 20px; position: relative; top: -5px;}
+.inputform_boolean_group {display: inline; width: 30%;}
+.inputform_boolean_field {display: inline; }
+.inputform_boolean_field input {display: inline; width: 20px; height: 20px; text-align: top; margin: 0px;}
+
+.inputfrom_instructions {padding: 0; margin: 0; }
+.inputfrom_instructions  p {font-size: 12pt; padding: 0; margin: 10px 0px 0px 0px; }
+
+.inputform_submit_button  {margin-top: 20px; width: 100px; font-size: 14pt; }
+
+/* ------------ For showlogform.php */
+.showlog_selection_area {border: 2px; border-style: solid; border-color: blue; padding: 10px;
+                        margin-right: 20px; font-size: 10pt; float: left; }
+.showlog_label {display: inline; }
+.showlog_load_button {margin-right: 15px; display: inline;}
+.showlog_date_area { display: inline; }
+.showlog_datelabel { display: inline; position: relative; top: 3px;}
+.showlog_date_field { display: inline; }
+.showlog_date_field  input{width: 85px; margin-left: 5px; margin-right: 15px; display: inline;}
+.showlog_checkbox {display: inline; margin-left: 10px;}
+.showlog_checkbox_with_text { display: inline; width: 150px; margin-left: 15px;}
+.showlog_IDLabel { display: inline; position: relative; top: 3px; }
+.showlog_uid_field { display: inline; }
+.showlog_uid_field  input {width: 40px; margin-left: 3px; display: inline;}
+.showlog_data {margin-left: 10px; margin-top: 20px; font-size: 10pt; font-family: monospace; }
+.showlog_error_message {margin-left: 10px; margin-top: 20px; font-size: 14pt; color: red; }
+
+/* ------------ For admin_masqueradeform.php */
+.admin_selection_area {border: 2px; border-style: solid; border-color: blue; padding: 10px;
+                        margin-right: 20px; font-size: 10pt; float: left; }
+.admin_masquerade_button {margin-right: 15px; display: inline;}
+.admin_data_area { display: inline; }
+.admin_datalabel   { display: inline; position: relative; top: 3px;}
+.admin_data_field { display: inline; }

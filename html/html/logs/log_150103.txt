@@ -1,0 +1,108 @@
+#01/03/2015 Saturday   Dals Development Computer
+*01:23:30 p  1 t.php>  
+*01:24:10 p  1 t.php>  
+*01:25:29 p  1 t.php>  
+*01:29:15 p  1 t.php>  
+*01:30:01 p  1 t.php>  
+*02:09:45 p  1 t.php>  
+*02:53:09 p  1 badges.php>  
+*02:53:09 p  1 badges_showall.php>  
+*02:58:39 p  1 t.php>  
+*02:58:54 p  1 t.php>  
+*02:59:06 p  1 t.php>  
+*02:59:17 p  1 t.php>  
+*02:59:29 p  1 t.php>  
+*02:59:42 p  1 t.php>  
+*03:00:30 p  1 t.php>  
+*04:18:34 p  1 members.php>  
+*04:18:34 p  1 members_listpics.php>  
+*04:18:40 p  1 members_edituser.php>  
+*04:18:43 p  1 members_uploadpic.php>  
+*04:18:59 p  1 members_uploadpic.php>  
+*04:19:00 s  1 piclib.php->StorePicture> Pic ID 115 Successfully Stored on server. (Elp=1223.42 ms.)
+*04:19:00 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 115, UserID = 15
+*04:19:03 p  1 members.php>  
+*04:19:03 p  1 members_listpics.php>  
+*04:19:13 p  1 members_edituser.php>  
+*04:19:14 p  1 members_uploadpic.php>  
+*04:19:22 p  1 members_uploadpic.php>  
+*04:19:23 s  1 piclib.php->StorePicture> Pic ID 116 Successfully Stored on server. (Elp=1196.64 ms.)
+*04:19:23 s  1 piclib.php->StoreUserPic> User Picture Successfully Stored. PicID= 116, UserID = 17
+*04:19:28 p  1 members.php>  
+*04:19:28 p  1 members_listpics.php>  
+*04:19:30 p  1 members_edituser.php>  
+*04:19:32 p  1 badges_showbadge.php>  
+*04:19:32 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*04:19:36 p  1 badges_showbadge.php>  
+*04:19:36 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Chris Dominik, BadgeID=A015.
+*04:19:39 p  1 members.php>  
+*04:19:39 p  1 members_listpics.php>  
+*04:19:43 p  1 members_edituser.php>  
+*04:19:45 p  1 badges_showbadge.php>  
+*04:19:45 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*04:19:48 p  1 badges_showbadge.php>  
+*04:19:48 s  1 badgeli.php->MakeBadge> Badge Successfully made for User= Rob Dominik, BadgeID=A017.
+*04:19:50 p  1 badges_showall.php>  
+*04:28:53 p  1 badges_makegif.php>  
+*04:28:55 p  1 badges_showall.php>  
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A001.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A002.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A003.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A004.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A005.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A006.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A007.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A008.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A009.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A010.
+*04:28:55 e  1 badgeli.php->MakeGif> PicID not given for UserID = 11
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A012.
+*04:28:55 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A013.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A014.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A015.
+*04:28:56 e  1 badgeli.php->MakeGif> PicID not given for UserID = 16
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A017.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A018.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A019.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A020.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A021.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A022.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A023.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A024.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A025.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A026.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A027.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A028.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A029.
+*04:28:56 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A030.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A031.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A032.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A033.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A034.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A035.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A036.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A037.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A038.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A039.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A040.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A041.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A042.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A043.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A044.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A045.
+*04:28:57 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A046.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A047.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A048.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A049.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A050.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A051.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A052.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A053.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A054.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A055.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A056.
+*04:28:58 s  1 badgeli.php->MakeGif> Image Successfully made for BadgeID= A057.
+*04:28:58 s  1 badges_showall.php->MakeAllBadges> All gif images made!
++> Images Made: 55, Members without BadgeIDs: 0, Failures: 2. (See sys log!)
+*04:29:08 p  1 admin.php>  
+*04:29:09 p  1 admin_showlog.php>  

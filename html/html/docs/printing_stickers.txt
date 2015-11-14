@@ -1,0 +1,20 @@
+Instructions for Printing Stickers
+
+These stickers are suitable for labeling
+were badges are to be hung or stored.  Their
+raw form is about the same size of a badge but
+without the barcode.  To print them:
+
+1. Download the sticker to your PC.
+
+2. Use Word to print them.  Start a new, blank
+document in Word.  
+
+3. Drag and drop the image onto the docuemnt.
+
+4. To keep the original size of the image, right 
+click on it, and select "Size and Position".  The
+image is 590x712 pixels, or about 2x2.4 inches.
+
+5. Adjust the size and postion according to your
+paper, and print.

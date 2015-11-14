@@ -4,8 +4,8 @@ Use EpicAdmin;
   drop table WorkOrders;  
 create Table WorkOrders (
    WorkOrderID int AUTO_INCREMENT PRIMARY KEY,
-   JobName varchar(40) NOT NULL UNIQUE,
-   DateRequested datetime,
+   WorkOrderName varchar(40) NOT NULL UNIQUE,
+   DateRequested DATE,
    DateNeeded date,
    Priority varchar(10),
    DayEstimate int,
@@ -19,6 +19,7 @@ create Table WorkOrders (
    ProjectOfficeApproval boolean,
    ReviewedBy varchar(80),
    AssignedTo varchar(80),
+   Completed boolean,
    CompletedOn date ); 
 
  drop table WorkOrderTasks; 
