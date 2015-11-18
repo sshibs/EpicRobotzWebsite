@@ -28,13 +28,14 @@ if( $_SERVER["REQUEST_METHOD"] == "GET")
     if($data === false) DieWithMsg($loc, 'Work Order with ID=' . $WorkOrderID . ' not found.');
     $WorkOrderID  = $data["WorkOrderID"];
     $WorkOrderName = $data["WorkOrderName"];
+    $Description = $data["Description"];
     $DateRequested  = $data["DateRequested"];
     $DateNeeded  = $data["DateNeeded"];
     $DayEstimate = $data["DayEstimate"];
     $Revision = $data["Revision"];
     $Requestor  = $data["Requestor"];
     $RequestingIPTLeadApproval  = $data["RequestingIPTLeadApproval"];
-    $AssignedIPTLeadApproval = $data["AssignedIPTLeadApproval"];	
+    $AssignedIPTLeadApproval = $data["AssignedIPTLeadApproval"];
     $Project  = $data["Project"];
     $Priority  = $data["Priority"];
     $RequestingIPTGroup = $data["RequestingIPTGroup"];
@@ -42,19 +43,15 @@ if( $_SERVER["REQUEST_METHOD"] == "GET")
     $ProjectOfficeApproval  = $data["ProjectOfficeApproval"];
     $ReviewedBy = $data["ReviewedBy"];
     $AssignedTo = $data["AssignedTo"];
-//	$Completed = $data["Completed"];
+    $Completed = $data["Completed"];
     $CompletedOn  = $data["CompletedOn"];
-}
-else
-{
-    DieWithMsg($loc, "Page should not be invoked by POST.");
 }
 
 GenerateHtml:
 include "forms/header.php";
 include "forms/navform.php";
 include "forms/workorders_menubar.php";
-include "forms/workorder_showworkorder_form.php";
+include "forms/workorders_showworkorder_form.php";
 include "forms/footer.php";
 
 ?>

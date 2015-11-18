@@ -1,6 +1,6 @@
 \<?php
 // --------------------------------------------------------------------
-// workorders_listids.php -- The main WorkOrders page. 
+// workorder_thisuser.php -- The main WorkOrders page. 
 //
 // Created: 11/10/15 SS
 // --------------------------------------------------------------------
@@ -21,7 +21,8 @@ echo '<h2>List of Known Work Order IDs</h2>';
 
 echo '<br>';
 echo '<h2>Completed Work Orders</h2>';
-$sql = 'SELECT * FROM WorkOrders WHERE Completed="1" ORDER BY DateNeeded';
+$user = GetUserName();
+$sql = 'SELECT * FROM WorkOrders WHERE Completed="1" AND AssignedTo = "' . $user . '" ORDER BY DateNeeded';
 //$sql = 'SELECT * FROM WorkOrders';
 $result = SqlQuery($loc, $sql);
 
@@ -53,7 +54,7 @@ if ($result->num_rows > 0) {
 	}
     echo "</table>\n";
     echo '<h2>Uncompleted Work Orders</h2>';
-}$sql = 'SELECT * FROM WorkOrders WHERE Completed="0" ORDER BY DateNeeded';
+}$sql = 'SELECT * FROM WorkOrders WHERE Completed="0" AND AssignedTo = "' . $user . '" ORDER BY DateNeeded';
 $result = SqlQuery($loc, $sql);
 
 if ($result->num_rows > 0) {

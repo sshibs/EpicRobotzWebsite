@@ -11,7 +11,7 @@ require_once "libs/all.php";
 
 echo '<div id="nav_area">';
                echo '<div class="nav_button"><a href="attendance.php">Attendance</a></div>' . "\n";
-	       echo '<div class="nav_button"><a href="workorder_addnew.php">Work Orders</a></div>' . "\n";
+	       echo '<div class="nav_button"><a href="workorders_addnew.php">Work Orders</a></div>' . "\n";
 if(IsEditor()) echo '<div class="nav_button"><a href="members.php"   >Members   </a></div>' . "\n";
 if(IsEditor()) echo '<div class="nav_button"><a href="badges.php"    >Badges    </a></div>' . "\n";
 if(IsEditor()) echo '<div class="nav_button"><a href="reader.php"    >Reader    </a></div>' . "\n";
